@@ -1,0 +1,99 @@
+SUB1
+
+{
+	type "bark"
+	descr "Droid"
+	sub pd1amb_1 { text "Uh! O que foi isso?" }
+	sub pd1amb_2 { text "Uh! Cessar e desistir." }
+	sub pd1amb_3 { text "Quem fez isso?" }
+	sub pd1amb_4 { text "Quão desamigavel." }
+	sub pd1amb_5 { text "Pare com isso, porfavor." }
+	sub pd1at0_1 { text "É só uma questão de procedimentos, realmente. Muitas pessoas não parecem entender." }
+	sub pd1at0_2 { text "Este lugar é uma completa bagunca." }
+	sub pd1at0_3 { text "Quem escolheu as cores? eu não gosto nem um pouco." }
+	sub pd1at0_4 { text "Eu sou uma unidade de serviço TriOptimum completamente registrada." }
+	sub pd1at2_1 { text "Poderia lhe mostrar algum dos nossos produtos de cuidados pessoais?" }
+	sub pd1at2_2 { text "Olá. Posso ajudar?" }
+	sub pd1at2_3 { text "Eu poderia jurar que havia alguém olhando para mim." }
+	sub pd1at2_4 { text "Me perdoe. Porfavor, reafirme qualquer pedido." }
+	sub pd1at2_5 { text "Com licenca?" }
+	sub pd1at3_1 { text "Onde ele foi? Oh." }
+	sub pd1at3_2 { text "Senhor, onde você está?" }
+	sub pd1at3_3 { text "Me desculpe, eu não vi onde você foi." }
+	sub pd1at3_4 { text "Espere! Volte!" }
+	sub pd1at3_5 { text "Xerxes não vai gostar disso." }
+	sub pd1bak_1 { text "Que vergonha, Que vergonha." }
+	sub pd1bak_2 { text "Parece nunca haver ninguém hoje em dia." }
+	sub pd1bak_3 { text "Ninguém. E eu tinha esperanca de ser util." }
+	sub pd1bak_4 { text "Suponho que eles devem me chamar se eles retornarem." }
+	sub pd1bak_5 { text "Tsk, tsk. Pessoas são tão tímidas." }
+	sub pd1bod_1 { text "Necessita de uma recarga?" }
+	sub pd1bod_2 { text "Parece que você sofreu de um malfuncionamento." }
+	sub pd1bod_3 { text "Sua performance não parece ideal. Posso ajudar?" }
+	sub pd1bod_4 { text "Está é a sua condição de funcionamento desejada?" }
+	sub pd1bod_5 { text "Eu não quero ser rude, mas, alguma coisa parece errada." }
+	sub pd1bod_6 { text "Posso ajuda-lo?" }
+	sub pd1chg_1 { text "Está é a maneira TriOptimum!" }
+	sub pd1chg_2 { text "Logo em frente, senhor!" }
+	sub pd1chg_3 { text "Eu não queria dizer mas,essa escolha é maravilhosa!" }
+	sub pd1chg_4 { text "Oh, muito bom, senhor!" }
+	sub pd1chg_5 { text "Eu tenho certeza que isso é exatamente que você estava procurando!" }
+	sub pd1hhi_1 { text "Uh! tenho certeza que isto tudo é penas um mal entendido." }
+	sub pd1hhi_2 { text "Uh! Deus do ceu!" }
+	sub pd1hhi_3 { text "Uh! Porfavor não faça isso denovo." }
+	sub pd1hhi_4 { text "Uh!" }
+	sub pd1hlo_1 { text "Eu-eu-eu peço seu perdão." }
+	sub pd1hlo_2 { text "Minha performance sofrerá em breve." }
+	sub pd1hlo_3 { text "Isso não é util." }
+	sub pd1los_1 { text "Tenho medo de não poder te ajudar se você esconder." }
+	sub pd1los_2 { text "Senhor, senhor! Não há cobrança. volte." }
+	sub pd1los_3 { text "Aww, Eu descartei um cliente. Provavelmente vou ser rebaixado." }
+	sub pd1los_4 { text "Isto é terrivel. Isso não vai fazer nada." }
+	sub pd1los_5 { text "Se o meu serviço for insatisfatório, porfavor anote meu numero de ID." }
+	sub pd1run_1 { text "Porfavor, pare." }
+	sub pd1run_2 { text "Só um momento, senhor." }
+	sub pd1run_3 { text "Porfavor espere aqui, e um empregado estará com você em breve." }
+	sub pd1to1_1 { text "Alguém está esperando por mim?" }
+	sub pd1to1_2 { text "Olá?" }
+	sub pd1to1_3 { text "Sim?" }
+	sub pd1to1_4 { text "Tem um cliente ai?" }
+	sub pd1to1_5 { text "Posso ajudar? Ah, tem alguém ai?" }
+	sub pd1to2_1 { text "Não há necessidade se esconder." }
+	sub pd1to2_2 { text "Venha, venha. Não há uma fila." }
+	sub pd1to2_3 { text "Posso ajudar?" }
+	sub pd1to2_4 { text "Venha logo. Não seja tímido." }
+	sub pd1to2_5 { text "O que eu posso fazer por... Onde está você senhor?" }
+	sub pd1to3_1 { text "Estou a seu dispor." }
+	sub pd1to3_2 { text "Já estou chegando, senhor!" }
+	sub pd1to3_3 { text "Bem-vindo a bordo!" }
+	sub pd1to3_4 { text "Precisa de ajuda para procurar alguma coisa?" }
+	sub pd1to3_5 { text "Deixe me ajudar com isso, senhor." }
+}
+
+{
+	type "nonverbal"
+	descr "Droid"
+	sub pd1at0_5 { text "[Zumbido]" }
+	sub pd1att1 { text "[Aproximando]" }
+	sub pd1att2 { text "[Aproximando]" }
+	sub pd1att3 { text "[Aproximando]" }
+	sub pd1att4 { text "[Aproximando]" }
+	sub pd1att5 { text "[Aproximando]" }
+	sub pd1att6 { text "[Aproximando]" }
+	sub pd1att7 { text "[Aproximando]" }
+	sub pd1die_1 { text "[Destruído]" }
+	sub pd1die_2 { text "[Destruído]" }
+	sub pd1hhi_5 { text "[Danificado]" }
+	sub pd1hlo_4 { text "[Danificado]" }
+	sub pd1hlo_5 { text "[Danificado]" }
+	sub pd1nz0 { text "[parado]" }
+	sub pd1nz1 { text "[parado]" }
+	sub pd1nz2 { text "[parado]" }
+	sub pd1nz3 { text "[parado]" }
+	sub pd1nz4 { text "[parado]" }
+	sub pd1nz5 { text "[parado]" }
+	sub pd1nz6 { text "[parado]" }
+	sub pd1nz7 { text "[parado]" }
+	sub pd1nz8 { text "[parado]" }
+	sub pd1nz9 { text "[parado]" }
+}

@@ -1,0 +1,106 @@
+SUB1
+
+{
+	type "bark"
+	descr "midwife"
+	multisub {time 600 length 1500 }
+	
+	sub	"mw1amb_1" { text "Ah! isso dói!" }
+	sub	"mw1amb_2" { text "Eu vou fazer você parar." }
+	sub	"mw1amb_3" { text "Quem se atreve?" }
+	
+	sub	"mw1at0_1" { text "Me preocupo muito pelos meus pequenos." }
+	sub	"mw1at0_2" { text "Pequeninos precisam de muita carne para crescerem grandes e fortes." }
+	sub	"mw1at0_3" { text "Eles crescem tão rápido..." }
+	sub	"mw1at0_4" { text "Pequeninos precisam de muito cuidado." }
+	
+	sub	"mw1at2_1" { text "Deve estar bem abaixo do meu nariz." }
+	sub	"mw1at2_2" { text "Saia... saia... saia." }
+	sub	"mw1at2_3" { text "Vou te machucar." }
+	sub	"mw1at2_4" { text "Não precisa ter medo." }
+	sub	"mw1at2_5" { text "Nos vamos te encontrar." }
+	
+	sub	"mw1at3_1" { text "Onde ele foi?" }
+	sub	"mw1at3_2" { text "Esta bem, pode sair." }
+	sub	"mw1at3_3" { text "Não chegue perto das crianças." }
+	sub	"mw1at3_4" { text "Não vamos te machucar muito." }
+	sub	"mw1at3_5" { text "Você esta perdendo toda a diversão." }
+		
+	sub	"mw1bak_1" { text "Não quero ouvir um piu." }
+	sub	"mw1bak_2" { text "Não ha nada aqui. mamãe se preocupa muito." }
+	sub	"mw1bak_3" { text "Tudo tranquilo agora." }
+	sub	"mw1bak_4" { text "Para onde foi?" }
+	sub	"mw1bak_5" { text "Hmmm." }
+		
+	sub	"mw1bod_1" { text "Eu vou matá-lo por isso." }
+	sub	"mw1bod_2" { text "Eu vou sangrar por isso." }
+	sub	"mw1bod_3" { text "Eu vou parti-lo em dois." }
+	sub	"mw1bod_4" { text "Por isso vou cortar ele ao meio." }
+	sub	"mw1bod_5" { text "Isso não e aceitável." }
+	
+	sub	"mw1chg_1" { text "Para meus pequenos." }
+	sub	"mw1chg_2" { text "Eu vou arrancar sua espinha." }
+	sub	"mw1chg_3" { text "Ah sim, vem aqui." }
+	sub	"mw1chg_4" { text "Você é meu... agora" }
+	sub	"mw1chg_5" { text "Tenho seus remédios." }
+	
+	sub	"mw1hit_1" { text "Volte!" }
+	sub	"mw1hit_2" { text "Eu vou fazer você em pedaços." }
+	sub	"mw1hit_3" { text "Isto machuca, não?" }
+	sub	"mw1hit_4" { text "Vá embora!" }
+	sub	"mw1hit_5" { text "Como sente isto?" }
+	
+	sub	"mw1los_1" { text "Nos teme." }
+	sub	"mw1los_2" { text "Não voltará." }
+	sub	"mw1los_3" { text "Pagará por isto."    }
+	sub	"mw1los_4" { text "Nada do que se preocupar." }
+	sub	"mw1los_5" { text "Meu trabalho é me preocupar." }
+	
+	sub	"mw1to1_1" { text "Algo fede." }
+	sub	"mw1to1_2" { text "Oque é aquilo?" }
+	sub	"mw1to1_3" { text "Não deve perturbar os pequenos." }
+	sub	"mw1to1_4" { text "Tem algo ai?" }
+	sub	"mw1to1_5" { text "Shhh! quem acorda meus preciosos?" }
+	
+	sub	"mw1to2_1" { text "Isto não vai doer." }
+	sub	"mw1to2_2" { text "Posso sentir você." }
+	sub	"mw1to2_3" { text "Aqui estou." }
+	sub	"mw1to2_4" { text "As crianças não gostam de você." }
+	sub	"mw1to2_5" { text "O horario de visita acabou." }
+	
+	sub	"mw1to3_1" { text "Trouxe algo para você." }
+	sub	"mw1to3_2" { text "Vou cortar você ao meio." }
+	sub	"mw1to3_3" { text "Hora de testar seus reflexos." }
+	sub	"mw1to3_4" { text "Afaste das crianças." }
+	sub	"mw1to3_5" { text "Eu o farei sangrar agora." }
+		
+}
+{
+	type "nonverbal"
+	descr "Midwife"
+	sub f_mwlas4 { text "[Atirando]" }
+	
+	sub mw1at0_5 { text "[Zumbido]" }
+	
+	sub mw1die_1 { text "[Grito De Morte]" }
+	sub mw1die_2 { text "[Grito De Morte]" }
+	
+	sub mw1hhi_1 { text "[Grunhido]" }
+	sub mw1hhi_2 { text "[Grunhido]" }
+	sub mw1hhi_3 { text "[Grunhido]" }
+	sub mw1hhi_4 { text "[Grunhido]" }
+	sub mw1hhi_5 { text "[Grunhido]" }
+	
+	sub mw1hlo_1 { text "[Grito De Dor]" }
+	sub mw1hlo_2 { text "[Grito De Dor]" }
+	sub mw1hlo_3 { text "[Grito De Dor]" }
+	sub mw1hlo_4 { text "[Grito De Dor]" }
+	
+	sub mwservo1 { text "[Parado]" }
+	sub mwservo2 { text "[Parado]" }
+	sub mwservo3 { text "[Parado]" }
+	sub mwservo4 { text "[Parado]" }
+	sub mwservo5 { text "[Parado]" }
+	sub mwservo6 { text "[Parado]" }
+	sub mwservo7 { text "[Parado]" }
+}

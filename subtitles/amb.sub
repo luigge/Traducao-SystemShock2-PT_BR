@@ -1,0 +1,53 @@
+SUB1
+
+{
+	type "convo"
+	descr "ValueRep"
+	sub replic1e { text "Olá, porfavor faça sua escolha" }
+	sub replic2e { text "Obrigado por escolher ValueRep." }
+	multisub replic3e {
+		{ time 00 length 2200 text "Esperamos que tenha se divertido replicando conosco." }
+		{ time 2400 length 3000 text "Lembre-se, Terça tem replicação em dobro." }
+	}
+}
+
+{
+	type "convo"
+	descr ""
+	multisub comp_mal {
+		{ time 4900 length 1600 text "Mal funcionamento do computador." }
+	}
+}
+
+{
+	type "bark"
+	descr "SHODAN"
+	sub shodoor1 { text "Humano." }
+	sub shodoor7 { text "Humano." }
+	sub shodoor9 { text "Inseto." }
+}
+
+{
+	type "bark"
+	descr "Grunt"
+	sub grhelp1 { text "Me ajude." }
+	sub grhelp2 { text "Alguem me ajude." }
+	sub grhelp3 { text "Me ajude." }
+}
+
+{
+	type "nonverbal"
+	descr ""
+	sub baby1 { text "[Bebe Chorando]" }
+	sub baby2 { text "[Bebe Chorando]" }
+	sub classic { text "[Musica Clássica]" }
+	sub screamf1 { text "[Mulher Gritando]" }
+	sub screamf2 { text "[Mulher Gritando]" }
+	sub screamf3 { text "[Mulher Gritando]" }
+	sub screamg1 { text "[Mulher Gritando]" }
+	sub screamm1 { text "[Homem Gritando]" }
+	sub screamm2 { text "[Homem Gritando]" }
+	sub screamm3 { text "[Homem Gritando]" }
+	sub toilet { text "[Vaso sanitário dando descarga]" }
+}
+

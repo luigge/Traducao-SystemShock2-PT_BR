@@ -1,0 +1,456 @@
+SUB1
+
+{
+	type "convo"
+	descr "PA"
+	singleton
+
+	multisub trg0001 {
+		{ time 00 length 3000 text "Bem vindo a instalação de recrutamento do centro Ramsey da UNN." }
+		{ time 3000 length 2200 text "Porfavor olhe onde pisa quando sair do trem." }
+		{ time 5200 length 4700 text "Os elevadores gravitacionais no fim do corredor vão te levar para o centro térreo de treino e recrutamento." }
+		{ time 10000 length 2200 text "Porfavor dirija-se aos elevadores gravitacionais." }
+	}
+
+	sub trg0002 { text "Entre nos elevadores gravitacionais e prossiga para o recrutamento terreo." }
+}
+
+{
+	type "convo"
+	descr "Trainer"
+
+	multisub trg0004 {
+		{ time 00 length 3800 text "Antes de escolher sua carreira, você vai querer aprender algumas habilidades básicas." }
+		{ time 3800 length 2450 text "Primeiro, você deveria ir para o Centro de Treinamento Básico." }
+		{ time 6270 length 3700 text "Quando estiver terminado o Treinamento Básico, prossiga para a área de Treino Avançado." }
+	}
+
+	multisub trg0014 {
+		{ time 00 length 4400 text "Se você completou o treinamento básico, você está pronto para as lições avancadas providas aqui." }
+		{ time 4500 length 4700 text "O treinamento avançado vai familiarizar você com as três áreas do serviço militar..." }
+		{ time 9160 length 4000 text "Treinamento com armas, treinamento técnico e treinamento psiônico." }
+		{ time 13170 length 3500 text "Aproxime-se da cabine de link cibernético de sua escolha para treinar naquela área." }
+		{ time 16800 length 7000 text "Quando estiver terminado o treinamento nas três áreas, prossiga diretamente para o centro de recrutamento para escolher e começar a sua carreira militar." }
+	}
+
+	multisub trg0031 {
+		{ time 00 length 2000 text "Aqui é aonde você faz a sua escolha, soldado." }
+		{ time 2000 length 3000 text "Aqui é aonde você se alista em uma das três áreas militares." }
+		{ time 5000 length 3700 text "Uma vez que você decidiu a sua área de serviço, não há volta." }
+		{ time 8700 length 6100 text "Um Onibus Espacial vai te levar para a estação da UNN em orbita, Onde você receberá um resumo sobre suas publicações anuais." }
+		{ time 15000 length 1000 text "Boa sorte." }
+	}
+
+	// Basic training
+
+	multisub trg0005 {
+		{ time 600 length 4700 text "Para adiquirir algumas habilidades básicas você precisará passar pelo serviço, entre nessa cabine de link cibernético." }
+		{ time 5500 length 3200 text "Dentro você vai aprender as habilidades básicas que você nessessita para começar." }
+	}
+
+	multisub trg0006 {
+		{ time 00 length 1000 text "Bem-vindo Estagiário." }
+		{ time 1200 length 4900 text "Enquanto você estiver em nossos cursos de treinamento virtual, nós provemos você com uma interface cibernetica simulada." }
+		{ time 6370 length 4800 text "Esta interface de treinamento é idêntica a uma real interface cibernetica de nível militar." }
+	}
+
+	multisub trg0007 {
+		{ time 00 length 1800 text "Agora vamos testar." }
+		{ time 2100 length 1000 text "Mova o mouse." }
+		{ time 3700 length 1700 text "Vê como muda quando você olha?" }
+		{ time 5900 length 1600 text "Isto significa que você está no modo de tiro." }
+		{ time 8200 length 1000 text "Pressione o botão do meio do mouse." }
+		{ time 10300 length 4500 text "Isto coloca você no modo de Uso, onde você pode usar o seu mouse para interagir com os itens no mundo." }
+		{ time 16160 length 7000 text "Abra a sua janela de multi-função principal - (MFD em ingles) clicando no botão da MFD no canto inferior direito da tela." }
+		{ time 24570 length 2800 text "Essa janela mostra suas habilidades em várias áreas." }
+		{ time 27600 length 3700 text "Quando estiver pronto para continuar, pressione o botão do meio para voltar para o modo de tiro." }
+		{ time 32200 length 2860 text "Tente mudar entre os modos ate você pegar o jeito." }
+		{ time 35800 length 3500 text "Siga o caminho vermelho no chão para a próxima estação de treinamento." }
+	}
+
+	multisub trg0008 {
+		{ time 00 length 5560 text "Para usar itens como botões e computadores, centralize sua tela neles e clique com o botão direito do mouse." }
+		{ time 5920 length 2380 text "Todos os itens utilizáveis terão colchetes ao redor deles." }
+		{ time 8910 length 2500 text "Olhe para o botão no pilar e pressione o botão direito." }
+		{ time 11600 length 1500 text "Isto vai ativar a plataforma." }
+		{ time 13800 length 700 text "Tente." }
+		{ time 16300 length 3800 text "Se você ainda consegue ver a janela do inventário, significa que você está no modo de uso." }
+		{ time 20500 length 2000 text "Pressione o botão do meio para voltar para o modo de tiro." }
+	}
+
+	multisub trg0009 {
+		{ time 00 length 3800 text "Para pegar itens, centralize a tela neles e pressione o botão direito." }
+		{ time 3890 length 2930 text "Isto vai automaticamente colocar este item no seu inventário." }
+		{ time 7170 length 2800 text "Para ver o seu inventário pressione o botão do meio do mouse." }
+		{ time 10150 length 4510 text "Você pode mover os itens pelo seu inventário clicando com o botão esquerdo do mouse e arrastando eles." }
+		{ time 15000 length 5150 text "Para soltar um item para o chão, arraste ele para fora do seu inventário." }
+	}
+
+	multisub trg0010 {
+		{ time 00 length 1600 text "Vê aquela caixa na sua frente?" }
+		{ time 1900 length 2900 text "Para examinar, centralize a sua tela e clique com o botão direito." }
+		{ time 5020 length 4120 text "Se você estiver no modo uso, simplesmente mova o ponteiro para a caixa e clique com o botão direito." }
+		{ time 9440 length 3260 text "Para pegar um item deste contêiner simplesmente clique com o botão esquerdo." }
+		{ time 12870 length 2840 text "Isto vai automaticamente colcoar o item no seu inventário." }
+		{ time 15980 length 4170 text "Para fexar a janela do contêriner e voltar para o modo de tiro pressione o botão do meio do mouse." }
+	}
+
+	multisub trg0011 {
+		{ time 00 length 2500 text "Agora é hora de aprender como pular e escalar." }
+		{ time 2700 length 2500 text "Para pular simplesmente pressione a barra de espaço." }
+		{ time 6050 length 3940 text "Algumas superfícies podem ser escaladas segurando a barra de espaço." }
+		{ time 10740 length 4410 text "Eslcalar permite você alcancar bordas e outros lugares altos na sua frente." }
+		{ time 15690 length 1020 text "Faça uma tentativa." }
+	}
+
+	multisub trg0012 {
+		{ time 00 length 3300 text "Para subir uma escada simplesmente vá ate ela e ande olhando para cima." }
+		{ time 3600 length 2500 text "você vai começar automaticamente a subir a escada." }
+	}
+
+	multisub trg0032 {
+		{ time 00 length 2300 text "O objeto a sua frente é um Hipo Médico." }
+		{ time 2500 length 2700 text "Pegue o e pressione o botão do meio e vá para o modo de uso." }
+		{ time 5700 length 4300 text "Clicando com o botão do meio no Hipo Médico irá usá-lo e restaurar alguns pontos de vida necessários." }
+		{ time 10500 length 4000 text "Os seus pontos de vida são exibidos por uma barra no canto inferior esquerdo da sua tela (barra azul)." }
+		{ time 15000 length 3900 text "Muitos objetos no seu inventário podem ser utilizados clicando com o botão direito neles." }
+	}
+
+	multisub trg0033 {
+		{ time 00 length 3600 text "Uma das ferramentas mais importantes que você tem como soldado é o seu PDA - (Assistente Pessoal Digital)." }
+		{ time 4000 length 4000 text "Este dispositivo guarda registro de áudios, emails, e outras informações uteis." }
+		{ time 8700 length 4000 text "Clique no icone de disco no canto inferior direito da sua tela para abrir a janela do seu PDA." }
+		{ time 13300 length 3000 text "No momento o conteudo do seu PDA está vazio." }
+		{ time 16700 length 2300 text "Agora pegue aquele registro de áudio na sua frente." }
+	}
+
+	multisub trg0013 {
+		{ time 600 length 900 text "você fez tudo certo." }
+		{ time 1900 length 6400 text "Lembre-se, se você estiver com dúvidas em algum aspecto do que você acabou de aprender, você pode repetir o treinamento quantas vezes desejar." }
+	}
+
+	// Treinamento com armas
+
+	multisub trg0015 {
+		{ time 650 length 6200 text "Então aspirante, se você quiser aprender as habilidades de armas necessárias para sequer pensar em se juntar aos Fuzileiros Navais, entre." }
+		{ time 7200 length 1500 text "Estamos a procura de alguns bons homens." }
+	}
+
+	multisub trg0016 {
+		{ time 00 length 1400 text "Bom ter você a bordo." }
+		{ time 1700 length 8900 text "Você vai perceber quando estiver na cabine de link cibernético que a UNN gentilmente proveu você com uma ciber-interface virtual e todo os níveis de habilidades simuladas que você precisa para as tarefas de treinamento." }
+		{ time 10800 length 3400 text "Mas não fique tão pretencioso. Elas vão desaparecer assim que você deixar a cabine." }
+	}
+
+	multisub trg0017 {
+		{ time 00 length 2100 text "Agora eu vou te ensinar como segurar uma arma de fogo." }
+		{ time 2500 length 4900 text "Pegue a pistola e o pente na mesa. você pode equipar a arma em uma de duas maneiras." }
+		{ time 7700 length 5800 text "Abra o seu inventário e arraste a pistola para o espaço reservado para armas." }
+		{ time 13800 length 4500 text "Se isso for muito lento para você, você pode usar o atalho no teclado, pressione a tecla 2 (numero 2 no teclado)." }
+		{ time 18900 length 3700 text "Se a pistola estiver no seu inventário, irá equipar automaticamente." }
+		{ time 23000 length 6300 text "Para travar e carregar o pente pressione a tecla R ou pressione o botão de carregamento no canto inferior direito da tela." }
+		{ time 29700 length 6100 text "Uma vez que tiver carregado a arma, dê um tiro no robô de teste pressionando o botão esquerdo enquanto estiver no modo tiro." }
+		{ time 36500 length 3100 text "Perceba como a barra de vida dele fica menor a medida que você o enfraquece." }
+	}
+
+	multisub trg0018 {
+		{ time 00 length 3500 text "Alguns itens precisam ser carregados com energia antes de serem usados." }
+		{ time 3900 length 3800 text "Pegue sua pistola a laser. Agora use a estação de carregamento próxima." }
+		{ time 8100 length 3500 text "A estação de recarga irá recarregar todos os seu itens que usam energia." }
+		{ time 11800 length 2500 text "Armas, Baterias, você nomeia." }
+	}
+
+	multisub trg0019 {
+		{ time 00 length 3600 text "Armas não são vinhos finos. Elas não ficam melhor com o tempo." }
+		{ time 3900 length 4700 text "O ponto colorido no canto inferior direito mostra o estado da sua arma." }
+		{ time 8800 length 1900 text "Verde é bom. Vermelho é ruim." }
+		{ time 11200 length 6600 text "Para lutar contra o desgaste, um soldado com habilidades em manutenção pode usar uma ferramenta de manutenção para aprimorar o estado da sua arma." }
+		{ time 18500 length 4300 text "Apenas pegue a ferramenta, abra o inventário e arraste ela para cima de sua arma." }
+		{ time 23100 length 3800 text "Lembre-se que as ferramentas de manutenção só servem para serem usadas uma vez." }
+	}
+
+	multisub trg0020 {
+		{ time 500 length 2400 text "Bom trabalho, agora você está pronto para ser um Fuzileiro Naval." }
+		{ time 3500 length 2900 text "Dê uma olhada nas outras áreas de treinamento antes de você se alistar." }
+		{ time 6800 length 1200 text "Elas podem ser de grande ajuda." }
+	}
+
+	// Treinamento tecnico
+
+	multisub trg0021 {
+		{ time 600 length 3800 text "Dentro, nós vamos te ensinar o básico de algumas habilidades técnicas que você vai precisar na Marinha." }
+	}
+
+	multisub trg0022 {
+		{ time 100 length 1500 text "Bem-vindo." }
+		{ time 1200 length 7300 text "você vai perceber quando estiver dentro da cabine de link cibernético que nós vamos prover você com uma ciber-interface temporária e as habilidades necessárias para completar as tarefas de treino." }
+		{ time 8800 length 2600 text "Mas elas durarão o tempo que estiver dentro da cabine." }
+	}
+
+	multisub trg0023 {
+		{ time 00 length 2700 text "O objeto que está em sua frente é um contêiner de nanites (dinheiro do jogo)." }
+		{ time 2900 length 4900 text "Nanites são consumidos toda vês que você realizar tarefas técnicas como hackear ou reparar." }
+		{ time 8200 length 8200 text "Quando você pega um conteiner de nanites, eles não vão para o seu inventário, ao inves disso, são mostrados no modo uso no canto inferior esquerdo da sua tela." }
+		{ time 17000 length 3000 text "Ande ate o teclado próximo à porta e tente hackear." }
+	}
+
+	multisub trg0034 {
+		{ time 00 length 1800 text "Use o teclado clicando com o botão direito nele." }
+		{ time 2300 length 3300 text "A direita do teclado numérico, você verá uma botão laranja escrito Hack." }
+		{ time 6000 length 1100 text "Clique com o botão esquerdo no botão." }
+		{ time 7800 length 3600 text "Um texto vai aparecer indicando o preço a dificuldade do hack e os bonus que aplica." }
+		{ time 12400 length 1800 text "Clique no botão Start para comecar a hackear." }
+		{ time 14900 length 1400 text "você verá uma grade de nódulos (quadrados)." }
+		{ time 16500 length 2500 text "Clicando em um nodulo vai tornar ele claro ou escuro." }
+		{ time 20000 length 3900 text "Para hackear com sucesso, você deve conectar três nódulos claros em sequência." }
+		{ time 24500 length 2500 text "Tenha cuidado com os nódulos ICE com o contorno vermelho." }
+		{ time 27400 length 5300 text "Se um deles ficar escuro, você falha o hack e pode quebrar o item que você está trabalhando ou pode acontecer algo pior." }
+		{ time 33500 length 5900 text "Você pode recomecar a tentativa de hack a qualquer momento clicando no botão Reset. No entanto, você terá que pagar novamente." }
+	}
+
+	multisub trg0024 {
+		{ time 00 length 2900 text "Você pode usar os nanites para comprar itens dos replicadores." }
+		{ time 3100 length 2100 text "Para usar um replicador clique nele com o botão direito." }
+		{ time 5600 length 2200 text "E depois clique com o botão esquerdo no item que deseja comprar." }
+		{ time 8300 length 2500 text "O item que você comprou será despejado no compartimento abaixo." }
+		{ time 11500 length 2600 text "Tenha certeza que você pegou suas compras antes de partir." }
+	}
+
+	multisub trg0025 {
+		{ time 600 length 1900 text "Você aprendeu o básico das habilidades técnicas." }
+		{ time 3000 length 6000 text "Existem varias outras habilidades técnicas que você vai aprender ao longo do curso da sua carreira, como reparar itens e modificar armas." }
+		{ time 9500 length 3500 text "As interfaces cibernéticas para estas tarefas são similares as interfaces de hack." }
+		{ time 13500 length 3200 text "Antes de se alistar na Marinha, tente outros cursos de treinamento." }
+		{ time 17000 length 700 text "Eles serão bem uteis." }
+	}
+
+	// Treinamento Psiônico
+
+	multisub trg0026 {
+		{ time 700 length 3000 text "Dentro você vai aprender como alcancar sua mente." }
+		{ time 4200 length 2100 text "Não deixe o medo bloquear o seu caminho." }
+	}
+
+	multisub trg0027 {
+		{ time 00 length 6600 text "Nós provemos você com uma interface virtual e a habilidade temporária para projetar poderes psíquicos simulados." }
+		{ time 7000 length 3900 text "Uma vez que sair desta área estes poderes serão perdidos." }
+	}
+
+	multisub trg0028 {
+		{ time 00 length 4900 text "A barra vermelha no canto inferior esquerdo mostra quantos pontos psiônicos você tem." }
+		{ time 5200 length 4300 text "Pontos psiônicos simbolizam a habilidade atual de usar os seus poderes psíquicos." }
+		{ time 9800 length 2900 text "Hipos Psiônicos reabastecem os seus pontos psiônicos." }
+		{ time 13000 length 4000 text "Tente usar um Hipo Psiônico e veja os seus pontos psiônicos aumentarem." }
+		{ time 17400 length 4000 text "Quando você chegar ao maximo nos pontos psiônicos, mova para a próxima estação." }
+	}
+
+	multisub trg0029 {
+		{ time 00 length 5500 text "Este apmlificador psiônico amplifica o seu poder psíquico e permite projetar ele no mundo real." }
+		{ time 5800 length 3700 text "Para equipar, pegue ele e pressione a tecla til (~)." }
+		{ time 10000 length 4300 text "Atirando com o amplificador psiônico ativa a sua habilidade selecionada." }
+		{ time 14700 length 5800 text "você no momento tem acesso a duas habilidades, Criocinese e Redireção Cinética." }
+		{ time 21200 length 5000 text "Vá para o modo de uso e clique nas setas no canto inferior direito da tela." }
+		{ time 26700 length 3300 text "Isto vai mudar entre as suas habilidades." }
+		{ time 30400 length 7000 text "Mais tarde, clicando nas setas em cima do número a esquerda vai permitir você selecionar habilidades de maior nível." }
+		{ time 37900 length 7000 text "Use a Criocinese para destruir o robô, e a Redireção Cinética para puxar o contêiner de nanites para sua direção." }
+		{ time 45500 length 8500 text "Tenha cuidado, segurando o botão do mouse pode aumentar o poder mas se você segurar por muito tempo vai causar um esgotamento, que vai te dar dano." }
+		{ time 54500 length 3800 text "Se você ficar sem pontos psiônicos, use outro Hipo." }
+	}
+
+	multisub trg0030 {
+		{ time 600 length 3600 text "Dominar a mente é um processo lento mas muito gratificante." }
+		{ time 4600 length 2700 text "Volte para essa área se você precisar de mais orientação." }
+		{ time 7800 length 5800 text "Antes de se alistar para a OSA, seria útil experimentar os outros cursos de treinamento." }
+	}
+}
+
+{
+	type "convo"
+	descr "Trainer"
+
+	multisub init_0 {
+		{ time 00 length 2400 text "Bem-vindo a estação espacial Wake Island, Fuzileiro." }
+		{ time 2500 length 2700 text "Então você sobreviveu ao treinamento básico no acampamento Lejeune." }
+		{ time 5400 length 3900 text "Melhor ainda, você conseguiu aprender alguma coisa ou duas sobre armas padrão." }
+		{ time 9800 length 2000 text "Mas agora é hora do verdadeiro treinamento." }
+		{ time 12600 length 3800 text "Sua Missão consistirá em quatro designações em um período de quatro anos." }
+		{ time 16900 length 3300 text "A corporação demanda muito de vocês soldados, mas a corporação é generosa." }
+		{ time 20500 length 1900 text "Você escolhe suas próprias designações." }
+		{ time 23100 length 4200 text "Dirija-se para as os hangares no centro de Wake Island e você será informado sobre o que está por vir." }
+		{ time 27900 length 4000 text "Quando achar a designação certa, dirija-se aquele hangar para aceitar a atribuição." }
+		{ time 32300 length 1000 text "Boa sorte fuzileiro!" }
+	}
+
+	multisub init_1 {
+		{ time 00 length 2800 text "Bem-vindo a bordo da estação espacial Chesapeake Bay, Marinheiro." }
+		{ time 3200 length 3900 text "Parece que você adiquiriu algumas habilidades em armas padrão no treinamento básico na ilha Coronado." }
+		{ time 7500 length 1600 text "Agora é hora da sua Missão." }
+		{ time 9600 length 2900 text "A sua Missão vai consistir em quatro designações em um período de quatro anos." }
+		{ time 12800 length 3200 text "No \"O Rompe Núvens\" você escolhia entre três designações diferentes por ano." }
+		{ time 16400 length 3500 text "Você decide qual tipo de carreira você quer ter então escolha com sabedoria." }
+		{ time 20400 length 2700 text "Apenas aproxime do seu hangar para receber instruções na designação." }
+		{ time 23600 length 4000 text "Se você acha que aquela designação é certa para você dirija-se ate o hangar para aceitar a atribuição." }
+	}
+
+	multisub init_2 {
+		{ time 00 length 4000 text "A OSA recepciona você para a estação orbital Chun Lo." }
+		{ time 4200 length 4000 text "Prepare-se para sentir as limitações de sua mente indo por agua abaixo." }
+		{ time 8700 length 3200 text "Nos vamos guiar o seu caminho pelos proximos quatro anos." }
+		{ time 12200 length 4600 text "Os hangares no centro dessa estação vão carregar você para o seu próximo estágio de crescimento." }
+		{ time 17300 length 3500 text "Quando tiver escolhido, dirija-se para o hangar apropiado." }
+		{ time 21100 length 3200 text "Prepare-se para aprender coisas que você nunca imaginou." }
+	}
+
+	// Marine briefings
+
+	multisub brief01 {
+		{ time 600 length 4500 text "Se você gosta de passar tempo com muitos explosivos pesados, essa designação é para você." }
+		{ time 5600 length 5800 text "Há muito trabalho pesado, mas a artilharia também recebe a primeira escolha de bebida e outras guloseimas a bordo do navio de abastecimento Gallo." }
+		{ time 11850 length 1100 text "Trave e carregue!" }
+	}
+
+	multisub brief02 {
+		{ time 850 length 4700 text "A Marinha mantém uma escola de treinamento de sobrevivência na superfície de Io, a terceira lua de Júpiter." }
+		{ time 6100 length 3600 text "Prós: não há melhor maneira de melhorar as habilidades de resistência e sobrevivência." }
+		{ time 9950 length 3200 text "Cont: a taxa de mortalidade de 21,2%" }
+		{ time 13550 length 3700 text "Extra, você tem que passar o ano com um monte de marinheiros/ras desagradáveis." }
+	}
+
+	multisub brief03 {
+		{ time 900 length 7700 text "Nem toda festa de embarque tem o luxo da gravidade, então a Corporação fortemente recomenda que todos os seus irmãos entrem em algum treinamento zero-g." }
+		{ time 9150 length 3200 text "Um ano a bordo da estação de treinamento Guadalcanal deve ser suficiente." }
+	}
+
+	multisub brief04 {
+		{ time 700 length 6100 text "Uma Missão a bordo da Antigua deve permitir que você adquira um treinamento particular com armas de feixe com a sargenta de artilharia Malloy." }
+		{ time 7200 length 2700 text "Mas tenha atenção, ela é uma FDP de primeira classe." }
+	}
+
+	multisub brief05 {
+		{ time 800 length 7400 text "A instalação automatizada de minério de asteróides na JM-432 abastece os estaleiros da UNN, então elas são cruciais para a defesa." }
+		{ time 8500 length 3000 text "Entretanto, elas também são principais candidatos para hackers." }
+		{ time 11500 length 7100 text "Alguém colocou suas garras no circuito de dados primário e eles precisam de uma equipe para entrar lá e passar por cima dos sistemas de defesa automatizados." }
+	}
+
+	multisub brief06 {
+		{ time 800 length 5800 text "Munição fictícia, munição real, alvos móveis, alvos estacionários, alvos vivos ..." }
+		{ time 7300 length 4400 text "O centro de treinamento do Porto MacArthur tem hardware suficiente para aquecer o coração de qualquer Leatherneck." }
+	}
+
+	multisub brief07 {
+		{ time 700 length 3900 text "O escritório do Secretário Geral da UNN precisa de uma equipe completa de guardas armados." }
+		{ time 5000 length 4200 text "Quando as coisas estão maçantes, requer ficar de bobeira bem vestido em seu uniforme." }
+		{ time 9700 length 4000 text "Quando as coisas estão ruins, pode requerer se afastar de um ataque terrirista psiônico." }
+	}
+
+	multisub brief08 {
+		{ time 700 length 3400 text "A estação de negociação de Polidies tem sido um paraíso para o mercado negro." }
+		{ time 4400 length 4000 text "No entanto, até agora eles não interferiram na operação das estações." }
+		{ time 9100 length 6900 text "Relatórios recentes indicam que a equipe de comando de Polidies foi derrubada, e a estação está sob o controle de um auto-nomeado \"Magnata\"." }
+		{ time 16500 length 3700 text "Isto deve ser retificado e uma presença da Marinha mantida na estação." }
+	}
+ 
+	multisub brief09 {
+		{ time 800 length 5400 text "O Serviço Aéreo Colonial recebe os resíduos da frota e a Antigua é a escória dos resíduos." }
+		{ time 7000 length 6800 text "Você aprenderá muito sobre maquinaria recalcitrante em uma missão a bordo da Antígua, se não te explodir para o inferno e de volta, primeiro." }
+	}
+
+	// Navy briefings
+
+ 	multisub brief10 {
+		{ time 800 length 5200 text "A UNN Lucille está procurando um oficial de treinamento para aprender os sistemas de navegação e controle de dados do navio." }
+		{ time 6400 length 3700 text "Você vai se acostumar com os sistemas de alta tecnologia, mas também espere algum trabalho pesado." }
+	}
+
+	multisub brief11 {
+		{ time 900 length 4600 text "A UNN Lucille está procurando um Ajudante de Engenheiro para ajudar a manter os principais sistemas de energia do navio." }
+		{ time 5900 length 3800 text "Há algum trabalho pesado envolvido, marinheiro, mas você vai pegar o jeito com equipamentos de alta tecnologia." }
+	}
+
+	multisub brief12 {
+		{ time 800 length 3600 text "A UNN Lucille está procurando voluntários para o seu destacamento da Polícia Militar." }
+		{ time 4900 length 4500 text "Esses marinheiros podem ficar bastante turbulentos nesses cruzeiros de um ano, então é melhor você não ter medo de uma briga." }
+	}
+
+	multisub brief13 {
+		{ time 800 length 6300 text "A UNN Carfax está realizando uma missão para examinar um recém-descoberto cometa de classe B se aproximando do sistema solar externo." }
+		{ time 8000 length 5500 text "Você provavelmente vai pegar algumas habilidades úteis trabalhando com os sistemas de navegação de alta tecnologia a bordo deste cruzador pesado recém comissionado." }
+	}
+
+	multisub brief14 {
+		{ time 800 length 4600 text "A UNN Pierce está transportando presos políticos libertados de volta para casa depois de sua detenção perto de Saturno." }
+		{ time 6100 length 6300 text "A Pierce recebeu um grupo de fuzileiros navais e precisa de marinheiros para carregar, administrar e manter os braços a bordo do navio.." }
+	}
+
+	multisub brief15 {
+		{ time 800 length 3200 text "LaVerne, Flórida, abriga a principal escola de treinamento tático da Marinha." }
+		{ time 4500 length 4400 text "Embora talvez não tão respeitado como as instalações da Marinha em Fort Bush, há muito a ser aprendido aqui." }
+	}
+
+	multisub brief16 {
+		{ time 800 length 9500 text "O Centro de Pesquisas Marie Curie da Marinha em Aquino IV está atualmente conduzindo uma pesquisa sobre uma nova cepa de vírus espaciais que matou 220.000 cidadãos de New Atlanta.." }
+		{ time 11100 length 4500 text "Para levantar a quarentena, devemos determinar como o vírus perfurou o escudo de micronanito da cidade." }
+	}
+
+	multisub brief17 {
+		{ time 800 length 4500 text "A Marinha mantém uma escola de treinamento de sobrevivência na superfície de Io, a terceira lua de Júpiter." }
+		{ time 5900 length 3700 text "Prós: não há melhor maneira de melhorar as habilidades de resistência e sobrevivência." }
+		{ time 10000 length 3100 text "Cont: a taxa de mortalidade de 21,2%." }
+	}
+
+	multisub brief18 {
+		{ time 900 length 3800 text "A Marinha encoraja fortemente todos os marinheiros a realizarem uma certa quantidade de treinamento zero-g." }
+		{ time 5400 length 4300 text "Um ano na estação espacial de Yamamoto na órbita da Terra será mais do que suficiente." }
+	}
+
+	// OSA briefings
+
+	multisub brief19 {
+		{ time 800 length 4100 text "Os Tanques de Privação Sensorial a bordo da Estação Orbital Shao Ling esperam por você." }
+		{ time 5300 length 6400 text "Lá, você passará um ano solitário focado em uma meditação sobre movimento e som, e como eles podem servir à sua vontade." }
+	}
+
+	multisub brief20 {
+		{ time 700 length 4200 text "Os Tanques de Privação Sensorial da Estação Orbital Ru Nang esperam por você." }
+		{ time 5400 length 3800 text "Um ano em meditação sobre a natureza da matéria lhe concederá poder sobre ela." }
+	}
+
+	multisub brief21 {
+		{ time 800 length 5400 text "Os Tanques de Privação Sensorial da Estação Orbital Chu Lun esperam por você." }
+		{ time 6700 length 6700 text "Você passará um ano contemplando a massa, tanto a sua quanto a dos objetos, até que você possa dobrá-los às suas intenções." }
+	}
+
+	multisub brief22 {
+		{ time 900 length 7900 text "Peneirar os pensamentos de traição e deslealdade do pântano de emoções e conflitos internos que enchem a maioria dos mundanos pode ser inquietante." }
+		{ time 9200 length 7700 text "Você passará um ano construindo a força geral de sua mente, enquanto aprende a investigar os pensamentos dos menos capazes sem se perder." }
+	}
+
+	multisub brief23 {
+		{ time 900 length 5800 text "Os laboratórios de pesquisa do Dr. Chandrisvilan produziram muitos dos avanços desta década na técnica psiônica." }
+		{ time 7000 length 5200 text "Você deve passar um ano servindo ao seu gênio, aprendendo a entender seus insights e caprichos." }
+	}
+
+	multisub brief24 {
+		{ time 800 length 2900 text "Seu corpo foi negligenciado em seu treinamento de sua mente." }
+		{ time 4100 length 3700 text "Em Io, você encontrará soldados que desejam testar sua resistência." }
+		{ time 8200 length 4400 text "Você superará sua capacidade física sem comprometer sua disciplina mental." }
+	}
+
+	multisub brief25 {
+		{ time 800 length 5600 text "Atos de terrorismo político e coerção corporativa perturbam a estabilidade corporativa e política." }
+		{ time 6900 length 5700 text "Você passará um ano lutando contra esses elementos caóticos, tanto psionicamente quanto por força física." }
+	}
+
+	multisub brief26 {
+		{ time 800 length 4900 text "No grande esquema, os indivíduos não são mais importantes do que peças em um tabuleiro de jogo." }
+		{ time 5900 length 5600 text "Ocasionalmente, torna-se necessário remover uma peça, sem perturbar o fluxo do jogo." }
+		{ time 12200 length 3700 text "Essas remoções serão feitas em silêncio e com total sigilo." }
+		{ time 16300 length 2600 text "Você passará um ano aprendendo essas habilidades." }
+	}
+
+	multisub brief27 {
+		{ time 800 length 3700 text "Muitas ameaças à segurança só podem ser derrotadas de dentro." }
+		{ time 4800 length 5200 text "Sua mente deve ser cuidadosamente esvaziada e condicionada com a natureza e o passado de um criminoso." }
+		{ time 10600 length 8400 text "Junte-se ao criminoso e rebelde, resista à miséria e ao caos e, quando chegar a hora, liquide-os de dentro." }
+	}
+}

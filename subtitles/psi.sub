@@ -1,0 +1,34 @@
+SUB1
+
+{
+	type "player"
+	descr "Info"
+	sub psiadrac { text "Adrenalina ativada." }
+	sub psiadrde { text "Adrenalina desativada." }
+	sub psiagiac { text "Agilidade ativada." }
+	sub psiagide { text "Agilidade desativada." }
+	sub psiapsac { text "Escudo ativado." }
+	sub psiapsde { text "Escudo desativado." }
+	sub psiaurac { text "Escudo ativado." }
+	sub psiaurde { text "Escudo desativado." }
+	sub psiendac { text "Resistência ativada." }
+	sub psiendde { text "Resistência desativada." }
+	sub psientac { text "Anti-Entropia ativada." }
+	sub psientde { text "Anti-Entropia desativada." }
+	sub psiinvac { text "Invisibilidade ativada." }
+	sub psiinvde { text "Invisibilidade desativada." }
+	sub psiradac { text "Escudo Anti Radiação ativado." }
+	sub psiradde { text "Escudo Anti Radiação desativado." }
+	sub psirecac { text "Psi Recursivo ativado." }
+	sub psirecde { text "Psi Recursivo desativado." }
+	sub psirefac { text "Reflexo ativado." }
+	sub psirefde { text "Reflexo desativado." }
+	sub psiscrac { text "Escudo Anti Psi ativado." }
+	sub psiscrde { text "Escudo Anti Psi desativado." }
+	sub psistrac { text "Força ativada." }
+	sub psistrde { text "Força desativada." }
+	sub psitoxac { text "Escudo Anti Toxina ativado." }
+	sub psitoxde { text "Escudo Anti Toxina desativado." }
+	sub psiwavac { text "Manipulação de Onda ativada." }
+	sub psiwavde { text "Manipulação de Onda desativada." }
+}

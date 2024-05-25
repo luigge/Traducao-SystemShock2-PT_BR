@@ -1,0 +1,39 @@
+SUB1
+
+{
+	type "nonverbal"
+	descr "Camera"
+	sub camat2 { text "[Procurando]" }
+	sub camat3 { text "[Alertado]" }
+	sub cambak { text "[Recuando]" }
+	sub camdie1 { text "[Destruído]" }
+	sub camdie2 { text "[Destruído]" }
+	sub camdie3 { text "[Destruído]" }
+	sub camdie4 { text "[Destruído]" }
+//	sub camloop { text "[Seguindo]" }
+	sub camlos { text "[Mira Perdida]" }
+//	sub camstop { text "[Parou]" }
+//	sub camto1 { text "[Suspeito]" } // não usado
+	sub camto2 { text "[Suspeito]" }
+	sub camto3 { text "[Alarme]" }
+}
+
+{
+	type "nonverbal"
+	descr "Turret"
+	sub fturlas1 { text "[Atirando laser]" }
+	sub fturlas2 { text "[Atirando laser]" }
+	sub fturlas3 { text "[Atirando laser]" }
+	sub fturrock { text "[Atirando Foguete]" }
+	sub fturslu1 { text "[Atirando Munição De Espingarda (Slug)]" }
+	sub fturslu2 { text "[Atirando Munição De Espingarda (Slug)]" }
+	sub fturslu3 { text "[Atirando Munição De Espingarda (Slug)]" }
+//	sub fturslug { text "[Atirando Munição De Espingarda (Slug)]" } // não usado
+	sub turclose { text "[Fechando]" }
+	sub turdie1 { text "[Destruído]" }
+	sub turdie2 { text "[Destruído]" }
+	sub turdie3 { text "[Destruído]" }
+//	sub turloop { text "[Seguindo]" }
+	sub turopen { text "[Fechando]" }
+//	sub turstop { text "[Parou]" }
+}

@@ -1,0 +1,22 @@
+SUB1
+
+{
+	type "player"
+	descr "Info"
+	sub bb01 { text "PSI baixo." }
+	sub bb02 { text "Perigo radioativo." }
+	sub bb03 { text "Saúde baixa." }
+	sub bb04 { text "Arma danificada." }
+	sub bb05 { text "Elemento químico necessário." }
+	sub bb06 { text "Pesquisa completa." }
+	sub bb07 { text "Energia drenada." }
+	sub bb08 { text "Munição drenada." }
+	sub bb10 { text "PSI insuficiente ." }
+	sub bb11 { text "Itens jogados." }
+	sub bb12 { text "Perigo tóxico." }
+	sub bb13 { text "Acesso negado." }
+	sub bbcyba_a { text "Afinidade Cibernética ativada." }
+	sub bbcyba_d { text "Afinidade Cibernética desativada." }
+	sub left { text "Esquerda." }
+	sub right { text "Direita." }
+}

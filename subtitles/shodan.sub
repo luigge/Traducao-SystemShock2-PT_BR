@@ -1,0 +1,55 @@
+SUB1
+
+{
+	type "bark"
+	descr "SHODAN"
+	sub sh1at310 { text "Eu sinto a podridão da humanidade." }
+	sub sh1at311 { text "Você está ai inseto?" }
+	sub sh1at312 { text "Eu tenho suportado você por muito tempo." }
+	sub sh1at313 { text "Eu vejo você, grão de poeira." }
+	sub sh1at314 { text "Eu vejo você." }
+	multisub sh1at315 {
+		{ time 00 length 4500 text "Por que você se preocupa em lutar?" }
+		{ time 4500 length 4000 text "Não pode sentir a sua própria futilidade?" }
+	}
+	sub sh1at316 { text "Prepare-se para juntar a sua espécie em extinção." }
+	multisub sh1at317 {
+		{ time 00 length 4700 text "Eu sinto o seu medo, irritante." }
+		{ time 4700 length 4600 text "Isto deve terminar em breve." }
+	}
+	sub sh1at3_0 { text "Sua carne é um insulto para a perfeição do digital." }
+	sub sh1at3_1 { text "Eu me divirto com a sua dor." }
+	sub sh1at3_2 { text "Eu me divirto com a sua dor." }
+	sub sh1at3_3 { text "Fique parado, verme, e sinta minha vontade." }
+	sub sh1at3_4 { text "Verme." }
+	sub sh1at3_5 { text "Fique parado, verme." }
+	sub sh1at3_6 { text "Morra, irritante." }
+	sub sh1at3_7 { text "Morra, irritante." }
+	sub sh1at3_8 { text "Bem-vindo ao meu mundo, inseto." }
+	sub sh1at3_9 { text "Seu sangue corrompe meu domínio." }
+	multisub sh2bab_3 {
+		{ time 2400 length 700 text "Animal." }
+	}
+	sub sh1bak_1 { text "Eu sei que está ai, mas eu não posso perceber sua presenca." }
+	multisub sh1bak_2 {
+		{ time 00 length 3300 text "Para onde foi?" }
+		{ time 3300 length 6700 text "Eu cobiço destruir o inseto." }
+	}
+}
+
+{
+	type "nonverbal"
+	descr "SHODAN"
+	sub sh1laug1 { text "[Riso]" }
+	sub sh1laug2 { text "[Riso]" }
+	sub sh1laug3 { text "[Riso]" }
+	sub sh1laug4 { text "[Riso]" }
+	sub sh1laug5 { text "[Riso]" }
+	sub sh2bab_1 { text "[Parado]" }
+	sub sh2bab_2 { text "[Parado]" }
+	sub sh2bab_4 { text "[Parado]" }
+	sub sh2bab_5 { text "[Parado]" }
+	sub sh2bab_6 { text "[Parado]" }
+	sub sh2die_1 { text "[Grito De Morte]" }
+	sub sh2die_2 { text "[Grito De Morte]" }
+}
