@@ -1,0 +1,144 @@
+EmailName1:"POLITO 12.JUL.14\nre: Hueco bloqueado\n"
+EmailPortrait1:"Polito"
+EmailIcon1:"OpsIcon"
+EmailText1:"Merda. Algo está bloqueando o poço e ta inpedindo que o elevador chegue ao convés 4. Estou tentando determinar... Detectei quantidades maciças de algum tipo de biomaterial a obstruir o poço do elevador. O ambiente deste nível foi modificado para se tornar um tipo terreno fértil para os xenomorfos. Não deve ser perigoso, a menos que você planeje ficar mais do que algumas horas, mas para limpar o buraco você terá que remover o biomaterial. Estou a aceder ao ciclo de dados primários. Vamos ver o que podemos encontrar lá.¡.\n"
+
+
+EmailName7:"POLITO 12.JUL.14\nre: Limpiar el hueco\n"
+EmailPortrait7:"Polito"
+EmailIcon7:"OpsIcon"
+EmailText7:"Eles sabem onde você está Encontre uma maneira de limpar o buraco. Eu farei o que puder do meu lado. sai dai agora não temos tempo para falhar.\n"
+
+
+EmailName2:"POLITO 12.JUL.14\nre: Investigando Toxina-A\n"
+EmailPortrait2:"Polito"
+EmailIcon2:"OpsIcon"
+EmailText2:"Está bem, ai onde você ta. tem um frasco de um material experimental chamado Toxina-A. Foi desenvolvido pelo pessoal científico para reduzir o crescimento de alienígenas. Mas não consigo encontrar nenhum dado sobre como deve ser usado. voce tem que investigar a toxina. Estou te enviando ums módulos cibernéticos suficientes para te dar as capacidade de pesquisa, se voce ainda não tem..\n"
+
+
+EmailName3:"POLITO 12.JUL.14\nre: Usando los frascos\n"
+EmailPortrait3:"Polito"
+EmailIcon3:"OpsIcon"
+EmailText3:"Bem, os frascos de Toxina-A têm de ser colocados diretamente nos reguladores ambientais. Devem ser quatro neste convés. Se você conseguir colocar um frasco em cada um dos reguladores, você deve ser capaz de influenciar significativamente o crescimento dessas criaturas podres. Isso deve eliminar a biomatéria no poço do elevador.\n"
+
+
+EmailName6:"POLITO 12.JUL.14\nre: Haciendo progresos\n"
+EmailPortrait6:"Polito"
+EmailIcon6:"OpsIcon"
+EmailText6:"bem. veja que o biomaterial nas paredes e no poço do elevador foi afectado pela introdução da biotoxina. Agora faça o mesmo com os outros três controladores.\n"
+
+
+EmailName4:"POLITO 12.JUL.14\nre: Holgazaneando\n"
+EmailPortrait4:"Polito"
+EmailIcon4:"OpsIcon"
+EmailText4:"¿Porque se ta andando como uma lesma? Acha que isto é algum tipo de jogo? Só por causa da tua sorte e da minha paciência que é voce ainda não virou um cadaver! Agora, sai dai logo!\n"
+
+
+EmailName5:"POLITO 12.JUL.14\nre: El hueco est  limpio\n"
+EmailPortrait5:"Polito"
+EmailIcon5:"OpsIcon"
+EmailText5:"Finalmente. As leituras indicam que o poço do elevador está limpo. Agora chega ao convés 4. Eu estarei à tua espera.\n"
+
+
+LogName32:"Manifiesto productos qu¡micos:\nHidrop¢nicoa\n"
+LogPortrait32:"Chem"
+LogIcon32:"HydIcon"
+LogText32:"Inventário Químico em Hidropônicos 008\n\nAntimonio (Sb) : 2\nArsenico (As) : 1\nBario (Ba) : 1\nCesio (Cs) : 2 \nCobre (Cu) : 1\nFermio (Fm) : 1\nGalio (Ga) : 2\nHasio (Hs) : 1\nIridio (Ir) : 2\nRadio (Ra) : 1\nTecnecio (Tc) : 2\nTelurio (Te) : 2\nVanadio (V) : 1\n\nEste inventário é exigido pelo código de segurança UNN #134882 para estar disponível em todas as salas de armazenamento de produtos químicos perigosos.  \"Almac‚n\" qO Código de Segurança UNN #195331 define qualquer área na qual produtos químicos perigosos (ver Código de Segurança #093355) são armazenados em quantidades superiores a 50g por 10 pés quadrados durante períodos superiores a 24 horas.\n"
+
+
+LogName3:"MILLER 27.JUN.14\nre: Nosso trabalho aqui\n"
+LogPortrait3:"Miller"
+LogIcon3:"HydIcon"
+LogText3:"A: Renfro, Richard : Oxford University\nDick, eu sei que voce não vai conseguir ouvir esse log até voltarmos... mas tenho que falar o quanto me sinto bem. Finalmente conseguimos... estabelecemos contato... e Muldoon e eu fomos selecionados para participar do trabalho inicial... A única condição do Anatoly é que não diga a ninguém a bordo... As criaturas são incríveis... são tão indefesas... Sinto como se de alguma forma, eu fosse obrigado a protegê-las... Esta é uma descoberta milagrosa....\n"
+
+
+LogName2:"KORENCHKIN 28.JUN.14\nre: Milagres\n"
+LogPortrait2:"Korench"
+LogIcon2:"ComIcon"
+LogText2:"Assim, os anilideos estão todos a bordo. O Capitão Diego e eu temos o convés 3 selado. Ele e eu somos agora uma só mente... os nossos corpos também estão mudando. Às vezes dói pra caramba e às vezes é... maravilhoso... algo maravilhoso está acontecendo comigo....\n"
+
+
+LogName4:"MILLER 29.JUN.14\nre: os filhos\n"
+LogPortrait4:"Miller"
+LogIcon4:"HydIcon"
+LogText4:"Os espécimes estão em agonia. E nós não conseguimos ajudar... são altamente tóxicos. Muldoon não os teria abandonado, mas agora ele está morto. Mas esta manhã, eu tive... uma revelação... comecei a trabalhar nas especificações de uma série de melhorias cibernéticas radicais... Se eu tiver sucesso, posso criar um corpo virtualmente indestrutível... mas a mente ainda seria humana, cresendo... Não há muito tempo...\n"
+
+
+LogName11:"MILLER 30.JUN.14\nre: Maravilloso juguete\n"
+LogPortrait11:"Miller"
+LogIcon11:"HydIcon"
+LogText11:"Eu estou mudando. Minha cabeça é cheia de idéias e experimentos maravilhosos ... Eles têm tantos milagres para compartilhar ... tanto conhecimento para dar ... Eles me disseram como fazer este implante ... Para me fazer melhor... Gostaria de ter mais tempo com eles....\n"
+
+
+LogName8:"MILLER 01.JUL.14\nre: infermeira Bloome\n"
+LogPortrait8:"Miller"
+LogIcon8:"HydIcon"
+LogText8: "Eu escolhi a enfermeira Bloome como a nova mãe das nossas criaturas. Ela é doce e gentil, saudável e uma combinação perfeita. Ela tem um filho seu na Terra. Ele sabe como curar os jovens. Ave Maria. Se ela soubesse o que o futuro reservava... compartilhar as alegrias Da Multidão...\n"
+
+
+LogName5:"BLOOME 02.JUL.14\nre: Preocupada\n"
+LogPortrait5:"Bloome"
+LogIcon5:"HydIcon"
+LogText5: "Encontrei estes esquemas na secretária do Dr. Miller... são projetos para fazer algums tipos de modificações cibernéticas que são ilegais há quarenta anos ... não é como se eu... eu ia falar com ele sobre isso e depois reparei... a sequência de DNA que especificou para o protótipo... é a minha...\n"
+
+
+LogName6:"DELACROIX 03.JUL.14\nre: Haciendo un cambio\n"
+LogPortrait6:"Delacroix"
+LogIcon6:"EngIcon"
+LogText6:"A:  Polito, Dr. Janice\nEu recebi uma mensagem do Anatoly. Não esta se sentindo bem. Os protocolos da Corporação especificam que eu posso remover o Diretor Executivo Sênior se ele ou ela for considerado inapto para desempenhar suas funções... mas quem vai ficar no seu lugar?, Capitão Diego? ele tem 120 capangas no Rickenbacker para o apoiar... me pergunto se aquela IA fragmentáda que voce achou no Tau Ceti 5 está relacionada com essa merda...\n"
+
+
+LogName7:"POLITO 04.JUL.14\nre: Fragmento de voz IA\n"
+LogPortrait7:"Polito"
+LogIcon7:"OpsIcon"
+LogText7:"A: Delacroix, Dr. Marie\nMarie, isto é urgente... Parece que a IA de Tau Ceti se integrou no computador da nave... peguei este fragmento hoje...\n\n[Você está ouvindo uma transmissão]\n\nNão só isso, mas depois de encontrar o fragmento, voltei ao meu laboratório e tava todo revirado de cima para baixo. Tenho que te ver... É a única em quem confio agora. Eu tenho uma teoria sobre esta IA. Estou tentando encontrar informações sobre vários rumores relacionados aos eventos na Citadel Station. Acho que estou descobrindo algo... <<MENSAGEM INTERROMPIDA>>\n"
+
+
+LogName1:"KORENCHKIN 05.JUL.14\nre: Un nuevo fin\n"
+LogPortrait1:"Korench"
+LogIcon1:"ComIcon"
+LogText1:"A: Delacroix, Dr. Marie  \nNão consegue entender a minha alegria, Marie, e não tente explicar. Sinto-me como um homem novo... Eu tenho um objectivo... mais importante que a missão, ainda mais importante que a TriOptimum... Eu protejo eles"... aconteça o que acontecer... protejo eles...\n"
+
+
+LogName10:"LOESSER 05.JUL.14\nre: onde esta?\n"
+LogPortrait10:"Loesser"
+LogIcon10:"MedIcon"
+LogText10:"A: Miller, Marc\nMarc, o que está a acontecendo? eu só tava pensando como foi estranho voce ter me pedido para te enviar dezasseis dos meus funcionários... mas... O que você fez com eles? Estou com falta de pessoal.  Também teve notícias do Watts, da Sanger ou da Polito? É como se todo mundo tivesse saido de férias sem me avisar.\n"
+
+
+LogName16:"LOESSER 08.JUL.14\nre: Miller\n"
+LogPortrait16:"Loesser"
+LogIcon16:"MedIcon"
+LogText16:"Isso é o que o Miller estava fazendo. Esta manhã... esta manhã, vi a Erin Bloome... estava deitado em cima de algum tipo de ovos... e la estava... mudou, da forma mais horrível e antinatural. Eu só posso temer o pior do resto do meu pessoal. Aquele filho da puta desgraçado!. Aquele filho da puta!. Não vai fugir dessa!.\n"
+
+
+LogName12:"KORENCHKIN 08.JUL.14\nre: Gloria\n"
+LogPortrait12:"Korench"
+LogIcon12:"ComIcon"
+LogText12:  "Gloria... para a multidão... Eu sou uma voz no seu coro.\n"
+
+
+LogName13:"DIEGO 09.JUL.14\nre: nossa aliança\n"
+LogPortrait13:"Diego"
+LogIcon13:"RickIcon"
+LogText13:"A: Korenchkin, Anatoly\nAcho que os projetos que a multidão tem para mim são maiores do que eu imaginava. A mudança está dentro de mim. Mas o caminho é mais glorioso do que imaginávamos. Para não acabar numa simples e mera mutação... a forma que me foi prometida é ainda mais bonita do que esta... me falaram para flutuar pelo ar e atacar os inimigos da nossa biomassa com a minha mente... com a nossa mente... Sinto-me cheio de felicidade...\n"
+
+
+LogName15:"DELACROIX 09.JUL.14\nre: Matando a los gusanos\n"
+LogPortrait15:"Delacroix"
+LogIcon15:"EngIcon"
+LogText15:"ta ficando claro que os vermes são um tipo de entidade em conjunto... Embora eu não tenha certeza se a Toxina-A transportada pelo ar matará diretamente alguns espécimes ambulatórios, ela deve ao menos afetar sua massa comum e eliminar os resíduos que crescem nas paredes e no poço do elevador. Mas talvez haja uma fórmula mais potente que possa ser sintetizada...\n"
+
+
+LogName14:"DELACROIX 10.JUL.14\nre: Rayo de esperanza\n"
+LogPortrait14:"Delacroix"
+LogIcon14:"EngIcon"
+LogText14:"O extermínio das criaturas não vai ser fácil. Mas acho que tenho mesmo alguma coisa. A bioquímica destes vermes, que eu chamo de anelideos, processa as proteínas invertidas como toxinas. Com a ajuda de um replicador no laboratório de Reconhecimento Biológico, consegui isolar algumas proteínas invertidas dentro de uma série de frascos. No entanto, a mistura com o composto base ainda não está pronta, por isso ainda preciso fazer mais pesquisas. Assim que eu fizer e misturar a toxina nos quatro reguladores ambientais... Bem, as coisas só podem melhorar..\n"
+
+
+LogName9:"TURNBULL 11.JUL.14\nre: Cambiando\n"
+LogPortrait9:"Turnbull"
+LogIcon9:"RickIcon"
+LogText9:"Quem diria, o Bronson tinha razão, afinal de contas. Acho que tenho cerca de uma hora... mas eu estou virando um deles... me transformando, na esperança de que os dados possam ser util para alguem... Eu tenho tumores... na minha perna e nas minhas costas... Eu posso sentir essa coisa dentro de mim.... mastigando,engordando. A minha teoria é que eles precisam de um hospedeiro vivo para completar a transformação... que se foda o Diego, que se foda o Korenchkin, que se foda o Tau Ceti 5. Se alguém encontrar isto, não se arrependa de estorar minha cabeça. Eu já estou perdido mesmo.\n"
+
+

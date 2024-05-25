@@ -1,0 +1,192 @@
+EmailName10:"POLITO 12.JUL.14\nre: Reinicie o núcleo\n"
+EmailPortrait10:"Polito"
+EmailIcon10:"OpsIcon"
+EmailText10:"Você está na Cobertura da Engenharía. Encontre o núcleo do motor e reinicie-o. Isso irá recuperar a energia dos elevadores. Estou recebendo um certo tipo de leitura estranha de lá de baixo, então mantenha seus olhos abertos.\n"
+
+
+EmailName1:"POLITO 12.JUL.14\nre: Armazém 4\n"
+EmailPortrait1:"Polito"
+EmailIcon1:"OpsIcon"
+EmailText1:"Você deve se apressar e rápido. A sua mente não pode imaginar o risco que estamos enfrentando. Não perca de vista o armazém de serviço 4. Eu coloquei alguns suprimentos lá, o código de acesso é 59004. Tenho que ir na cobertura.. <<MENSAGEM INTERROMPIDA>>\n"
+
+
+EmailName3:"POLITO 12.JUL.14\nre: Selos protetores\n"
+EmailPortrait3:"Polito"
+EmailIcon3:"OpsIcon"
+EmailText3:"A radiação deve ter bloqueado os selos protetores de acesso ao núcleo do motor. Você terá que encontrar uma maneira de purgar a radiação dos dutos de refrigeração. Xerxes está bloqueando o meu acesso ao ciclo de dados primário, assim eu não posso obter informação para te ajudar. Agora, está nas mãos deles.\n"
+
+
+EmailName4:"POLITO 12.JUL.14\nre: Purgando os tubos\n"
+EmailPortrait4:"Polito"
+EmailIcon4:"OpsIcon"
+EmailText4:"Mantenha seus olhos abertos... Você deve encontrar um modo de purgar esses dutos refrigeradores e ligar o núcleo do motor... A nave deve ter algum tipo de sistema de backup instalado exatamente para esse tipo de situação.\n"
+
+
+EmailName2:"POLITO 12.JUL.14\nre: Os Xenomorphs\n"
+EmailPortrait2:"Polito"
+EmailIcon2:"OpsIcon"
+EmailText2:"Agora ouça com atenção.  Os xenomorfos que sequestraram esta nave são provavelmente da superfície de Tau Ceti 5. Eles foram capazes de infectar vários membros da tripulação, através de uma técnica parasitária extremamente invasiva.  Eles também demonstraram a capacidade de controlar as ações de outras pessoas através de alguma forma de telepatia limitada.  Encontre o software de pesquisa.  Entenda-os... então mate-os.\n"
+
+
+EmailName7:"POLITO 12.JUL.14\nre: Cancelamento de fluidos\n"
+EmailPortrait7:"Polito"
+EmailIcon7:"OpsIcon"
+EmailText7:"Xerxes está um passo à nossa frente.  Ele executou uma operação no computador de controle de fluidos e nos bloqueou.  Mas fique de olho aberto.  Você pode encontrar alguma solução alternativa.\n"
+
+
+EmailName6:"POLITO 12.JUL.14\nre: As vagens de motor\n"
+EmailPortrait6:"Polito"
+EmailIcon6:"OpsIcon"
+EmailText6:"Agora consinga conectar essas vagens do motor. Você vai ter que ir nas gôndolas 1 e 2 e reiniciar as vagens manualmente. Depois disso, reinicie o sistema a partir do controle do núcleo. Mas este sistema não está ativo até que você reinicie ambos as vagens.  Mantenha os olhos abertos.  Eles estão mobilizando suas forcas eficazes. E eles sabem exatamente onde você está.\n"
+
+
+EmailName8:"POLITO 12.JUL.14\nre: Núcleo conectado\n"
+EmailPortrait8:"Polito"
+EmailIcon8:"OpsIcon"
+EmailText8:"Bom trabalho.  O núcleo do motor ja está ativado. Agora va ao elevador "e" e dirija-se a Plataforma 4. Quando você relatar o núcleo, eu descobri a presenca de um objeto analideo a bordo da nave. Creio que você pode ser capaz de utilizar em seu beneficio. Eu enviei as informações das unidades de melhoras de armas da nave. Estas unidades transmitirão a informação a sua equipe cibern‚tica. O que você está esperando? Va para o elevador agora!.\n"
+
+
+EmailName9:"SHODAN 12.JUL.14\nre: Ir para o umbilical\n"
+EmailPortrait9:"Shodan"
+EmailIcon9:"ShodIcon"
+EmailText9:"Agora eu posso destruir essa praga a minha vontade. A multidão treme diante do meu poder. Era um robo eficaz, humano. Agora, regresse para a plataforma de Controle, localize o umbilical e evacue o Rickenbacker.\n"
+
+
+LogName24:"TRAINER 02.06.11\nre: Mensagem de Prova\n"
+LogPortrait24:"Bayliss"
+LogIcon24:"RickIcon"
+LogText24:"Esta mensagem vem da gravação de audio que você acabou de pegar. você pode utilizar sua PDA em qualquer momento para escutar qualquer registro de audio ou e-mail que você recebeu. Sobre o terreno, a PDA tambem se utiliza para seguir os objetivos de sua missão atual e obter informação de ajuda.\n"
+
+
+LogName32:"Manifesto de productos químicos:\nEngenharia\n"
+LogPortrait32:"Chem"
+LogIcon32:"EngIcon"
+LogText32:"Inventario químico na Engenharía 192\n\nAntimonio (Sb): 2\nBario (Ba): 2\nCalifornio (Cf): 2\nCesio (Cs): 1\nIridio (Ir): 2\nOsmio (Os): 1\nTecnecio (Tc): 1\nTelurio (Te): 1\nVanadio(V): 2\nItrio (Y): 2\n\nE exigido pelo código de seguranca UNN #134882 que este inventario est‚ disponivel em todas as lojas do armazém de produtos químicos perigosos.  \"Armazém\" e definida pelo código de seguranca UNN #195331 como toda área em a que se armazenam substancias químicas perigosas (ver o código de seguranca #093355), em quantidades maiores a 50g por 10 pés quadrados, para tempos superiores a 24 horas.\n"
+
+
+LogName6:"SIDDONS 02.JUN.14\nre: Velha debilidade\n"
+LogPortrait6:"Siddons"
+LogIcon6:"OpsIcon"
+LogText6:"A: Suarez, Tommy\nNão estamos fazendo isso mais facil, né? Eu sinto sua falta. Sei que é estúpido, mas eu não evito. Acho que eu gosto‚ de sentir pena de mim por uma hora ou mais e depois eu escrevo‚ outra vez. engraçado, tenho que viajar 67 trilhões de millhas para conhecer um homem. quando você se mudar para a Von Braun, vai ser tudo melhor.  Sera melhor, eu prometo. juro, alguem ta vindo.  Eu to contando os segundos...\n"
+
+
+LogName16:"DELACROIX 30.JUN.14\nre: Tau Ceti 5\n"
+LogPortrait16:"Delacroix"
+LogIcon16:"EngIcon"
+LogText16:"A: Korenchkin, Anatoly\nAnatoly, você tem que liberar o planeta ao pessoal científico desta nave. Se tem algo lá embaixo, é maior que a TriOp, maior que a UNN e maior que você. E porque o Diego e você fecharam a cobertura 3? O que está acontecendo?\n"
+
+
+LogName21:"MALONE 03.JUL.14\nre: Chimpanzes psiônicos!\n"
+LogPortrait21:"testport"
+LogIcon21:"RickIcon"
+LogText21:"A: Mak Pao, responsavel pela investigação\nUm assistente de laboratório da seção cientifica me chamou ontem na sala de vivisecção. falou que os chimpanzes do laboratório manifestaram uma inteligencia um pouco incomun. Me sentei com um durante quatro horas e tentei sonda-lo com o amplificador psionico em um ciclo beta 4. Não tinha um resultado. então presumi que era porque, naturalmente, o macaco era incapaz de reagir ao sofisticado ciclo beta 4. Mas então eu percebi que a pesquisa estava bloqueada intencionalmente! Assim que os aumentos do amplificador psi estavam ligados ele me atacou e projectou um campo criocintico assim, ele paralizou o meu braço. Eu imediatamente apliquei a humidifcação-psi e logo eu o atordoei ele com um espeto elétrico\n"
+
+
+LogName17:"DELACROIX 04.JUL.14\nre: Tomando medidas\n"
+LogPortrait17:"Delacroix"
+LogIcon17:"EngIcon"
+LogText17:"A: Korenchkin, Anatoly\nNão sei que segredos vai  você e seu novo amigo, o capitão Diego, estão escondendo na cobertura 3, mas eu tenho a intenção de descobrir. Se vocês ainda não quiserem se reunir comigo e o meu pessoal, vocês não me deixam outra alternativa, alem de apresentar uma queixa da corporação. Se você não me levar a serio, se resolva com sargento Bronson junto com o seu pessoal da seguranca.\n"
+
+
+LogName9:"SANGER 04.JUL.14\nre: Delacroix\n"
+LogPortrait9:"Sanger"
+LogIcon9:"EngIcon"
+LogText9:"Não sei aonde estariamos sem a ajuda da Delacroix. A nave inteira está se desentegrando e ela e a unica pessoa que sabe o que está acontecendo. Eu a vi discutir com esse imbecil de Anatoly Koretzkin ou como queira chama-lo, e ela estava completamente dando conciencia a ele. Mas esse especime anormal olhou em seus olhos e comecou a murmurar que nós somos ignorantes para o alegre prazer de uma haramonia. Mamma mia, os palhaços estão montando um circo...\n"
+
+
+LogName2:"DELACROIX 05.JUL.14\nre: Seja valente\n"
+LogPortrait2:"Delacroix"
+LogIcon2:"EngIcon"
+LogText2:"A: Sanger, Constance\nConstance, agora temo pela minha vida. Eu acho que isso foi um choque ja imaginando por Diego e Korenchkin. Eu não acho que eles controlam a situação toda. Devemos descobrir o que tem na superficie de Tau Ceti 5 e porque guardan seus segredos zelosamente bem. Eu acho que isso e mais importante do que minha vida ou a sua vida ou da existencia desta nave. Seja valente. E tenha cuidado.\n"
+
+
+LogName7:"DELACROIX 05.JUL.14\nre: Porta traseira\n"
+LogPortrait7:"Delacroix"
+LogIcon7:"EngIcon"
+LogText7:"Alguem está manipulando Xerxes. Para manter os segredos da pessoa no comando, eu instalei uma porta de volta para o computador de controle de fluidos. Para ativar, instale o hardware de invalidação 45m/dEx na unidade de monitoramento de sistemas de comando de controle. Você pode encontrar o 45m/dEx no estoque auxiliar 5, nos dutos de refrigeração, código: 34760.\n"
+
+
+LogName3:"SANGER 05.JUL.14\nre: Os soldados\n"
+LogPortrait3:"Sanger"
+LogIcon3:"EngIcon"
+LogText3:"Antes, Não conseguia me livrar daqueles cabeças quadradas da Rickenbacker, e agora não consigo encontrar um nem pagando. Aquele cara assustador da OSA me seguiu durante cerca de dois meses antes de eu ter a dica. Agora tentei contactá-lo para ver se ele sabia o que estava a acontecendo, mas ele não me devolve o correio imediatamente.\n"
+
+
+LogName22:"BRONSON 06.JUL.14\nre: Turrets defensivos\n"
+LogPortrait22:"Bronson"
+LogIcon22:"OpsIcon"
+LogText22:"Por causa da situação delicada que tivemos ultimamente, eu arranjei torretas de defesa em locais chave. Ontem, o tripulante Wells foi acidentalmente morto a tiros por eles. No entanto, alguem deve ter manipulado os subsistemas de seguranca de Xerxes porque agora meus técnicos são incapazes de se desconectar. Até você chegar ao fundo de tudo isso, mandei todas as torretas de seguranca serem devolvidas a loja...mas agora eu não posso entrar em comunicação com a equipe para fazer essa tarefa.\n"
+
+
+LogName18:"MALONE 06.JUL.14\nre: Mais experimentos\n"
+LogPortrait18:"testport"
+LogIcon18:"RickIcon"
+LogText18:"A: Mak Pao responsavel pela investigação\nTomando precauções, prossegui com mais experimentos. Desde que chegamos a Tau Ceti, as criaturas se tornaram mais inteligente e podem ter absorvido um pouco de habilidades limitadas psi. Sondei os outro com um ciclo beta 5 e percebi muitas coisas, mas principalmente eu senti uma empatia incrivel. Os chimpanzes tornaram-se conscientes do que estamos fazendo, das vivissecções e experimentos que temos realizado com eles a bordo do Von Braun. Estão enfurecidos, e dispostos a provar. é evidente que são um recurso cientifico fascinante e um incrivel risco de seguranca. Minha recomendação... ou que congelem no armazem criogenico durante o resto da missão ou mate todos imediatamente. Quem sabe que outras habilidades eles podem adquirir?\n"
+
+
+LogName23:"BRONSON 06.JUL.14\nre: Hackeando turrets\n"
+LogPortrait23:"Bronson"
+LogIcon23:"OpsIcon"
+LogText23:"Bem, não podemos desligar as torretas de mau funcionamento e agora Xerxes não está falando com agente. Pollard pensou numa solução. Ao contornar o controle central, podemos invadir as torretas localmente e ganhar controle sobre elas. No entanto, isso significa ir direto pras putinhas e esperar que elas não atirem em nós. Uma coisa é certa... nos temos que descobrir que porra que está acontecendo aqui.\n"
+
+
+LogName4:"CURTIZ 07.JUL.14\nre: A fuga de volta\n"
+LogPortrait4:"Curtiz"
+LogIcon4:"EngIcon"
+LogText4:"Delacroix estava certa, esta nave NAO estava pronta desde o inicio. Ok, sistemas de segurança automatizados foram fechadas devido ao vazamento de radiação nas tubulações. Vou me dirigir lá em baixo, ao controle de engenharia... Eu acho que posso usar o computador de fluidos para linpar os dutos.\n"
+
+
+LogName13:"SANGER 10.JUL.14\nre: Controle da Engenharia\n"
+LogPortrait13:"Sanger"
+LogIcon13:"EngIcon"
+LogText13:"Deus, me tira daqui. Eu recodifiquei a fechadura desta habitação. Talvez isso tudo irá conter isso. Vou para a Doca de Carga 2, se encontre comigo lá.\n"
+
+
+LogName14:"MARTIN 10.JUL.14\nre: Doca de Carga 2\n"
+LogPortrait14:"Martin"
+LogIcon14:"EngIcon"
+LogText14:"Não sei o que me deixa mais irritado: os hibridos com seus ferros e espingardas, as torretas enlouquecidas, ou nossos supostos aliados. Não confio nesses merdas da UNN. Tenho que encontrar Sanger. Ela conhece o codigo de acesso para o controle de fluido. Eu vou para a Doca de Carga 2 para encontrar com ela.\n"
+
+
+LogName5:"SANGER 10.JUL.14\nre: Trancado(a)\n"
+LogPortrait5:"Sanger"
+LogIcon5:"EngIcon"
+LogText5:"Malone esta  morto. ele só estava falando comigo  e esse... ciborgue apareceu por tras e... ok, Connie, fique calma, fique calma. Eu recodifiquei a fechadura da porta de Engenharia de Controle para 15061. Eu preciso estar, em segurança. Estou segura aqui.\n"
+
+
+LogName8:"MARTIN 10.JUL.14\nre: Emboscada\n"
+LogPortrait8:"Martin"
+LogIcon8:"EngIcon"
+LogText8:"Nos atacaram durante seis horas. Malone, o espectro da OSA, tentou eliminar uma dessas coisas com um ataque de pirokinesis, mas isso não impediu que eles avancacem. Então a coisa lancou dois barris em seu estomago. Falzone disse que ha um esconderijo de armas em uma das gondolas do motor. Talvez eu possa encontrar ele e os outros lá...\n"
+
+
+LogName1:"CURTIZ 10.JUL.14\nre: Somente nos\n"
+LogPortrait1:"Curtiz"
+LogIcon1:"EngIcon"
+LogText1:"Agora sobraram poucos. Faz pouco tempo que Valdez morreu, acho que eu fiquei um pouco louco comecei, a quebras as coisas...  encontrei mais dois Hypo Rads.  acho que vou demorar um bom tempo para calcular uma maneira de passar dessas malditas Torretas... O que é isso? ¿Delacroix? ¿Sanger?\n"
+
+
+LogName11:"DELACROIX 11.JUL.14\nre: Uma nova amiga?\n"
+LogPortrait11:"Delacroix"
+LogIcon11:"EngIcon"
+LogText11:"Algum tipo de inteligencia artificial entrou em contato comigo e quer me ajudar a recuperar o controle da Von Braun... seja quem for no comando agora. Não sei por onde continuar, mas tenho que confesar que estou feliz com esse ser aqui.\n"
+
+
+LogName12:"SUAREZ 11.JUL.14\nre: Seja forte\n"
+LogPortrait12:"Suarez"
+LogIcon12:"RickIcon"
+LogText12:"A: Siddons, Rebecca\nFique onde está, Bec, estou falando serio. Isto e algo que você não pode lutar, nem pode escapar. Se você me ama, não venha me buscar. Ta? Apenas seja forte... você conseguira\n"
+
+
+LogName19:"DIEGO 11.JUL.14\n re: Resistindo a chamada\n"
+LogPortrait19:"Diego"
+LogIcon19:"RickIcon"
+LogText19:"Meu dever é a UNN e esta nave. Mas eu não posso resistir a chamada Da Multidão? A fraquesa de meu pai trouxe a existencia de SHODAN. Minha fraqueza trouxe essas coisas a bordo da Von Braun... sera que eu posso desfazer esse mal que eu fiz?\n"
+
+
+LogName20:"DIEGO 11.JUL.14\nre: É tão ruim?\n"
+LogPortrait20:"Diego"
+LogIcon20:"RickIcon"
+LogText20:"De certa maneira, a multidão não é diferente da UNN. temos alegria no trabalho para atingir um objetivo coletivo, somos capazes de deixar de lado as coisas que nos diferenciam e separam. Por que tememos tanto perder a nossa individualidade? O homem pode resistir, mas A Multidão vai conseguir.\n"
+
+

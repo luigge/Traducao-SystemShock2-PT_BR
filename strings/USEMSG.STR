@@ -1,0 +1,96 @@
+Air_Recirculator:"Insira a Toxina-A."
+AuxPower:"Insira a célula de energia carregada."
+Bballbutton:"Luzes da quadra de basquete restabelecidas."
+Botcoming:"Elevador de carga desconectado. A manutenção foi notificada."
+Broken:"Este elevador está com defeito. A manutenção chegará em breve... Por favor, espere..."
+card1:"Usando cartão de acesso para abrir a porta."
+Closed:"Acesso negado."
+Comp_Online:"Computador de Controle de Fluidos conectado."
+ElevQuest:"Acesso negado por nivel de seguranca de Xerxes."
+exp1:""
+free2:""
+Free3:""
+free4:""
+LIFTED:"Travamento de segurança levantado - Acesso permitido."
+LOCKDOWN:"Travamento de seguranca - Acesso negado."
+Nac1OL:"Nacele bombordo conectada."
+Nacomp2_OL:"Nacele estibordo conectada."
+NeedOverride:"Sobreposição de Hardware necessário."
+NotFrobbed:"Nacelas dos motores desativadas"
+Offline:"Controle de Fluidos desconectado."
+Online:"Controle de Fluidos conectado... limpando radiação."
+OpenHatch:"Escotilha de manutenção aberta."
+Ops_Over:"Sobreposição de operações estabelecida."
+OutOfOrder:"Este elevador esta desconectado para reparações."
+Pad1:"Codigo de acesso ao conduíte necessário."
+pad2:"Codigo do sub-arsenal necessário."
+Post1:"Designação: Ajudante do Capitão de Artilharia
+(Ganha: +2 em Forca)"
+Post10:"Designação: Operações navais
+(Ganha: +1 em Hackeamento e +1 em Forca)"
+Post11:"Designação: Ajudante de Engenheiro
+(Ganha: +1 em Reparação e +1 em Forca)"
+Post12:"Designação: Polícia Militar
+(Ganha: +1 em Modificação e +1 em Forca)"
+Post13:"Designação: Ajudante de Navegação
+(Ganha: +2 em Afinidade Cibernética)"
+Post14:"Designação: Capitão de Artilharia
+(Ganha: +1 en Manutenção)"
+Post15:"Designação: Escola de Treinamento Tático
+(Ganha: +2 em Armas Padrão)"
+Post16:"Designação: Assistente de Laboratório
+(Ganha: +1 em Pesquisa)"
+Post17:"Designação: Treinamento em Sobrevivência
+(Ganha: +2 em Resistência)"
+Post18:"Designação: Treinamento em Gravidade Zero 
+(Ganha: +2 em Agilidade)"
+Post19:"Designação: Tanque de Privação Sensorial 925/NP5: Empatia Cibernética
+(Ganha: Disciplinas Psiônicas Nivel Dois: Criocinese e Afinidade Cibernética Psicogênica)"
+Post2:"Designação: Treinamento em Sobrevivencia
+(Ganha: +2 em Resistencia)"
+Post20:"Designação: Tanque de Privação Sensorial 437/WH1: Empatia Cinética
+(Ganha: Disciplinas Psiônicas Nivel Dois: Criocinese e Redirecionamento Cinético)"
+Post21:"Designação: Tanque de Privação Sensorial 003/MU5: Alteração de Massa
+(Ganha: Disciplinas Psiônicas Nivel Dois: Criocinese e Tela Psico-reflectiva)"
+Post22:"Designação: Interrogatório Telepático/Engramanálise
+(Ganha: +2 em Habilidade Psiônica)"
+Post23:"Designação: Laboratório Experimental, TOS Ki Luan
+(Ganha: +1 em Pesquisa)"
+Post24:"Designação: Treinamento Psiônico Tatico/Disfarce
+(Ganha: +2 em Resistência)"
+Post25:"Designação: Operações de Campo, Anti-Terrorismo
+(Ganha: +1 em Forca, +1 em Agilidade, +1 em Afinidade Cibernética\n e em Agilidade Psicogênica)"
+Post26:"Designação: Operações de Campo, Grupo de Seleções
+(Ganha: +1 em Forca, +1 em Agilidade, +1 em Afinidade Cibernética\n e Umidifição Neuro-Reflexo)"
+Post27:"Designação: Operações de Campo, Io
+(Ganha: +1 em Forca, +1 em Agilidade, +1 em Afinidade Cibernética\n e em Manipulação Eletronica Remota)"
+Post3:"Designação: Formação em Gravidade Zero 
+(Ganha: +2 em Agilidade)"
+Post4:"Designação: Ajudante de Artilheiro
+(Ganha: +1 em Armas Energéticas e +1 em Afinidade Cibernética)"
+Post5:"Designação: Piquete no Asteroide 
+(Ganha: +1 em Armas Pesadas e +1 em Afinidade Cibernética)"
+Post6:"Designação: Assistente Pessoal, Campo de tiro
+(Ganha: +2 em Armas Padrão)"
+Post7:"Designação: Guarda de Honra, PM
+(Ganha: +1 em Manutenção)"
+Post8:"Designação: Supressor de Rebelião
+(Ganha: +1 em Modificação)"
+Post9:"Designação: Consultor de Sistemas da Nave
+(Ganha: +1 em Reparação)"
+PowerOff:"Energia Principal desconectada."
+Psi1:"Unidade de Melhoria Cibernética para Projeção Psiônica"
+Rep1:"Replicador Reparado."
+Rep2:"Replicador Inutilizavel."
+Rep5:"Circuitos Queimados."
+Rep6:"Circuitos Queimados."
+seccrew1:"Acesso a tripulação necessário."
+ShieldBroken:"Computa Nave desativado."
+Stat1:"Unidade de Melhora Cibernetica para Habilidades Básicas"
+Swimpad:"Digite o código para abrir a porta."
+SympResInst:"Ressonador Simpatico instalado."
+tech1:"Unidade de Melhoria Cibernética para Habilidades Técnicas"
+TrainingLog:"Pressione a tecla \"U\" para reproduzir o registro que acabou de recolher."
+Trap:"Energia local restaurada."
+trip0201:"A maioria das portas se abrem quando você se aproxima delas."
+Weap1:"Unidade de Melhoria Cibernética para Habilidades com Arma"
