@@ -7,7 +7,7 @@ O projeto visa atualmente traduzir todos os textos presentes dentro do jogo como
 ### Como instalar?
 1. Baixe a ferramenta para instalação de mods que pode ser encontrada [aqui](https://www.systemshock.org/index.php?topic=4141.msg129248#msg129248)
 2. Após instalar, baixe a pasta **SystemShock2-PT_BR** e estraia ela para a pasta **DMM** dentro da pasta do jogo. O diretório ficará assim: *...SS2/DMM/SystemShock2-PT_BR*
-3. Para ativar as legendas, abra o **ss2bmm.exe**, **SystemShock2-PT_BR* e clique em **Activate / Deactivate**.
+3. Para ativar as legendas, abra o **ss2bmm.exe**, **SystemShock2-PT_BR** e clique em **Activate / Deactivate**.
 4. Clique em **Exit** e **Start game**.
 
 **NOTA:** Foi testado em ambas versões do jogo **Steam** `(por luigge)` e **GOG/RIP** `(Vinicius e Alex)`.
