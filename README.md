@@ -1,1 +1,0 @@
-# Tradu-o-System-Shock-2-Portug-s-PT_BR
