@@ -12,7 +12,7 @@ O projeto visa atualmente traduzir todos os textos presentes dentro do jogo como
 5. Para ativar as legendas, abra o **ss2bmm.exe**, selecione o mod **SystemShock2-PT_BR**, clique em **Activate / Deactivate** e após clique abaixo em **Apply changes**.
 6. O jogo pode ser aberto clicando em **Launch game** ou você pode fechar o mod loader e abrir direto pela steam/gog.
 
-**NOTA:** Foi testado em ambas versões do jogo **Steam** `(por luigge)` e **GOG/RIP** `(Vinicius e Alex)`.
+**NOTA:** Foi testado em ambas versões do jogo **Steam** `(por luigge)` e **GOG/RIP** `(Vinicius, Alex e Luiz)`.
 
 ## Changelog da tradução:
 
