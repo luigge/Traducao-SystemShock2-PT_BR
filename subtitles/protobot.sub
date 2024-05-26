@@ -6,17 +6,17 @@ SUB1
 	sub pd1amb_1 { text "Uh! O que foi isso?" }
 	sub pd1amb_2 { text "Uh! Cessar e desistir." }
 	sub pd1amb_3 { text "Quem fez isso?" }
-	sub pd1amb_4 { text "Quão desamigavel." }
-	sub pd1amb_5 { text "Pare com isso, porfavor." }
+	sub pd1amb_4 { text "Quão desamigável." }
+	sub pd1amb_5 { text "Pare com isso, por favor." }
 	sub pd1at0_1 { text "É só uma questão de procedimentos, realmente. Muitas pessoas não parecem entender." }
-	sub pd1at0_2 { text "Este lugar é uma completa bagunca." }
+	sub pd1at0_2 { text "Este lugar é uma completa bagunça." }
 	sub pd1at0_3 { text "Quem escolheu as cores? eu não gosto nem um pouco." }
 	sub pd1at0_4 { text "Eu sou uma unidade de serviço TriOptimum completamente registrada." }
 	sub pd1at2_1 { text "Poderia lhe mostrar algum dos nossos produtos de cuidados pessoais?" }
 	sub pd1at2_2 { text "Olá. Posso ajudar?" }
 	sub pd1at2_3 { text "Eu poderia jurar que havia alguém olhando para mim." }
-	sub pd1at2_4 { text "Me perdoe. Porfavor, reafirme qualquer pedido." }
-	sub pd1at2_5 { text "Com licenca?" }
+	sub pd1at2_4 { text "Me perdoe. Por favor, reafirme qualquer pedido." }
+	sub pd1at2_5 { text "Com licença?" }
 	sub pd1at3_1 { text "Onde ele foi? Oh." }
 	sub pd1at3_2 { text "Senhor, onde você está?" }
 	sub pd1at3_3 { text "Me desculpe, eu não vi onde você foi." }
@@ -24,11 +24,11 @@ SUB1
 	sub pd1at3_5 { text "Xerxes não vai gostar disso." }
 	sub pd1bak_1 { text "Que vergonha, Que vergonha." }
 	sub pd1bak_2 { text "Parece nunca haver ninguém hoje em dia." }
-	sub pd1bak_3 { text "Ninguém. E eu tinha esperanca de ser util." }
+	sub pd1bak_3 { text "Ninguém. E eu tinha esperança de ser util." }
 	sub pd1bak_4 { text "Suponho que eles devem me chamar se eles retornarem." }
 	sub pd1bak_5 { text "Tsk, tsk. Pessoas são tão tímidas." }
 	sub pd1bod_1 { text "Necessita de uma recarga?" }
-	sub pd1bod_2 { text "Parece que você sofreu de um malfuncionamento." }
+	sub pd1bod_2 { text "Parece que você sofreu de um mal funcionamento." }
 	sub pd1bod_3 { text "Sua performance não parece ideal. Posso ajudar?" }
 	sub pd1bod_4 { text "Está é a sua condição de funcionamento desejada?" }
 	sub pd1bod_5 { text "Eu não quero ser rude, mas, alguma coisa parece errada." }
@@ -40,7 +40,7 @@ SUB1
 	sub pd1chg_5 { text "Eu tenho certeza que isso é exatamente que você estava procurando!" }
 	sub pd1hhi_1 { text "Uh! tenho certeza que isto tudo é penas um mal entendido." }
 	sub pd1hhi_2 { text "Uh! Deus do ceu!" }
-	sub pd1hhi_3 { text "Uh! Porfavor não faça isso denovo." }
+	sub pd1hhi_3 { text "Uh! Por favor não faça isso de novo." }
 	sub pd1hhi_4 { text "Uh!" }
 	sub pd1hlo_1 { text "Eu-eu-eu peço seu perdão." }
 	sub pd1hlo_2 { text "Minha performance sofrerá em breve." }
@@ -48,11 +48,11 @@ SUB1
 	sub pd1los_1 { text "Tenho medo de não poder te ajudar se você esconder." }
 	sub pd1los_2 { text "Senhor, senhor! Não há cobrança. volte." }
 	sub pd1los_3 { text "Aww, Eu descartei um cliente. Provavelmente vou ser rebaixado." }
-	sub pd1los_4 { text "Isto é terrivel. Isso não vai fazer nada." }
-	sub pd1los_5 { text "Se o meu serviço for insatisfatório, porfavor anote meu numero de ID." }
-	sub pd1run_1 { text "Porfavor, pare." }
+	sub pd1los_4 { text "Isto é terrível. Isso não vai fazer nada." }
+	sub pd1los_5 { text "Se o meu serviço for insatisfatório, por favor anote meu numero de ID." }
+	sub pd1run_1 { text "Por favor, pare." }
 	sub pd1run_2 { text "Só um momento, senhor." }
-	sub pd1run_3 { text "Porfavor espere aqui, e um empregado estará com você em breve." }
+	sub pd1run_3 { text "Por favor espere aqui, e um empregado estará com você em breve." }
 	sub pd1to1_1 { text "Alguém está esperando por mim?" }
 	sub pd1to1_2 { text "Olá?" }
 	sub pd1to1_3 { text "Sim?" }

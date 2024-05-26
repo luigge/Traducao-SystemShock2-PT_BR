@@ -5,7 +5,7 @@ SUB1
 	descr "Psi Reaver"
 	sub ovkat3_1 { text "Você estará conosco em breve." }
 	sub ovkat3_2 { text "Você estará conosco em breve." }
-	sub ovkat3_3 { text "Resistência é futil." }
+	sub ovkat3_3 { text "Resistência é fútil." }
 	sub ovkat3_4 { text "Você... vai... morrer!" }
 	sub ovkat3_5 { text "Morra, humano insignificante." }
 	sub ovkatt_1 { text "Morra, humano insignificante." }

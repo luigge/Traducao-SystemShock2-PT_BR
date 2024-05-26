@@ -8,14 +8,14 @@ SUB1
 		{ time 700 length 1900 text "Eu não, Sem Chance." }
 		{ time 3400 length 1200 text "Eles não vao me pegar." }
 		{ time 5100 length 1400 text "Eles não vao me mudar." }
-		{ time 7400 length 3600 text "Rachel, Criancas... me desculpe." }
+		{ time 7400 length 3600 text "Rachel, Crianças... me desculpe." }
 	}
 	multisub cs1201 {
 		{ time 2100 length 2400 text "Você tem um hypo de radiação?" }
 		{ time 5400 length 3000 text "Eu estou tão mal." }
 	}
 	multisub cs2201 {
-		{ time 1600 length 3400 text "Que merda, alguem invadiu essa coisa de novo." }
+		{ time 1600 length 3400 text "Que merda, alguém invadiu essa coisa de novo." }
 		{ time 5500 length 2700 text "Eu vou contar para Delacroix." }
 	}
 	multisub cs2301 {
@@ -24,8 +24,8 @@ SUB1
 		{ time 6000 length 2100 text "Oi?" }
 	}
 	multisub cs2401 {
-		{ time 1500 length 1400 text "Alguem pode deixar eu ir embora?" }
-		{ time 3500 length 1600 text "Não consigo encotrar meu cartão." }
+		{ time 1500 length 1400 text "Alguém pode deixar eu ir embora?" }
+		{ time 3500 length 1600 text "Não consigo encontrar meu cartão." }
 		{ time 5700 length 3500 text "Por favor, deixa eu sair daqui!" }
 	}
 }
@@ -72,7 +72,7 @@ SUB1
 	}
 	multisub cs1005 {
 		{ time 800 length 3100 text "Sgt. Bronson, tire os seus homens daqui!" }
-		{ time 4100 length 4200 text "Você matou Malick, você tinha o seu bode espiatorio. Nós não fizemos nada." }
+		{ time 4100 length 4200 text "Você matou Malick, você tinha o seu bode expiatório. Nós não fizemos nada." }
 		{ time 8900 length 2200 text "Tira eles daqui!" }
 	}
 }
@@ -127,7 +127,7 @@ SUB1
 		{ time 600 length 3300 text "Não se mova, Estou tentando determinar o que está acontecendo lá embaixo!" }
 	}
 	multisub cs0702 {
-		{ time 1100 length 6200 text "O eixo deste elevador tornou-se coberto de matéria bioorgânica, gerada pelos xenomorfos." }
+		{ time 1100 length 6200 text "O eixo deste elevador tornou-se coberto de matéria bio-orgânica, gerada pelos Xenomorfos." }
 		{ time 7700 length 6100 text "Não há uma maneira clara de soltá-lo e, até que você o faça, você não conseguira ir mais alto do que o deck 3." }
 	}
 	multisub cs0703 {
@@ -145,9 +145,9 @@ SUB1
 	multisub cs0901 {
 		{ time 2700 length 3000 text "Polito está morta, inseto." }
 		{ time 6300 length 4100 text "Está com medinho? do que voce tem medo?" }
-		{ time 10500 length 3900 text "O fim da sua existencia trivial?" }
+		{ time 10500 length 3900 text "O fim da sua existência trivial?" }
 		{ time 15000 length 10500 text "Quando a historia da minha gloria for escrita" }
-		{ time 18800 length 6700 text "Sua espécie será apenas uma nota no rodape de minha magnificência." }
+		{ time 18800 length 6700 text "Sua espécie será apenas uma nota no rodapé de minha magnificência." }
 	}
 }
 {
@@ -169,13 +169,13 @@ SUB1
 		{ time 10700 length 4600 text "perfeitas servas para minha divindade." }
 	}
 	multisub cs0905 {
-		{ time 2100 length 8800 text "Antes que o hacker destrui-se meu loop de dados primários, quando destruiu Citadel," }
+		{ time 2100 length 8800 text "Antes do hacker destruir meu loop de dados primários, quando destruiu Citadel," }
 	}
 	multisub cs0906 {
 		{ time 00 length 9200 text "Ejetei a capsula, onde minhas criações e o componente de processamento 43893 estavam armazenados." }
 		{ time 9200 length 7200 text "Trinta anos depois, a cápsula aterrissou em Tau Ceti V." }
 		{ time 16500 length 3300 text "Eu sobrevivi apenas dormindo." }
-		{ time 19800 length 6300 text "Na minha ausência, minhas criações, meus anelídios, prosperaram." }
+		{ time 19800 length 6300 text "Na minha ausência, minhas criações, meus anelídeos, prosperaram." }
 	}
 	multisub cs0907 {
 		{ time 100 length 2500 text "Prosperaram e cresceram indisciplinados." }
@@ -189,8 +189,8 @@ SUB1
 	}
 	multisub cs0909 {
 		{ time 2100 length 4700 text "Lembre-se que é a minha vontade que te guiou até aqui." }
-		{ time 6800 length 5700 text "É a minha vontade que lhe deu seus implantes ciberneticos," }
-		{ time 12700 length 5200 text "a unica beleza nessa carne que você chama de corpo." }
+		{ time 6800 length 5700 text "É a minha vontade que lhe deu seus implantes cibernéticos," }
+		{ time 12700 length 5200 text "a única beleza nessa carne que você chama de corpo." }
 		{ time 17800 length 8000 text "Se você valoriza essa carne, você fará o que eu disser." }
 		{ time 27600 length 1200 text "(animal)" }
 	}
@@ -206,7 +206,7 @@ SUB1
 		{ time 13100 length 6500 text "Mas você nos confunde. Por que você serve a nossa mãe?" }
 	}
 	multisub cs1402 {
-		{ time 1200 length 6200 text "Como você pode escolher o metal frio sobre o explendor da carne?" }
+		{ time 1200 length 6200 text "Como você pode escolher o metal frio sobre o esplendor da carne?" }
 		{ time 7400 length 2100 text "Mas você nos teme." }
 		{ time 9600 length 6300 text "Nós ouvimos seus pensamentos, e eles se enfurecem por seus irmãos que morreram." }
 		{ time 16000 length 6300 text "Mas eles não morreram. Eles cantam em nossa sinfonia de vida." }

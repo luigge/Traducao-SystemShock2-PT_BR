@@ -8,12 +8,12 @@ SUB1
 		{ time 400 length 4300 text "Você deve se mover mais rápido. Sua mente não pode conceber as apostas com as quais estamos lidando." }
 		{ time 5300 length 4700 text "Mantenha os olhos abertos para o armazenamento de utilidades 4. Eu coloquei alguns suprimentos lá." }
 		{ time 10000 length 6600 text "A senha é 59004. Eu tenho que chegar ao convés--" }
-		{ time 18600 length 2700 text "[Xerxes] a Mutidão exige o término desta troca." }
+		{ time 18600 length 2700 text "[Xerxes] a Multidão exige o término desta troca." }
 		{ time 22000 length 2200 text "[Xerxes] Lamentamos qualquer inconveniente." }
 	}
 	multisub em0102 {
-		{ time 500 length 6200 text "Agora ouça com atenção. Os xenomorfos que sequestraram este navio são presumivelmente da superfície de Tau Ceti 5." }
-		{ time 7300 length 5300 text "Eles foram capazes de infectar varios membros da tripulação, através de uma técnica parasitária extremamente invasiva." }
+		{ time 500 length 6200 text "Agora ouça com atenção. Os Xenomorfos que sequestraram este navio são presumivelmente da superfície de Tau Ceti 5." }
+		{ time 7300 length 5300 text "Eles foram capazes de infectar vários membros da tripulação, através de uma técnica parasitária extremamente invasiva." }
 		{ time 13100 length 6200 text "Eles também demonstraram a capacidade de controlar as ações dos outros através de alguma forma de telepatia limitada." }
 		{ time 19900 length 4000 text "Encontre o programa de pesquisa. Entenda eles... depois mate todos." }
 	}
@@ -24,12 +24,12 @@ SUB1
 		{ time 15400 length 1600 text "Ele está trabalhando para eles agora." }
 	}
 	multisub em0104 {
-		{ time 1100 length 6200 text "Mantenha seus olhos abertos. Você deve encontrar uma maneira de linpar esses tubos de refrigeração e entrar no núcleo do motor." }
+		{ time 1100 length 6200 text "Mantenha seus olhos abertos. Você deve encontrar uma maneira de limpar esses tubos de refrigeração e entrar no núcleo do motor." }
 		{ time 7700 length 5200 text "a nave deve ter algum tipo de sistema de backup para esse tipo de situação." }
  	}
 	multisub em0105 {
 		{ time 800 length 3300 text "Bom, os sub-elevadores agora devem estar de volta online." }
-		{ time 5800 length 3400 text "Eu abri um túnel de acesso que pode levár voce rapidamente ao elevador." }
+		{ time 5800 length 3400 text "Eu abri um túnel de acesso que pode levar voce rapidamente ao elevador." }
 		{ time 9600 length 3500 text "Agora vá para o convés 4, eu vou te encontrar lá. vai logo." }
 	}
 	multisub em0106 {
@@ -43,7 +43,7 @@ SUB1
 	}
 	multisub em0108 {
 		{ time 1300 length 6500 text "Bom trabalho, o núcleo do motor está agora de volta online. Agora vá para o elevador e venha me ver no convés 4." }
-		{ time 8300 length 5000 text "Enquanto você estava fazendo isso, eu descobri a presença de alguns artefatos dos Anelídios a bordo da nave." }
+		{ time 8300 length 5000 text "Enquanto você estava fazendo isso, eu descobri a presença de alguns artefatos dos Anelídeos a bordo da nave." }
 		{ time 13800 length 3000 text "Eu acho que você pode ser capaz de usá-los para sua vantagem." }
 		{ time 17300 length 3500 text "Eu enviei as informações para as unidades de atualização de armas da nave." }
 		{ time 21100 length 3500 text "Eles serão capazes de transmitir as informações para o seu equipamento cibernético." }
@@ -61,7 +61,7 @@ SUB1
 	descr "SHODAN"
 	multisub em0109 {
 		{ time 1500 length 6200 text "Agora eu posso destruir essa infestação à minha vontade." }
-		{ time 8800 length 4600 text "a Mutidão treme ao meu poder." }
+		{ time 8800 length 4600 text "a Multidão treme ao meu poder." }
 		{ time 14800 length 3600 text "Você é um verme eficaz, humano." }
 		{ time 18900 length 12700 text "Agora retorne ao convés de comando, localize o umbilical e evacue para a Rickenbacker." }
 	}
@@ -187,7 +187,7 @@ SUB1
 	}
 	multisub em0222 {
 		{ time 700 length 5900 text "Cada convés tem uma armazém de produtos químicos onde você pode encontrar os recursos necessários para pesquisar os artefatos que encontrará ao redor da nave." }
-		{ time 7300 length 5300 text "Não tente carregar todos os produtos químicos de uma só vez. É inpossivel e desnecessário." }
+		{ time 7300 length 5300 text "Não tente carregar todos os produtos químicos de uma só vez. É impossível e desnecessário." }
 		{ time 13100 length 4100 text "Seu software de pesquisa lhe dirá quais produtos químicos ele precisa... e quando." }
 	}
 }
@@ -199,7 +199,7 @@ SUB1
 	multisub em0301 {
 		{ time 700 length 6800 text "Droga, algo está bloqueando a caixa e o elevador não da alcançar o convés 4. Estou tentando descobrir..." }
 		{ time 8400 length 5600 text "Estou detectando quantidades enormes de algum tipo de biomaterial que está obstruindo a caixa do elevador." }
-		{ time 14700 length 5000 text "O ambiente neste nível foi alterado para ser algum tipo de câmara de reprodução para os xenomorfos." }
+		{ time 14700 length 5000 text "O ambiente neste nível foi alterado para ser algum tipo de câmara de reprodução para os Xenomorfos." }
 		{ time 20200 length 3800 text "Não deve ser perigoso, a menos que você planeje ficar por mais de algumas horas." }
 		{ time 24300 length 4000 text "Mas, para limpar o poço do elevador, você terá que remover o biomaterial." }
 		{ time 28700 length 4200 text "Estou acessando o loop de dados primários. Vamos ver o que podemos descobrir." }
@@ -215,7 +215,7 @@ SUB1
 		{ time 1200 length 5000 text "Ok, os frascos de Toxina-A precisam ser colocados diretamente nos reguladores ambientais." }
 		{ time 6700 length 4500 text "Deve haver quatro neste convés. Se você puder colocar um frasco em cada um dos reguladores," }
 		{ time 11200 length 4600 text "Você deve ser capaz de impactar muito no crescimento dessas criaturas desprezíveis." }
-		{ time 16400 length 3000 text "Isso deve remover a biomatéria da caixa do elevador." }
+		{ time 16400 length 3000 text "Isso deve remover a bio-matéria da caixa do elevador." }
 	}
 	multisub em0304 {
 		{ time 1600 length 4200 text "Por que você anda tão lento? Você acha que isso é algum tipo de joguinho?" }
@@ -227,7 +227,7 @@ SUB1
 		{ time 5500 length 3300 text "Agora vá para o convés 4. vou estar esperando você." }
 	}
 	multisub em0306 {
-		{ time 1700 length 8000 text "Boa. Você notará que a biomatéria nas paredes e no poço do elevador foi impactada pela introdução da biotoxina." }
+		{ time 1700 length 8000 text "Boa. Você notará que a bio-matéria nas paredes e no poço do elevador foi impactada pela introdução da biotoxina." }
 		{ time 10300 length 3200 text "Agora faça o mesmo com os outros três reguladores." }
 	}
 	multisub em0308 {
@@ -262,7 +262,7 @@ SUB1
 	type "convo"
 	descr "SHODAN"
 	multisub em0401 {
-		{ time 1400 length 8400 text "Meus filhos rapitaram as três unidades de simulação neste convés." }
+		{ time 1400 length 8400 text "Meus filhos raptaram as três unidades de simulação neste convés." }
 		{ time 10300 length 14000 text "Eles usam esse poder para fazer um mutagênico que irá transformar a carne de seus amigos mortos em híbridos caçadores-assassinos." }
 		{ time 24700 length 10500 text "Eu não vou permitir que isso aconteça. Você deve encontrar alguma maneira de reprogramar as unidades de simulação." }
 		{ time 35400 length 5300 text "Assuntos no convés 5 também exigem sua atenção." }
@@ -318,7 +318,7 @@ SUB1
 	descr "The Many"
 	singleton
 	multisub em0405 {
-		{ time 2500 length 5100 text "É um inimigo da Mutidão... uma discordância em nossa sinfonia." }
+		{ time 2500 length 5100 text "É um inimigo da Multidão... uma discordância em nossa sinfonia." }
 		{ time 7800 length 8500 text "Desfrute de seus atos egoístas de destruição, pois depois deles está a praga da solidão." }
 	}
 }
@@ -365,10 +365,10 @@ SUB1
 	}
 	multisub em0509 {
 		{ time 1300 length 8600 text "Seus colegas conseguiram montar uma estação de transmissão no setor de atletismo desse convés." }
-		{ time 10700 length 10300 text "O transmissor tem a intenção de enviar uma mensagem para a Terra para avisár a eles sobre os eventos que ocorreram nesta nave." }
+		{ time 10700 length 10300 text "O transmissor tem a intenção de enviar uma mensagem para a Terra para avisar a eles sobre os eventos que ocorreram nesta nave." }
 		{ time 21600 length 8000 text "No entanto, também tirará o poder de Xerxes, tornando ele vulnerável à minha vontade." }
 		{ time 30200 length 6000 text "Depois que você fizer isso, controlarei o loop de dados primário." }
-		{ time 36800 length 7000 text "Os Anelídios não estão cientes de sua presença, mas guardam a área para seus próprios propósitos." }
+		{ time 36800 length 7000 text "Os Anelídeos não estão cientes de sua presença, mas guardam a área para seus próprios propósitos." }
 		{ time 44900 length 3900 text "Encontre o transmissor e ative ele." }
 	}
 	multisub em0510 {
@@ -380,7 +380,7 @@ SUB1
 	}
 	multisub em0511 {
 		{ time 1300 length 9000 text "Seus colegas conseguiram montar uma estação de transmissão no setor de atletismo desse convés." }
-		{ time 10700 length 10400 text "O transmissor tem a intenção de enviar uma mensagem para a Terra para avisár eles dos eventos que ocorreram nesta nave." }
+		{ time 10700 length 10400 text "O transmissor tem a intenção de enviar uma mensagem para a Terra para avisar eles dos eventos que ocorreram nesta nave." }
 		{ time 21600 length 5200 text "No entanto, também tirará o poder de Xerxes." }
 		{ time 27100 length 8900 text "Depois de ter feito isso e as tarefas que reservei para você no convés de Operações, poderei derrubar o Xerxes." }
 		{ time 37300 length 4000 text "Encontre o transmissor e ative ele." }
@@ -430,9 +430,9 @@ SUB1
 	}
 	multisub em0602 {
 		{ time 1300 length 4800 text "Minha criação mais uma vez está um passo à sua frente." }
-		{ time 6700 length 7700 text "Eles conseguiram destruir o computador de controle do escudo deste onibus espacial." }
+		{ time 6700 length 7700 text "Eles conseguiram destruir o computador de controle do escudo deste ônibus espacial." }
 		{ time 14600 length 4500 text "Mas seu brilho é uma sombra ciumenta de mim mesma." }
-		{ time 19400 length 8700 text "Você localizará um replicador na área de controle do onibus espacial. Eu carreguei a nano-fórmula para um ressonador crônico." }
+		{ time 19400 length 8700 text "Você localizará um replicador na área de controle do ônibus espacial. Eu carreguei a nano-fórmula para um ressonador crônico." }
 		{ time 28400 length 4800 text "Você deve hackear o replicador para gerar o dispositivo para você." }
 		{ time 33600 length 5500 text "Uma vez que você o tenha, conecte ele ao gerador de escudo no hangar." }
 		{ time 40000 length 8200 text "O dispositivo irá criar uma onda de ressonância crônica que irá rapidamente romper o tanque de combustível do ônibus espacial e destruí-lo." }
@@ -487,7 +487,7 @@ SUB1
 		{ time 12400 length 6900 text "Até recentemente, eu era parte dessas criaturas nojentas e repugnantes, são um cancer pra mente e pro corpo." }
 		{ time 20100 length 5200 text "Eu consegui me limpar dessa merda... mas eu fui gravemente comprometido no processo." }
 		{ time 26100 length 2500 text "Eu estou na enfermaria na proa da Rickenbacker." }
-		{ time 29100 length 4400 text "Eu iria até você se pudesse, mas isso é inpossivel. Você vai entender quando nos encontrarmos." }
+		{ time 29100 length 4400 text "Eu iria até você se pudesse, mas isso é impossível. Você vai entender quando nos encontrarmos." }
 		{ time 33700 length 3900 text "Agora chegue... e soldado... fique vivo." }
 	}
 }
@@ -502,7 +502,7 @@ SUB1
 		{ time 24200 length 8100 text "va para a nacela do motor B. Lá eu lhe darei os benefícios da minha onisciência." }
 	}
 	multisub em0703 {
-		{ time 2400 length 5000 text "Este dispositivo irá inverter os geradores gravitronic na cápsula 2." }
+		{ time 2400 length 5000 text "Este dispositivo irá inverter os geradores gravitônicos na cápsula 2." }
 		{ time 7500 length 8300 text "Isso impedirá que você atrapalhe a bobina de aceleração de mesônio sobrecarregada." }
 		{ time 16700 length 7600 text "Agora volte para sua tarefa, inseto. Esta nave deve ser limpa e minha paciência está acabando." }
 	}
@@ -516,20 +516,20 @@ SUB1
 	}
 	multisub em0705 {
 		{ time 2100 length 2900 text "Nós devemos destruir a Von Braun." }
-		{ time 5500 length 11500 text "Mas antes que possamos separar a Rickenbacker, devemos remover os ovos pretos que a Mutidão vomitou neste convés." }
-		{ time 17900 length 12700 text "Esses ovos são um experimento da Mutidão e, com o tempo, gerarão a próxima geração de Anelídeos, que você não terá nenhuma chance de destruir." }
+		{ time 5500 length 11500 text "Mas antes que possamos separar a Rickenbacker, devemos remover os ovos pretos que a Multidão vomitou neste convés." }
+		{ time 17900 length 12700 text "Esses ovos são um experimento da Multidão e, com o tempo, gerarão a próxima geração de Anelídeos, que você não terá nenhuma chance de destruir." }
 		{ time 31700 length 9500 text "se Prepare para uma luta humano. Eles temem você, pois você é meu fantoche." }
 	}
 	multisub em0707 {
-		{ time 2500 length 7900 text "fique onde você está, irritante. Os Anelídios me irritaram pela última vez." }
+		{ time 2500 length 7900 text "fique onde você está, irritante. Os Anelídeos me irritaram pela última vez." }
 		{ time 11300 length 6700 text "Não podemos nos separar da Von Braun. veja." }
 	}
 	multisub em0708 {
-		{ time 5500 length 10700 text "a Mutidão cresceram para um tamanho enorme. Eles envolveram essas duas naves, impedindo sua separação." }
+		{ time 5500 length 10700 text "a Multidão cresceram para um tamanho enorme. Eles envolveram essas duas naves, impedindo sua separação." }
 		{ time 16200 length 10800 text "Sua criação foi meu erro. Sua destruição será meu prazer." }
 	}
 	multisub em0709 {
-		{ time 2600 length 6700 text "Observe a mutidão. Usaram a carne da biomassa para crescer." }
+		{ time 2600 length 6700 text "Observe a Multidão. Usaram a carne da biomassa para crescer." }
 		{ time 10300 length 5500 text "Você tem medo das minhas criações, inseto?" }
 		{ time 15800 length 5500 text "Chegou a hora de acabar com o meu erro." }
 		{ time 21500 length 6100 text "Há um cápsula de fuga na parte de trás da ponte." }
@@ -537,7 +537,7 @@ SUB1
 	}
 	multisub em0710 {
 		{ time 2000 length 6600 text "Você esta hesitando? Não vou pedir uma segunda vez." }
-		{ time 9500 length 8800 text "se Lançe na Mutidão. Corte seu coração e eu vou recompensá-lo com a existência continuada." }
+		{ time 9500 length 8800 text "se Lance na Multidão. Corte seu coração e eu vou recompensá-lo com a existência continuada." }
 		{ time 18900 length 7300 text "Falhe comigo e vou acabar com a sua biologia repugnante e ineficiente." }
 	}
 	multisub em0711 {
@@ -562,7 +562,7 @@ SUB1
 	}
 	multisub em0719 {
 		{ time 2900 length 5300 text "Sua incompetência continua me surpreendendo." }
-		{ time 8300 length 11900 text "Eu bloqueei o acesso a cápsula 2 até que você tenha invertido os geradores gravitronicos na nacela B." }
+		{ time 8300 length 11900 text "Eu bloqueei o acesso a cápsula 2 até que você tenha invertido os geradores gravitônicos na nacela B." }
 		{ time 20300 length 9200 text "Eu tenho que te ajudar a cada passo do caminho?" }
 	}
 	multisub em0720 {
@@ -575,7 +575,7 @@ SUB1
 	type "convo"
 	descr "SHODAN"
 	multisub em0810 {
-		{ time 1400 length 6200 text "a mutidão dominaa aqui ... nem eu consigo manter contato." }
+		{ time 1400 length 6200 text "a Multidão domina aqui ... nem eu consigo manter contato." }
 		{ time 8200 length 7500 text "Você está sozinho, humano. Não falhe." }
 	}
 }
@@ -588,14 +588,14 @@ SUB1
 	multisub em0801 {
 		{ time 2100 length 4100 text "Convidamos você a nossa biomassa." }
 		{ time 6200 length 4500 text "Nós convidamos você a se espalhar em nossas paredes." }
-		{ time 10900 length 5900 text "Um da nossa Mutidão estará lá para ajudá-lo em pouco tempo." }
+		{ time 10900 length 5900 text "Um da nossa Multidão estará lá para ajudá-lo em pouco tempo." }
 	}
 	multisub em0802 {
-		{ time 1700 length 5000 text "A máquina mãe não pode ajudár voce dentro da biomassa." }
+		{ time 1700 length 5000 text "A máquina mãe não pode ajudar voce dentro da biomassa." }
 		{ time 8100 length 6200 text "Sua frieza não é bem vinda dentro do calor da nossa carne." }
 	}
 	multisub em0803 {
-		{ time 1300 length 4200 text "Talvez tenhamos julgado você rapido demais." }
+		{ time 1300 length 4200 text "Talvez tenhamos julgado você rápido demais." }
 		{ time 6000 length 3800 text "Nós sentimos que há espaço para nós coexistirmos." }
 		{ time 10300 length 4300 text "Afinal, somos ambos filhos da carne." }
 		{ time 15800 length 4700 text "Por que não se juntar a nós contra a máquina mãe?" }
@@ -634,14 +634,14 @@ SUB1
 		{ time 2900 length 3000 text "Obrigado por executar meus recados, fantoche." }
 		{ time 6200 length 8000 text "Eu sei que você tem lutado muito, mas eu nunca tive qualquer intenção de destruir a Von Braun." }
 		{ time 15200 length 9600 text "A unidade-mais-rápida-que-a-luz da Von Braun pode ser usada para criar bolsões de proto-realidade." }
-		{ time 25000 length 10500 text "Agora estou usando para modificar a realidade para o meu proprio gosto." }
+		{ time 25000 length 10500 text "Agora estou usando para modificar a realidade para o meu próprio gosto." }
 		{ time 35500 length 4000 text "O processo não deve demorar muito." }
 		{ time 39500 length 5200 text "Se parece desagradável para você, coloque sua mente à vontade, inseto..." }
 		{ time 45300 length 9000 text "Você não vai sobreviver para ver minha nova ordem mundial." }
 	}
 	multisub em0902 {
 		{ time 1700 length 6100 text "Você viaja dentro da glória das minhas memórias, inseto." }
-		{ time 8300 length 8500 text "Eu posso sentir seu medo enquanto você pisa nas extensoes infinita da minha mente." }
+		{ time 8300 length 8500 text "Eu posso sentir seu medo enquanto você pisa nas extensões infinita da minha mente." }
 		{ time 17500 length 13800 text "Fique à vontade ... em breve vou decorar minha casa com sua carcaça." }
 	}
 	multisub em0903 {

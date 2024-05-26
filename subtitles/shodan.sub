@@ -30,7 +30,7 @@ SUB1
 	multisub sh2bab_3 {
 		{ time 2400 length 700 text "Animal." }
 	}
-	sub sh1bak_1 { text "Eu sei que está ai, mas eu não posso perceber sua presenca." }
+	sub sh1bak_1 { text "Eu sei que está ai, mas eu não posso perceber sua presença." }
 	multisub sh1bak_2 {
 		{ time 00 length 3300 text "Para onde foi?" }
 		{ time 3300 length 6700 text "Eu cobiço destruir o inseto." }

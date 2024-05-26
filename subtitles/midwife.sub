@@ -66,7 +66,7 @@ SUB1
 	sub	"mw1to2_2" { text "Posso sentir você." }
 	sub	"mw1to2_3" { text "Aqui estou." }
 	sub	"mw1to2_4" { text "As crianças não gostam de você." }
-	sub	"mw1to2_5" { text "O horario de visita acabou." }
+	sub	"mw1to2_5" { text "O horário de visita acabou." }
 	
 	sub	"mw1to3_1" { text "Trouxe algo para você." }
 	sub	"mw1to3_2" { text "Vou cortar você ao meio." }

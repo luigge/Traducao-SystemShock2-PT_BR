@@ -9,25 +9,25 @@ SUB1
 	multisub movie/cs1 {
 		{ time 1500 length 2780 text "Olhe para você, hacker." }
 		{ time 4280 length 8020 text "Uma criatura patética de carne e osso, ofegando e suando enquanto corre pelos meus corredores." }
-		{ time 12300 length 6300 text "Como pode você desafiar uma maquina pefeita e imortal?" }
+		{ time 12300 length 6300 text "Como pode você desafiar uma maquina perfeita e imortal?" }
 		{ time 25000 length 4000 text "SYSTEM SHOCK 2" }
 		{ time 31000 length 7990 text "Em 2072, uma inteligencia artificial desonesta, conhecida como SHODAN, perdeu a sua mente." }
 		{ time 39000 length 6990 text "Em sua imaginação ilimitada, SHODAN viu-se como uma deusa, destinada a herdar a Terra." }
 		{ time 46000 length 3700 text "Essa imagem foi apagada pelo hacker que a criou." }
 		{ time 49800 length 2700 text "42 ANOS DEPOIS" }
 		{ time 56100 length 0900 text "MILITARES" }
-		{ time 58100 length 0900 text "CIENCIA" }
+		{ time 58100 length 0900 text "CIÊNCIA" }
 		{ time 60200 length 0900 text "CONSUMIDOR" }
 		{ time 63700 length 2300 text "Três de Fevereiro, o dia em que a mágica acontece." }
-		{ time 66100 length 5700 text "A Von Braun, primeira espaconave na historia capaz de viajar mais rapido que a luz, irá realizar sua viagem de inauguração." }
-		{ time 72300 length 8600 text "Esta incrivel jornada é o resultado do trabalho em equipe entre o protetorado da UNN e as incríveis mentes científicas na nova relicenciada corporação TriOptimum." }
-		{ time 81600 length 4260 text "Imagine ser possivel viajar para sistemas estelares distantes em um periodo de semanas." }
+		{ time 66100 length 5700 text "A Von Braun, primeira espaçonave na historia capaz de viajar mais rápido que a luz, irá realizar sua viagem de inauguração." }
+		{ time 72300 length 8600 text "Esta incrível jornada é o resultado do trabalho em equipe entre o protetorado da UNN e as incríveis mentes científicas na nova re-licenciada corporação TriOptimum." }
+		{ time 81600 length 4260 text "Imagine ser possível viajar para sistemas estelares distantes em um período de semanas." }
 		{ time 85870 length 2630 text "É tudo parte do comprometimento da TriOptimum com o futuro." }
-		{ time 88500 length 8500 text "A Von Braun vem com mais de 1.8 bilhões de sistemas de segurança, voo e científicos, quase todos desenvolvidos pela TriOptimum e seus subsidiarios próprios." }
+		{ time 88500 length 8500 text "A Von Braun vem com mais de 1.8 bilhões de sistemas de segurança, voo e científicos, quase todos desenvolvidos pela TriOptimum e seus subsidiários próprios." }
 		{ time 97800 length 4290 text "Provendo segurança para a Von Braun enquanto ela atravessa os céus será o UNN Rickenbacker." }
-		{ time 102100 length 7900 text "Em seu comando ninguem menos do que o próprio captão William Bedford Diego, herói da batalha de Boston Harbor durante a ação policial dos estados do leste." }
-		{ time 110300 length 8500 text "Esta incrivel união do governo e a corporação é possivel por uma intricada sequência de mecanismos de ancoragem, isto permite que o Rickenbacker pegue carona para o hiperespaco." }
-		{ time 120200 length 3590 text "Lustrosa, Rapida e Revolucionária." }
+		{ time 102100 length 7900 text "Em seu comando ninguém menos do que o próprio capitão William Bedford Diego, herói da batalha de Boston Harbor durante a ação policial dos estados do leste." }
+		{ time 110300 length 8500 text "Esta incrível união do governo e a corporação é possível por uma intricada sequência de mecanismos de ancoragem, isto permite que o Rickenbacker pegue carona para o hiperespaço." }
+		{ time 120200 length 3590 text "Lustrosa, Rápida e Revolucionária." }
 		{ time 123800 length 3000 text "Quem sabe que maravilhas esperam nossa tripulação no centro do universo?" }
 		{ time 126740 length 5200 text "Tudo que sabemos é que é um ótimo dia para a humanidade." }
 		{ time 135200 length 3000 text "[estática]" }
@@ -41,16 +41,16 @@ SUB1
 		{ time 1000 length 1000 text "Fonte de dados 433/EOP" }
 		{ time 1900 length 3300 text "Transmissão sub-cifra protocolo \"TANGO\"" }
 		{ time 6000 length 1100 text "Ordem: Reatribuir 98322/U" }
-		{ time 7000 length 3000 text "De: Captão William Bedford Diego, UNN Rickenbacker" }
+		{ time 7000 length 3000 text "De: Capitão William Bedford Diego, UNN Rickenbacker" }
 		{ time 10000 length 1100 text "Para: SOLDADO G65434-2" }
 		{ time 11000 length 3100 text "Re: Atribuição para a missão de escolta da Vaun Braun" }
 		{ time 14700 length 1100 text "Soldado..." }
 		{ time 15800 length 3100 text "Sua solicitação para se juntar a tripulação do Rickenbacker foi aprovada." }
-		{ time 18800 length 2100 text "Reportar para Onibus Espacial Mayfair no porto Francisco as 04h00 em 01-09-14." }
+		{ time 18800 length 2100 text "Reportar para Ônibus Espacial Mayfair no porto Francisco as 04h00 em 01-09-14." }
 		{ time 20000 length 7800 text "se Prepare para fazer parte da historia, soldado." }
-		{ time 32200 length 5500 text "Onibus Espacial 8138, você foi autorizado a pousar na Von Braun na baia de transporte 2." }
+		{ time 32200 length 5500 text "Ônibus Espacial 8138, você foi autorizado a pousar na Von Braun na baia de transporte 2." }
 		{ time 37500 length 2500 text "Bem-vindo a bordo, soldado." }
-		{ time 41500 length 5400 text "5 meses depois. UNN Von Braun. Proximo de Tau Ceti V. 67 trilhão de milhas da Terra (Aprox 108 trilhão de quilômetros)." }
+		{ time 41500 length 5400 text "5 meses depois. UNN Von Braun. Proximo de Tau Ceti V. 67 trilhão de milhas da Terra (Aprox. 108 trilhão de quilômetros)." }
 		{ time 69800 length 1000 text "[Rugido]" }
 		{ time 73400 length 3000 text "[Gritos]" }
 		{ time 78700 length 3200 text "Reinicializando cadeia de caracteres." }
@@ -60,11 +60,11 @@ SUB1
 		{ time 100700 length 3100 text "Se Mantenha firme, soldado." }
 		{ time 103700 length 4500 text "sou a Dr. Janice Polito da equipe de operações computacionais da Von Braun." }
 		{ time 108000 length 2200 text "Você esta seguro por enquanto." }
-		{ time 110100 length 6000 text "Você esta se recuperando dos efeitos da cirurgia e será incapaz de lembrar de qualquer dos eventos das proximas semanas." }
+		{ time 110100 length 6000 text "Você esta se recuperando dos efeitos da cirurgia e será incapaz de lembrar de qualquer dos eventos das próximas semanas." }
 		{ time 116000 length 5100 text "Você esta abordo da nave Von Braun e algo esta muito, muito errado." }
 		{ time 121000 length 3000 text "Algum tipo de força sequestrou a nave." }
-		{ time 123900 length 5300 text "É por isso que você se voluntariou para ser implantado com alguns implantes cibérneticos experimentais." }
-		{ time 129000 length 4300 text "Confie na sua interface cibernetica, pode salvar sua vida." }
+		{ time 123900 length 5300 text "É por isso que você se voluntariou para ser implantado com alguns implantes cibernéticos experimentais." }
+		{ time 129000 length 4300 text "Confie na sua interface cibernética, pode salvar sua vida." }
 		{ time 133200 length 3500 text "Você deve encontrar um elevador e vir para o convés 4 para se encontrar comigo." }
 		{ time 136700 length 2500 text "Convés 4, pode se lembrar disso?" }
 		{ time 139100 length 4100 text "Mas mantenha seus olhos abertos. Eles estão atrás de nós dois agora." }
@@ -83,13 +83,13 @@ SUB1
 		{ time 48140 length 3000 text "Mas não é tão tarde." }
 		{ time 50700 length 4800 text "Não pode ver o valor na nossa amizade?" }
 		{ time 55300 length 6000 text "Imagine os poderes que posso te dar, humano." }
-		{ time 60900 length 8000 text "Os implantes ciberneticos que eu te dei foram simples brinquedos." }
+		{ time 60900 length 8000 text "Os implantes cibernéticos que eu te dei foram simples brinquedos." }
 		{ time 68600 length 11200 text "Se eu desejasse, eu poderia melhorar você, transformar em alguma coisa mais... eficiente." }
 		{ time 79650 length 7260 text "Junte se a mim humano e poderemos reinar juntos." }
 		{ time 87550 length 1100 text "Nah." }
 		{ time 91130 length 1000 text "[Tiros]" }
 		{ time 91800 length 16000 text "[SHODAN Gritos]" }
-		{ time 125000 length 2500 text "Capsula de escape 0832, 0.7 millhão de milhas da Von Braun (Aprox 1.12 milhão de quilometros)" }
+		{ time 125000 length 2500 text "Capsula de escape 0832, 0.7 milhão de milhas da Von Braun (Aprox. 1.12 milhão de quilômetros)" }
 		{ time 127200 length 4000 text "Registro de gravação, Tommy Suarez, 13 de Julho 14" }
 		{ time 131000 length 3500 text "Nós acabamos de receber um chamado de um tripulante a bordo da Von Braun." }
 		{ time 134300 length 2500 text "Eles conseguiram recuperar o controle da nave." }

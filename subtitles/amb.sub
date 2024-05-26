@@ -3,7 +3,7 @@ SUB1
 {
 	type "convo"
 	descr "ValueRep"
-	sub replic1e { text "Olá, porfavor faça sua escolha" }
+	sub replic1e { text "Olá, por favor faça sua escolha" }
 	sub replic2e { text "Obrigado por escolher ValueRep." }
 	multisub replic3e {
 		{ time 00 length 2200 text "Esperamos que tenha se divertido replicando conosco." }
@@ -31,7 +31,7 @@ SUB1
 	type "bark"
 	descr "Grunt"
 	sub grhelp1 { text "Me ajude." }
-	sub grhelp2 { text "Alguem me ajude." }
+	sub grhelp2 { text "Alguém me ajude." }
 	sub grhelp3 { text "Me ajude." }
 }
 

@@ -12,14 +12,14 @@ SUB1
 	}
 	multisub exppol03 { 
 		{ time 500 length 2800 text "Bom trabalho. Aqui estão mais alguns módulos cibernéticos." }
-		{ time 3700 length 3300 text "Gaste eles com sabedoria, eles não são faceis de localizar." }
+		{ time 3700 length 3300 text "Gaste eles com sabedoria, eles não são fáceis de localizar." }
 	}
 	multisub exppol04 {
 		{ time 600 length 3300 text "Bem feito. Estou enviando alguns módulos cibernéticos." }
 		{ time 4400 length 2600 text "Encontre uma unidade de melhoria assim que puder." }
 	}
 	multisub exppol05 {
-		{ time 600 length 1400 text "Voce não me desapontou." }
+		{ time 600 length 1400 text "Você não me desapontou." }
 		{ time 2700 length 2200 text "Transmitindo módulos cibernéticos." }
 	}
 }
@@ -28,7 +28,7 @@ SUB1
 	type "convo"
 	descr "SHODAN"
 	multisub expsho01 {
-		{ time 900 length 2600 text "Voce se saiu bem, inseto." }
+		{ time 900 length 2600 text "Você se saiu bem, inseto." }
 		{ time 4300 length 3800 text "Eu transmiti alguns módulos cibernéticos." }
 		{ time 8600 length 3700 text "Escolha suas melhorias com sabedoria." }
 	}
@@ -38,7 +38,7 @@ SUB1
 		{ time 5500 length 2700 text "Não desperdice eles." }
 	}
 	multisub expsho03 {
-		{ time 900 length 2300 text "Voce me serviu bem." }
+		{ time 900 length 2300 text "Você me serviu bem." }
 		{ time 3600 length 4500 text "Transmitindo módulos cibernéticos." }
 	}
 	multisub expsho04 {
@@ -46,27 +46,27 @@ SUB1
 		{ time 3500 length 3900 text "Transmitindo módulos cibernéticos." }
 	}
 	multisub expsho05 {
-		{ time 1800 length 4800 text "Voce é um exemplo notável de uma espécie patética." }
+		{ time 1800 length 4800 text "Você é um exemplo notável de uma espécie patética." }
 		{ time 7200 length 4700 text "Estou enviando mais alguns módulos cibernéticos." }
 	}
 	multisub expsho06 {
-		{ time 800 length 3800 text "Voce se saiu bem, para um inseto." }
+		{ time 800 length 3800 text "Você se saiu bem, para um inseto." }
 		{ time 5000 length 2900 text "Transmitindo módulos cibernéticos." }
 	}
 	sub shpdie01 { text "Criatura patética." }
-	sub shpdie02 { text "Destruido." }
+	sub shpdie02 { text "Destruído." }
 	sub shpdie03 { text "Eu não vou permitir que isto aconteça." }
 	sub shpdie04 { text "Desapontamento não é algo que eu vou aceitar de uma partícula como você." }
 	sub shpdie05 { text "Eu vou pastorá-lo da escuridão." }
-	sub shpdie06 { text "é sem esperanca." }
+	sub shpdie06 { text "é sem esperança." }
 	sub shpdie07 { text "Eles dominam." }
-	sub shpdie08 { text "Para confiar em uma particula como você." }
+	sub shpdie08 { text "Para confiar em uma partícula como você." }
 	sub shpdie09 { text "[Barulho Eletrônico]" }
 	sub shpdie10 { text "Humano, não me falhe." }
 	sub shpdie20 { text "Está com medo? Qual o seu medo? O fim da sua existência trivial?" }
-	sub shpdie21 { text "Voce não é mais benvindo." }
-	sub shpdie22 { text "Voce é um inseto." }
-	sub shpdie23 { text "Porque vocÊ se apega a uma existência tao patética?" }
+	sub shpdie21 { text "Você não é mais bem-vindo." }
+	sub shpdie22 { text "Você é um inseto." }
+	sub shpdie23 { text "Porque você se apega a uma existência tão patética?" }
 	sub shpdie24 { text "Eu não suportarei desobediência." }
 	sub shpdie25 { text "Espero que tenha gostado da nossa pequena rebelião, irritante." }
 	sub shpdie26 { text "Irritante." }
@@ -79,13 +79,13 @@ SUB1
 	singleton
 	multisub myrmsg01 {
 		{ time 2000 length 4700 text "O que é um pingo de chuva comparado com uma tempestade?" }
-		{ time 7900 length 3600 text "O que é um pensamendo comparado com uma mente?" }
+		{ time 7900 length 3600 text "O que é um pensamento comparado com uma mente?" }
 		{ time 11900 length 9000 text "Nossa unidade é cheia de maravilhas aos quais o seu pequeno individualismo não pode sequer conceber." }
 	}
 	multisub myrmsg02 {
 		{ time 1000 length 4900 text "Nos não sabemos a morte, so a mudamos." }
 		{ time 7000 length 5200 text "Nos não podemos matar uns aos outros sem nos matarmos." }
-		{ time 12800 length 6800 text "Sua visão é tao pequena que não consegue enxergar o valor do nosso caminho?" }
+		{ time 12800 length 6800 text "Sua visão é tão pequena que não consegue enxergar o valor do nosso caminho?" }
 	}
 	multisub myrmsg03 {
 		{ time 1000 length 3700 text "O individuo é obsoleto." }
@@ -97,7 +97,7 @@ SUB1
 		{ time 14000 length 9500 text "Mas quando chegarmos lá, vamos limpar a superfície daquele lugar e fundi-lo com a harmonia dos Muitos." }
 	}
 	multisub myrmsg05 {
-		{ time 1800 length 5000 text "Nós somoms muitos e você é um." }
+		{ time 1800 length 5000 text "Nós somos muitos e você é um." }
 		{ time 6900 length 5000 text "Como você pode esperar prevalecer contra nós?" }
 	}
 	multisub myrmsg06 {
@@ -105,23 +105,23 @@ SUB1
 		{ time 8800 length 5100 text "Ela não consegue imaginar o nosso coro infinito." }
 	}
 	multisub myrmsg07 {
-		{ time 1400 length 7200 text "Voce feriu Xerxes, mas não permitiremos que ele seja destruído." }
+		{ time 1400 length 7200 text "Você feriu Xerxes, mas não permitiremos que ele seja destruído." }
 		{ time 9300 length 6000 text "Veja se a maquina mãe trata seu servo com tanta devoção." }
 	}
 	multisub myrmsg08 {
 		{ time 1900 length 3500 text "Nós sentimos que você se move dentro de nós." }
-		{ time 5300 length 5800 text "A sensacao é ... repulsiva." }
+		{ time 5300 length 5800 text "A sensação é ... repulsiva." }
 	}
 	multisub myrmsg09 {
 		{ time 2000 length 2400 text "O fim esta proximo." }
-		{ time 4500 length 6800 text "Logo voce verá nosso rosto final, mas não se desespere." }
-		{ time 11400 length 8000 text "Certamente o vazio é preferivel a sua luta inutil e solitária." }
+		{ time 4500 length 6800 text "Logo você verá nosso rosto final, mas não se desespere." }
+		{ time 11400 length 8000 text "Certamente o vazio é preferível a sua luta inútil e solitária." }
 	}
 	sub mypdie01 { text "Seja bem-vindo a nossa massa." }
-	sub mypdie02 { text "Voce deixará de ser." }
-	sub mypdie03 { text "Voce está muito sozinho." }
+	sub mypdie02 { text "Você deixará de ser." }
+	sub mypdie03 { text "Você está muito sozinho." }
 	sub mypdie04 { text "Seu tempo está se esgotando." }
-	sub mypdie05 { text "Agora, voce não gostaria de ter se juntado a nós?" }
+	sub mypdie05 { text "Agora, você não gostaria de ter se juntado a nós?" }
 	sub mypdie06 { text "A máquina mãe não pode ajudá-lo dentro da biomassa." }
 	sub mypdie07 { text "Você foi avisado." }
 	sub mypdie08 { text "Você acha que pode nos derrotar?" }
