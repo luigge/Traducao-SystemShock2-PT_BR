@@ -16,7 +16,7 @@ SUB1
 		{ time 1600 length 1500 text "Discórdia!" }
 	}
 	multisub og1amb_5 {
-		{ time 900 length 2200 text "Nós não caimos!" }
+		{ time 900 length 2200 text "Nós não caímos!" }
 	}
 	sub og1at0_1 { text "Os muitos cantam para nós." }
 	sub og1at0_2 { text "O que aconteceu comigo?" }
@@ -37,16 +37,16 @@ SUB1
 	sub og1att_3 { text "Submeta!" }
 	sub og1bak_1 { text "A canção eh... não perturbada." }
 	sub og1bak_2 { text "Nós encontramos nada." }
-	sub og1bak_3 { text "Nada alem de nós." }
+	sub og1bak_3 { text "Nada além de nós." }
 	sub og1bak_4 { text "Nenhum intruso de metal aqui." }
 	sub og1bak_5 { text "Nós estamos sozinhos." }
 	sub og1bod_1 { text "Você nos deixou." }
-	sub og1bod_3 { text "Nossa canção é diminuida." }
+	sub og1bod_3 { text "Nossa canção é diminuída." }
 	sub og1bod_4 { text "Não é mais um de nós." }
 	sub og1bod_5 { text "Você está livre." }
 	sub og1chg_1 { text "Silencie a discórdia." }
 	sub og1hit_1 { text "Os muitos são fortes!" }
-	sub og1hit_2 { text "Nós triumfamos!" }
+	sub og1hit_2 { text "Nós triunfamos!" }
 	sub og1hit_3 { text "Você está perdido!" }
 	sub og1hit_4 { text "Sua discórdia fica quieta!" }
 	sub og1hit_5 { text "Sinta sua carne!" }

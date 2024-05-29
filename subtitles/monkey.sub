@@ -1,7 +1,7 @@
 SUB1
 
-// A maioria dos sons do macaco são usados para multiplos estados de alerta,
-// Então não é possivel assinalar descrições especificas para eles.
+// A maioria dos sons do macaco são usados para múltiplos estados de alerta,
+// Então não é possível assinalar descrições especificas para eles.
 
 {
 	type "nonverbal"

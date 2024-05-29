@@ -38,8 +38,8 @@ SUB1
 {
 	type "nonverbal"
 	descr ""
-	sub baby1 { text "[Bebe Chorando]" }
-	sub baby2 { text "[Bebe Chorando]" }
+	sub baby1 { text "[Bebê Chorando]" }
+	sub baby2 { text "[Bebê Chorando]" }
 	sub classic { text "[Musica Clássica]" }
 	sub screamf1 { text "[Mulher Gritando]" }
 	sub screamf2 { text "[Mulher Gritando]" }

@@ -1,176 +1,307 @@
-Psi0:"Capacidade Neuronal de Nivel 1 
+Psi0:"CAPACIDADE NEURAL NÕVEL 1
 
-Necesaria para as disciplinas psi¢nicas de Primeiro Nivel. Aumenta seu limite superior de pontos PSI em 2. Todas as disciplinas de Primeiro Nivel custam 1 ponto psi por uso."
-Psi1:"Tela Psico-refletora
+Requerido para as disciplinas psiÙnicas de NÌvel 1.  Aumenta o limite dos seus pontos de PSI em 2.  Todas as disciplinas de NÌvel 1 custam 1 ponto de PSI por uso."
 
-Te protege 15% de todos os danos de batalha.
+//=================================
 
-Duracao: 20 segs. + 30 segs. por PSI"
-Psi2:"Humidifacao Neuro-reflex
+Psi1:"TELA PSICO-REFLETORA
 
-Elimina o recuo de toda arma.
+Protege vocÍ de 15% de todos os danos de combate.
 
-Duracao: 1 min. + 20 segs. por PSI"
-Psi9:"Campo Anti-entr¢pica
+DURA«√O:
+20 segundos + 30 segundos por PSI."
 
-Enquanto esta disciplina Ç ativada, o nivel de suas armas permanecem intactos e nao se degradam.
-Duracao: 10 segs. + 20 segs. por PSI"
-Psi3:"Redirecionamento Cinetico
+//-------------------------------------------
 
-Atrai um objeto para vocÍ.  
+Psi2:"AMORTECIMENTO NEURO-REFLEX
 
-Duracao: 1 seg. por PSI"
-Psi4:"Agilidade PsicogÇnica
+Elimina o recuo das armas.
 
-Incrementa sua agilidade em 2.
+DURA«√O: 
+1 minuto + 20 segundos por PSI."
 
-Duracao: 2 min. + 1 min. por PSI"
-Psi6:"Criokinesis Projetada 
+//-------------------------------------------
 
-LanÁa um projÈctil de drenagem de calor no seu alvo.  Quanto maior o PSI, maior o dano.."
-Psi5:"Afinidade Ciber-PsicogÇnica
+Psi3:"REDIRECIONAMENTO CIN…TICO
 
-Aumente o seu CIB em 2.
+Atrai um objeto atÈ vocÍ.  
 
-Duracao: 2 min. + 1 min. por PSI"
-Psi8:"Capacidad Neuronal de Nivel 2
+DURA«√O:
+1 segundo por PSI."
 
-Necess·rio para as disciplinas psi¢nicas de Segundo Nivel. Aumente o seu limite superior de pontos psi em 4. Todas as disciplinas do Segundo NÌvel custam 2 pontos psi por uso.."
-Psi11:"DescontaminaÁ„o Neuronal
+//-------------------------------------------
 
- te Protege a 80% dos danos causados pela radiaÁ„o.
+Psi4:"AGILIDADE PSICOG NICA
 
-Duracao: 10 segs. + 5 segs. por PSI"
-Psi12:"RegeneraÁ„o cÈrebro-estimulada 
+Incrementa sua AGI em 2.
 
-RegeneraÁ„o dos pontos de status vitais perdidos.
-Quantidade curada: 2 pontos de status vital por PSI"
-Psi13:"ForÁa PsicogÇnica 
+DURA«√O:
+2 minutos + 1 minuto por PSI."
 
-Aumente a sua forÁa em 2.
+//-------------------------------------------
 
-Duracao: 2 min. + 1 min. por PSI"
-Psi17:"DuplicaÁ„o Molecular 
+Psi5:"AFINIDADE CIBERN…TICA PSICOG NICA
 
-V·rios nanites s„o usados para dobrar as muniÁıes do carregador ou hypo.
+Incrementa a sua CIB em 2.
 
-Probabilidad de êxito: 30% + 10% por PSI"
-Psi14:"Amplificaci¢n Psi Recurrente
+DURA«√O:
+2 minutos + 1 minuto por PSI."
 
-Aumenta Psi¢nicos em 2. O custo de pontos Psi se duplicam enquanto est· ativo.
+//-------------------------------------------
 
-Duracao: 10 segs. + 10 segs. por PSI"
-Psi18:"Cascada Electr¢nica 
+Psi6:"CRIOCINESE PROJETADA 
 
-Recarregar um objecto ou arma carregada.
-Recarregar quantidade: 20% por ponto PSI, atÈ ao m·ximo permitido pela sua capacidade de ManutenÁ„o."
-Psi15:"Pirokinesis Localizada 
+LanÁa um projÈtil de drenagem de calor no seu alvo.  Quanto maior o PSI, maior o dano."
 
-Danifica todas as criaturas dentro de um certo raio.  Quanto maior o PSI, maior o dano..
+//-------------------------------------------
 
-Radio: 5 pies + 1 pie por PSI
-Duracao: 15 segs. + 8 segs. por PSI"
-Psi16:"Capacidad Neuronal Nivel 3
+Psi7:"MANIPULA«√O ELETR‘NICA REMOTA
 
-Se necesita para las disciplinas psi¢nicas de Tercer Nivel.  Incrementa tu l°mite m†ximo de puntos psi en 6.  Todas las disciplinas del Tercer Nivel cuestan 3 puntos psi por uso."
-Psi19:"Reflexi¢n de Energ°a 
+Faz os alarmes ativos expirem mais r·pido.
 
-Proporciona 50% inmunidad a todo da•o de origen energÇtico.
+TEMPO DE REDU«√O: 
+5 seg. + 5 seg. por PSI."
 
-Duracao: 20 segs. por PSI"
-Psi20:"Bloqueante Toxina Neuronal
+//=================================
 
-Protege un 100% de la absorci¢n de toxinas.
+Psi8:"CAPACIDADE NEURAL NÕVEL 2
 
-Duracao: 10 segs. + 5 segs. por PSI"
-Psi21:"Sensibilidad a movimiento mejorada 
+Requerido para as disciplinas psiÙnicas de NÌvel 2.  Aumenta o limite dos seus pontos de PSI em 4.  Todas as disciplinas de NÌvel 2 custam 2 pontos de PSI por uso."
 
-Muestra la ubicaci¢n de todas las criaturas cercanas.
+//=================================
 
-Duracao: 30 segs. por PSI"
-Psi22:"Pirokinesis Proyectada 
+Psi9:"CAMPO ANTIENTR”PICO
 
-Lanza un proyectil llameante a un objetivo.  A mayor PSI mayor da•o."
-Psi7:"Manipulaci¢n Electr¢nica Remota
+Enquanto esta disciplina est· ativa, suas armas n„o quebram e n„o se degradam.
 
-Hace que las alarmas estÇn m†s tiempo desconectadas.
+DURA«√O: 10 segundos + 20 segundos por PSI."
 
-Tiempo de reducci¢n: 5 segs. + 5 segs. por PSI"
-Psi10:"Sobreproducci¢n de Adrenalina
+//-------------------------------------------
 
-Incrementa el da•o cuerpo a cuerpo a un valor igual al PSI.
+Psi10:"SOBREPRODU«√O DE ADRENALINA
 
-Duracao: 10 segs. por PSI"
-Psi23:"HipnogÇnesis Psi¢nica 
+Incrementa o dano corpo-a-corpo por um fator igual ao PSI.
 
-Las criaturas no aut¢matas permanecen inmoviles y d¢ciles. Si la criatura es da•ada, el efecto finaliza.
+DURA«√O: 10 seg. por PSI."
 
-Duracao: 20 segs. por PSI."
-Psi24:"Capacidad Neuronal de Nivel 4
+//-------------------------------------------
 
-Se requiere para las disciplinas psi¢nicas de Cuarto Nivel.  Incrementa tu l°mite m†ximo de puntos psi en 8.  Todas las disciplinas de Cuarto Nivel cuestan 4 puntos psi por uso."
-Psi25:"Redirecci¢n Fot¢nica 
+Psi11:"DESCONTAMINA«√O NEURAL
 
-Te hace invisible a todas las criaturas.  Si se dispara un arma se termina el efecto.
+Protege vocÍ de 80% dos danos causados pela radiaÁ„o.
 
-Duracao: 5 segs. + 5 segs. por PSI"
-Psi26:"Detecci¢n Muestra Remota
+DURA«√O: 10 segundos + 5 segundos por PSI."
 
-Muestra la situaci¢n de muchos objetos £tiles, como nanites, munici¢n, hypos, implantes y registros de audio.
+//-------------------------------------------
 
-Duracao: 1 min. por PSI"
-Psi27:"Supresi¢n Electr¢nica
+Psi12:"REGENERA«√O C…REBRO-ESTIMULADA 
 
-Immoviliza cualquier objetivo aut¢mata.
+Regenera pontos de vida perdidos.
 
-Duracao: 3 segs. por PSI"
-Psi28:"Resistencia PsicogÇnica
+QUANTIDADE CURADA: 
+2 pontos de vida por PSI."
 
-Incrementa tu Resistencia en 2.
+//-------------------------------------------
 
-Duracao: 2 min. + 1 min. por PSI"
-Psi29:"Transmutaci¢n Molecular 
+Psi13:"FOR«A PSICOG NICA 
 
-Convierte la munici¢n e hypos en nanites."
-Psi30:"Manipulaci¢n de Circuitos Remota
+Incrementa a sua FOR em 2.
 
-Permite piratear psi¢nicamente.  Se usa la mitad de tu estado PSI en vez del estado CIB y la habilidad Piratear, y gasta puntos psi en vez de nanites."
-Psi31:"Extensi¢n Cerebro-energÇtica 
+DURA«√O:
+2 minutos + 1 minuto por PSI."
 
-Cambia tu Amplificador Psi a una potente arma cuerpo a cuerpo.
+//-------------------------------------------
 
-Duracao: 10 segs. por PSI"
-Psi32:"Capacidad Neuronal de Nivel 5
+Psi14:"AMPLIFICA«√O PSI‘NICA RECURSIVA
 
-Se requiere para las disciplinas psi¢nicas de Quinto Nivel.  Incrementa tu l°mite m†ximo de puntos psi en 10.  Todas las disciplinas de Quinto Nivel cuestan 5 puntos psi por uso."
-Psi33:"Regeneraci¢n Avanzada Cerebro-estimulada 
+Aumenta o seu PSI em 2. O custo de PSI È dup. enquanto est· ativa.
+DURA«√O: 10 seg. + 10 seg. por PSI."
 
-Regenera los puntos de estado vital perdidos.
-Cantidad curada: 5 puntos de estado vital + 5 puntos de estado vital por PSI"
-Psi34:"Transferencia Soma 
+//-------------------------------------------
 
-Drena puntos de estado vital de criaturas no aut¢matas, y suma esos puntos de estado vital a tu total."
-Psi35:"Redisposici¢n instant†nea Quantum 
+Psi15:"PIROCINESE LOCALIZADA 
 
-Te teleporta al lugar marcado. Si no hay, se establecer† una marca en tu posici¢n actual. Puede borrarse un telepuerto marcado tecleando Alt-T."
-Psi36:"Organizaci¢n Neuronal Impuesta
+Danifica todas as criaturas em um raio de 1.5 metros. Quanto maior o PSI, maior o dano.
+DURA«√O: 15 seg. + 8 seg. por PSI."
 
-Los seres no aut¢matas se vuelven hostiles hacia toda criatura no humana.
-Duracao: 10 segs. por PSI o hasta ser da•ado por un humano."
-Psi37:"Barrera Metacreativa
+//=================================
 
-Crea un muro fuerza psi¢nica directamente frente a ti.
-Puntos de resistencia del muro: 150 + 50 por PSI por encima de 5
-Duracao: 4 min."
-Psi38:"Detonaci¢n Psi¢nica Externa
+Psi16:"CAPACIDADE NEURAL NÕVEL 3
 
-Deja caer una mina de proximidad psi¢nica. No da•a a robots, y hace doble da•o a criaturas psi¢nicamente sensibles.
-Duracao: 4 min."
-Psi39:"Aura Psico-reflectora 
+Requerido para as disciplinas psiÙnicas de NÌvel 3.  Aumenta o limite dos seus pontos de PSI em 6.  Todas as disciplinas de NÌvel 3 custam 3 pontos de PSI por uso."
 
-Te protege del 60% de todo da•o en el combate.
+//=================================
 
-Duraci¢n: 10 segs. + 20 segs. por PSI"
+Psi17:"DUPLICA«√O MOLECULAR 
+
+Usa alguns Nanitos para duplicar MuniÁ„o ou Hipo.
+
+CHANCE DE SUCESSO: 
+30% + 10% por PSI."
+
+//-------------------------------------------
+
+Psi18:"CASCATA DE EL…TRONS
+
+Recarrega um item ou objeto carreg·vel.
+
+QUANTIDADE: 20% por PSI, atÈ ao m·x. permitido pela sua hab. de ManutenÁ„o."
+
+//-------------------------------------------
+
+Psi19:"REFLEX√O DE ENERGIA 
+
+Proporciona 50% de imunidade a todas as fontes de dano baseadas em energia.
+
+DURA«√O: 
+20 segundos por PSI."
+
+//-------------------------------------------
+
+Psi20:"BLOQUEADOR DE TOXINAS NEURAL
+
+Protege vocÍ de 100% da absorÁ„o de toxinas.
+
+DURA«√O: 10 segundos + 5 segundos por PSI."
+
+//-------------------------------------------
+
+Psi21:"SENSIBILIDADE DE MOVIMENTO MELHORADA 
+
+Mostra a localizaÁ„o de todas as criaturas prÛximas.
+
+DURA«√O: 
+30 segundos por PSI."
+
+//-------------------------------------------
+
+Psi22:"PIROCINESE PROJETADA 
+
+LanÁa um projÈtil flamejante no alvo. Quanto maior o PSI, maior o dano."
+
+//-------------------------------------------
+
+Psi23:"HIPOG NESE PSI‘NICA 
+
+As criaturas n„o-robÛticas alvo permanecem paradas e dÛceis. Se a criatura tomar dano o efeito acaba.
+DURA«√O: 20 segundos por PSI."
+
+//=================================
+
+Psi24:"CAPACIDADE NEURAL NÕVEL 4
+
+Requerido para as disciplinas psiÙnicas de NÌvel 4.  Aumenta o limite dos seus pontos de PSI em 8.  Todas as disciplinas de NÌvel 4 custam 4 pontos de PSI por uso."
+
+//=================================
+
+Psi25:"REDIRE«√O FOT‘NICA 
+
+Faz vocÍ invisÌvel a todas as criaturas.  Atirar com uma arma termina o efeito.
+DURA«√O:
+5 segundos + 5 segundos por PSI."
+
+//-------------------------------------------
+
+Psi26:"DETEC«√O REMOTA DE PADR’ES
+
+Mostra a localizaÁ„o de itens, como Nanitos, MuniÁ„o, Hipos, Implantes e Reg. de ¡udio.
+DURA«√O: 1 minuto por PSI."
+
+//-------------------------------------------
+
+Psi27:"SUPRESS√O ELETR‘NICA
+
+Imobiliza qualquer alvo robÛtico.
+
+DURA«√O: 
+3 segundos por PSI."
+
+//-------------------------------------------
+
+Psi28:"RESIST NCIA PSICOG NICA
+
+Incrementa a sua RES em 2.
+
+DURA«√O: 
+2 minutos + 1 minuto por PSI."
+
+//-------------------------------------------
+
+Psi29:"TRANSMUTA«√O MOLECULAR 
+
+Converte a MuniÁ„o e Hipos em Nanitos."
+
+//-------------------------------------------
+
+Psi30:"MANIPULA«√O REMOTA DE CIRCUITOS
+
+Permite hackear psiÙnic.  Usa a metade (arr. p/cima) do seu PSI no lugar do seu CIB e a Hab. de Hacking e gasta pontos de PSI ao invÈs de Nanitos."
+
+//-------------------------------------------
+
+Psi31:"EXTENS√O C…REBRO-ENERG…TICA
+
+Troca o seu Amplificador PsiÙnico em uma poderosa arma corpo-a-corpo.
+DURA«√O: 10 segundos por PSI."
+
+//=================================
+
+Psi32:"CAPACIDADE NEURAL NÕVEL 5
+
+Requerido para as disciplinas psiÙnicas de NÌvel 5.  Aumenta o limite dos seus pontos de PSI em 10.  Todas as disciplinas de NÌvel 5 custam 5 pontos de PSI por uso."
+
+//=================================
+
+Psi33:"REGENERA«√O C…REBRO-ESTIMULADA AVAN«ADA 
+
+Regenera pontos de vida perdidos.
+QUANTIDADE CURADA: 5 pontos + 5 pontos por PSI."
+
+//-------------------------------------------
+
+Psi34:"TRANSFER NCIA SOMA 
+
+Drena pontos de vida de criaturas n„o-robÛticas alvo, e adiciona estes pontos de vida ao seu total."
+
+//-------------------------------------------
+
+Psi35:"REALOCA«√O QU¬NTICA INSTANT¬NEA
+
+Teleporta vocÍ a um lugar marcado. Se n„o houver, ao invÈs, definir· um marcador em sua posiÁ„o atual. Alt-T para limpar o marcador."
+
+//-------------------------------------------
+
+Psi36:"REESTRUTURA«√O NEURAL IMPOSTA
+
+Causa um alvo n„o-robÛtico ‡ ficar hostil ‡ todas as criaturas n„o-humanas.
+DURA«√O: 10 seg. por PSI ou atÈ ser danificado por um humano."
+
+//-------------------------------------------
+
+Psi37:"BARREIRA METACRIATIVA
+
+Cria uma parede de forÁa psi em sua frente.
+
+P. DE VIDA: 150 + 50 por PSI acima de 5.
+DURA«√O: 4 minutos."
+
+//-------------------------------------------
+
+Psi38:"DETONA«√O PSI‘NICA EXTERNA
+
+Solta uma mina psi de proximidade. N„o d· dano a robÙs.  2x dano ‡ criaturas psiÙnicamente sensÌveis.
+DURA«√O: 4 minutos."
+
+//-------------------------------------------
+
+Psi39:"AURA PSICO-REFLEXIVA
+
+Protege vocÍ de 60% de todo o dano de combate.
+
+DURA«√O: 10 segundos + 20 segundos por PSI"
+
+//-------------------------------------------
+
 PsiIcon0:"picn00"
 PsiIcon1:"picn01"
 PsiIcon2:"picn02"
@@ -211,47 +342,49 @@ PsiIcon36:"picn36"
 PsiIcon37:"picn37"
 PsiIcon38:"picn38"
 PsiIcon39:"picn39"
+
 BuyText0:"Selecione com estes botıes o nÌvel de disciplina psÌquica que vocÍ deseja adquirir.."
 BuyText2:"Isto mostra quantos mÛdulos cibernÈticos vocÍ tem disponÌveis para gastar.."
 BuyText3:"Navegue entre v·rios caracteres MFD com estes botıes."
 AmpText0:"Mude com estes botıes entre os v·rios nÌveis das disciplinas psÌquicas."
+
 PsiShort0:"Esta È uma falha"
 PsiShort1:"Escudo Psi"
-PsiShort2:"Reflex"
-PsiShort9:"Anti-Entrop°a"
-PsiShort3:"Atracci¢n Psi"
-PsiShort4:"Agilidad"
+PsiShort2:"A.N-Reflexo"
+PsiShort3:"AtraÁ„o Psi"
+PsiShort4:"Agilidade"
 PsiShort5:"Ciber"
-PsiShort6:"Criokinesis"
-PsiShort8:"Esto es un fallo"
-PsiShort17:"Duplicar"
-PsiShort11:"Escudo Rad"
-PsiShort12:"Regenerar"
-PsiShort13:"Fuerza"
-PsiShort14:"Recurrente Psi"
-PsiShort18:"Electron"
-PsiShort15:"Campo Piro"
-PsiShort16:"Esto es un fallo"
-PsiShort19:"Reflejar"
-PsiShort20:"Escudo Toxina"
-PsiShort21:"Movimiento Sentido"
-PsiShort22:"Pirokinesis"
-PsiShort7:"Pare o alarme"
+PsiShort6:"Criocinese"
+PsiShort7:"Desligar Al."
+PsiShort8:"Esta È uma falha"
+PsiShort9:"Anti-Entrop."
 PsiShort10:"Adrenalina"
-PsiShort23:"Hipnosis"
-PsiShort24:"Esto es un fallo"
-PsiShort25:"Invisibilidad"
-PsiShort26:"Detectar Objetos"
-PsiShort27:"Supresi¢n"
-PsiShort28:"Resistencia"
+PsiShort11:"Escudo Rad."
+PsiShort12:"Regenerar"
+PsiShort13:"ForÁa"
+PsiShort14:"Psi Rec."
+PsiShort15:"Campo Piro"
+PsiShort16:"Esta È uma falha"
+PsiShort17:"Duplicar"
+PsiShort18:"ElÈtrons"
+PsiShort19:"Refletir"
+PsiShort20:"Escudo Tox."
+PsiShort21:"Sentir Mov."
+PsiShort22:"Pirocinese"
+PsiShort23:"Hipnose"
+PsiShort24:"Esta È uma falha"
+PsiShort25:"Invisibilidade"
+PsiShort26:"Detectar Ob."
+PsiShort27:"Supress„o"
+PsiShort28:"ResistÍncia"
 PsiShort29:"Transmutar"
-PsiShort30:"Pirateo Psi"
+PsiShort30:"Hack Psi"
 PsiShort31:"Arma Psi"
 PsiShort32:"Esta È uma falha"
-PsiShort33:"RegeneraÁ„o AvanÁada"
+PsiShort33:"Regen. Avan."
 PsiShort34:"Transferir"
-PsiShort35:"Reagrupar"
-PsiShort36:"Reestruturar"
+PsiShort35:"Realocar"
+PsiShort36:"Reestrut."
 PsiShort37:"Barreira"
-PsiShort38:"Detonaci¢n"
+PsiShort38:"DetonaÁ„o"
 PsiShort39:"Aura"
