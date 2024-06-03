@@ -17,7 +17,7 @@
 * Informações do estado de armas, itens e etc.`USEMSG.STR`
 * Tutorial do modo Hack (incompleto) `INFOCOMP.STR`
 * Interações com objetos `HRM.STR`
-* Informações de Habilidades e informações gerais `SKILLHELP.STR`, `STATHELP.STR`, `psihelp.STR`, `TRAITS.STR`, `MODIFY1.STR`, `MODIFY2.STR`
+* Informações de Habilidades e informações gerais `SKILLHELP.STR`, `STATHELP.STR`, `PSIHELP.STR`, `TRAITS.STR`, `MODIFY1.STR`, `MODIFY2.STR`
 * Nomes dos jogos salvos `SAVENAME.STR`
 * Estado das armas `WEAPON.STR`
 * Tipo de tiro das armas `SETT1.STR`, `SETT2.STR`, `SHEAD1.STR`, `SHEAD2.STR`
@@ -63,26 +63,26 @@
  * Imagens PCX (menu do inventário, hack e etc.) agora usam as fontes do jogo
  * Correções nos textos de informações dos objetos
  * Mais correções nos arquivos .PCX
- * Correcões nos textos do jogo
+ * Correções nos textos do jogo
 
 
 **V1.3b**
 * E-Mails do jogo (em tradução)
 * Status e ganhos de habilidades no prólogo do jogo `CHARGEN.STR`
-* Legendas da pasta subtitles 90% concluidas. traduzido por `Luigge` e `Arthur`
-* Arquivos.txt da pasta strings aprox 75% concluídos. traduzido por `Luigge`, `Arthur` e a outra pessoa que estava traduzindo antes
+* Legendas da pasta subtitles 90% concluídas. traduzido por `Luigge` e `Arthur`
+* Arquivos.txt da pasta strings aprox. 75% concluídos. traduzido por `Luigge`, `Arthur` e a outra pessoa que estava traduzindo antes
 * Adição dos acentos àáâã éê í óôõ ú ç/ ÀÝÂÃ ÉÊ Ý ÓÔÕ Ú Ç por `Luigge`
 
 **Correções:**
 * Correções nos textos de informações dos objetos (correções gramaticais e de contexto) por `Luigge`.
 * Correções dos nomes dos itens (correções gramaticais e de contexto) por `Luigge`.
-* Correcões nos demais arquivos de texto (.str) (correções gramaticais e de contexto) Por `Luigge`, `Arthur` e com ajuda de algumas pessoas no fórum do system shock 2.
+* Correções nos demais arquivos de texto (.str) (correções gramaticais e de contexto) Por `Luigge`, `Arthur` e com ajuda de algumas pessoas no fórum do system shock 2.
   
 **V1.4:**
  Desde a versão 1.3b foi feita uma revisão da tradução antiga portanto muitos textos foram mudados. (feito por mim (`Luigge`) com ajuda de um amigo (`Arthur`) e algumas pessoas no fórum do system shock 2)
 
 **Legendas:**
-Todos os arquivos da pasta **subtitles** foram traduzidos e/ou revisados, ou seja, as falas da doutora polito, as falas da shodan, basicamente a história do jogo, falas dos inimigos, cutscene inicial do jogo.
+Todos os arquivos da pasta **subtitles** foram traduzidos e/ou revisados, ou seja, as falas da doutora Polito, as falas da shodan, basicamente a história do jogo, falas dos inimigos, cutscene inicial do jogo.
 
 * `amb.sub`, `assassin.sub`, `bbetty.sub`, `bots.sub`, `cutscenes.sub`, `devices.sub`, `grub.sub`, `midwife.sub`, `monkey.sub`, `ogrunt.sub`, `overlord.sub`, `protobot.sub`, `psi.sub`, `rumbler.sub`, `shodan.sub`, `spider.sub`, `turcam.sub`, `vbriefs.sub`, `vcs.sub`, `vemails.sub`, `vtriggers.sub` 
 
@@ -103,7 +103,7 @@ Revisão da maioria dos arquivos da pasta strings.
  `OBJLOOKS.STR`, `LEVEL01.STR` à `LEVEL09.STR`, `INFOCOMP.STR`, `MINIGAME.STR`
 
 **V2.0**
-* `LEVEL01.STR` a `LEVEL09.STR` e dei uma pequena mudada nas legendas e tambem mudei muitas palavras pra ficarem mais naturais e reais
+* `LEVEL01.STR` a `LEVEL09.STR` e dei uma pequena mudada nas legendas e também mudei muitas palavras pra ficarem mais naturais e reais
 
 **O que falta a ser traduzido:**
 * `OBJLOOKS.STR` (iniciado), `PSIHELP.STR`, `MINIGAME.STR`, `INFOCOMP.STR`
@@ -112,4 +112,16 @@ Revisão da maioria dos arquivos da pasta strings.
 
 * Revisado todos os arquivos da pasta `subtitles`
 * Revisado Alguns arquivos da pasta `strings`
-* Traduzido o arquivo `PSIHELP.SRT` 
+* Traduzido o arquivo `PSIHELP.SRT`
+
+**V2.2:**
+
+* Mudança nos arquivos  `vbriefs.sub` mudei o nome PDA (Personal Digital Assistant) para ADP (Assistente Digital Pessoal)
+* Revisado alguns arquivos da pasta STRINGS.
+* Traduzido os arquivos `MINIGAME.SRT` e `INFOCOMP.SRT` (Os painéis de informação com um desenho de um "?")
+* Adição do changelog e mudanças no Readme
+
+**O que falta traduzir:**
+* `OBJLOOKS.STR`, `LEVEL05.STR` ao `LEVEL09.STR`
+* Revisar os arquivos `LEVEL01.STR` ao `LEVEL04.STR`
+* Revisar o arquivo `CHARGEN.STR`s

@@ -117,10 +117,10 @@ SUB1
 	}
 
 	multisub trg0033 {
-		{ time 00 length 3600 text "Uma das ferramentas mais importantes que você tem como soldado é o seu PDA - (Assistente Pessoal Digital)." }
+		{ time 00 length 3600 text "Uma das ferramentas mais importantes que você tem como soldado é o seu ADP - (Assistente Digital Pessoal)." }
 		{ time 4000 length 4000 text "Este dispositivo guarda registro de áudios, emails, e outras informações uteis." }
-		{ time 8700 length 4000 text "Clique no ícone de disco no canto inferior direito da sua tela para abrir a janela do seu PDA." }
-		{ time 13300 length 3000 text "No momento o conteúdo do seu PDA está vazio." }
+		{ time 8700 length 4000 text "Clique no ícone de disco no canto inferior direito da sua tela para abrir a janela do seu ADP." }
+		{ time 13300 length 3000 text "No momento o conteúdo do seu ADP está vazio." }
 		{ time 16700 length 2300 text "Agora pegue aquele registro de áudio na sua frente." }
 	}
 
@@ -188,9 +188,9 @@ SUB1
 	}
 
 	multisub trg0023 {
-		{ time 00 length 2700 text "O objeto que está em sua frente é um contêiner de nanites (dinheiro do jogo)." }
+		{ time 00 length 2700 text "O objeto que está em sua frente é um contêiner de Nanitos (dinheiro do jogo)." }
 		{ time 2900 length 4900 text "Nanites são consumidos toda vês que você realizar tarefas técnicas como hackear ou reparar." }
-		{ time 8200 length 8200 text "Quando você pega um contêiner de nanites, eles não vão para o seu inventário, ao invés disso, são mostrados no modo uso no canto inferior esquerdo da sua tela." }
+		{ time 8200 length 8200 text "Quando você pega um contêiner de Nanitos, eles não vão para o seu inventário, ao invés disso, são mostrados no modo uso no canto inferior esquerdo da sua tela." }
 		{ time 17000 length 3000 text "Ande ate o teclado próximo à porta e tente hackear." }
 	}
 
@@ -209,7 +209,7 @@ SUB1
 	}
 
 	multisub trg0024 {
-		{ time 00 length 2900 text "Você pode usar os nanites para comprar itens dos replicadores." }
+		{ time 00 length 2900 text "Você pode usar os Nanitos para comprar itens dos replicadores." }
 		{ time 3100 length 2100 text "Para usar um replicador clique nele com o botão direito." }
 		{ time 5600 length 2200 text "E depois clique com o botão esquerdo no item que deseja comprar." }
 		{ time 8300 length 2500 text "O item que você comprou será despejado no compartimento abaixo." }
@@ -252,7 +252,7 @@ SUB1
 		{ time 21200 length 5000 text "Vá para o modo de uso e clique nas setas no canto inferior direito da tela." }
 		{ time 26700 length 3300 text "Isto vai mudar entre as suas habilidades." }
 		{ time 30400 length 7000 text "Mais tarde, clicando nas setas em cima do número a esquerda vai permitir você selecionar habilidades de maior nível." }
-		{ time 37900 length 7000 text "Use a Criocinese para destruir o robô, e a Redireção Cinética para puxar o contêiner de nanites para sua direção." }
+		{ time 37900 length 7000 text "Use a Criocinese para destruir o robô, e a Redireção Cinética para puxar o contêiner de Nanitos para sua direção." }
 		{ time 45500 length 8500 text "Tenha cuidado, segurando o botão do mouse pode aumentar o poder mas se você segurar por muito tempo vai causar um esgotamento, que vai te dar dano." }
 		{ time 54500 length 3800 text "Se você ficar sem pontos psiônicos, use outro Hipo." }
 	}

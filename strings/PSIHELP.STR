@@ -40,7 +40,7 @@ DURAÇÃO:
 
 //-------------------------------------------
 
-Psi5:"AFINIDADE CIBERNÉTICA PSICOGÊNICA
+Psi5:"psi5 AFINIDADE CIBERNÉTICA PSICOGÊNICA
 
 Incrementa a sua CIB em 2.
 
@@ -349,9 +349,9 @@ BuyText3:"Navegue entre vários caracteres MFD com estes botões."
 AmpText0:"Mude com estes botões entre os vários níveis das disciplinas psíquicas."
 
 PsiShort0:"Esta é uma falha"
-PsiShort1:"Escudo Psi"
+PsiShort1:"Escudo PSI"
 PsiShort2:"A.N-Reflexo"
-PsiShort3:"Atração Psi"
+PsiShort3:"Atração PSI"
 PsiShort4:"Agilidade"
 PsiShort5:"Ciber"
 PsiShort6:"Criocinese"
@@ -378,8 +378,8 @@ PsiShort26:"Detectar Ob."
 PsiShort27:"Supressão"
 PsiShort28:"Resistência"
 PsiShort29:"Transmutar"
-PsiShort30:"Hack Psi"
-PsiShort31:"Arma Psi"
+PsiShort30:"Hack PSI"
+PsiShort31:"Arma PSI"
 PsiShort32:"Esta é uma falha"
 PsiShort33:"Regen. Avan."
 PsiShort34:"Transferir"

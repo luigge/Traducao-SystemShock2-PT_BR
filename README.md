@@ -4,6 +4,9 @@ Este é um projeto que começou há muito tempo em 2013 pelos usuários `Viniciu
 ### Projeto
 O projeto visa atualmente traduzir todos os textos presentes dentro do jogo como legendas, máquinas, menus e tudo que puder ser traduzido. Futuramente é possível traduzir textos de imagens (redezenhando) e dublar os áudios para ter uma experiência mais completa, porém de momento o foco é só nos arquivos de texto.
 
+### Changelog
+Para o changelog, consulte o arquivo Changelog.md
+
 ### Como instalar?
 1. Baixe a ferramenta para instalação de mods que pode ser encontrada [aqui](https://www.systemshock.org/index.php?topic=4790.0)
 2. Mova o arquivo **ss2bmm.exe** para a pasta do jogo. (no caso da steam fica em *C:\Program Files (x86)\Steam\steamapps\common\SS2*)

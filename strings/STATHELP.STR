@@ -1,7 +1,13 @@
 Text0:"Força (FOR) determina a capacidade do inventário e do dano em combate corpo a corpo. Todas as armaduras e certas armas requerem um mínimo de força."
-Text1:"Resistência (RES) determina seus pontos de saúde máximos, e sua resistência a radiação e toxinas."
+
+Text1:"Resistência (RES) determina seus pontos de vida máximos, e sua resistência a radiação e toxinas."
+
 Text2:"Habilidade Psiônica (PSI) determina sua hábil. em uso de disciplinas psiônicas. A duração, o alcance e o dano provocado por estas disc. podem depender do seu PSI."
+
 Text3:"Agilidade (AGI) determina sua velocidade de movimento e reduz o dano de queda e o recuo das armas."
+
 Text4:"Afinidade Cibernética (CIB) aumenta a sua capacidade de usar com sucesso habilidades de Hackear, Reparar e Modificar e também diminui o número de nodos perigosos."
-Text8:"Os ciber-módulos são usados para aumentar suas estatísticas, habilidades básicas e habilidades psiônicas."
-Text9:"Pode navegar entre vários elementos do MFD com estes botões."
+
+Text8:"Os Módulos Cibernéticos são usados para aumentar suas estatísticas, habilidades básicas e habilidades psiônicas."
+
+Text9:"Você pode navegar entre vários elementos do VMF com estes botões."
