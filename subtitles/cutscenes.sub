@@ -1,7 +1,8 @@
 SUB1
 
 // legendas para todas as cutscenes
-
+// legendas para sons na tela estão inclusos, mas comentados
+// pode ser útil para tradução
 
 {
 	type movie
@@ -39,7 +40,7 @@ SUB1
 
 	multisub movie/cs2 {
 		{ time 1000 length 1000 text "Fonte de dados 433/EOP" }
-		{ time 1900 length 3300 text "Transmissão sub-cifra protocolo \"TANGO\"" }
+		{ time 1900 length 3300 text "Transmissão sub-cifra protocolo “TANGO”" }
 		{ time 6000 length 1100 text "Ordem: Reatribuir 98322/U" }
 		{ time 7000 length 3000 text "De: Capitão William Bedford Diego, UNN Rickenbacker" }
 		{ time 10000 length 1100 text "Para: SOLDADO G65434-2" }

@@ -61,7 +61,7 @@ SUB1
 	sub	"md1los_4" { text "Entrada do sensor dentro dos limites padrões." }
 	sub	"md1los_5" { text "A anomalia não está mais presente." }
 	
-	sub	"md1to1_1" { text "Re-executando o processamento de entrada."  
+	sub	"md1to1_1" { text "Re-executando o processamento de entrada." } 
 	sub	"md1to1_2" { text "Possível anomalia." }
 	sub	"md1to1_3" { text "Iniciando observação." }
 	sub	"md1to1_4" { text "Detalhe de anomalias observado." }

@@ -1,180 +1,216 @@
 Mission1:"12 de Fevereiro de 2112
+
 O seu tempo de trabalho a bordo da UNN Gallo acabou. Bem, você passou mais anos emocionantes, não foi, fuzileiro? Se você alguma vez ver uma outra caixa de embalagem da UNN, você vai dar um tiro na cabeça. Mas você usou bem o tempo e o seu volume muscular aumentou consideravelmente.
-Você Ganhou +2 em Força"
+
+Você Ganhou +2 em FORÇA"
 
 //---------------------------
 
 Mission2:"12 de Fevereiro de 2112
-O seu tempo de trabalho na Escola de Sobrevivência Io acabou. você conseguiu sobreviver todos seu anos ali... dificilmente. O encontro com um decendente Mutante Tigre da Estação Citadel te deixou um mês na enfermaria. Mas agora você é um fuzileiro naval durão.
-Você Ganhou +2 em Resistencia."
+
+O seu tempo de trabalho na Escola de Sobrevivência Io acabou. você conseguiu sobreviver todos seu anos ali... dificilmente. O encontro com um descendente Mutante Tigre da Estação Citadel te deixou um mês na enfermaria. Mas agora você é um fuzileiro naval durão.
+
+Você Ganhou +2 em RESISTÊNCIA."
 
 //---------------------------
 
 Mission3:"12 de Fevereiro de 2112
-Os seus anos na Estação Guadacanal acabaram. O lugar lhe serviu bem soldado, e você está mais elegante do que nunca. Talvez se você tivesse passado menos tempo bebendo os fluidos mais leves que eles vendem no comissário, você teria se saido ainda melhor.
-Você Ganhou +2 em Agilidade."
+
+Os seus anos na Estação Guadacanal acabaram. O lugar lhe serviu bem soldado, e você está mais elegante do que nunca. Talvez se você tivesse passado menos tempo bebendo os fluidos mais leves que eles vendem no comissário, você teria se saído ainda melhor.
+
+Você Ganhou +2 em AGILIDADE."
 
 //---------------------------
 
-Mission4:"23 de Fevereiro de 2113
-É hora de sair da UNN Antigua e voltar para a estação Wake Island, quase um mês depois. Cinco meses no seu posto, o sargento de artilharia sofreu um colapso nervoso durante um exercicio de treinamento e eliminou metade das tropas com a sua arma de plasma após você ter o abordado. E após isso, você ficou no comando, e nos próximos meses você ficou muito bom em usar armas de feixe de baixa energia.
-Você Ganhou +1 em Armas Energéticas e Afinidade Cibernética."
+Mission4:"23 de Fevereiro de 2113 //Fuzileiro ano 2 esquerda
+
+É hora de sair da UNN Antigua e voltar para a Estação Wake Island, quase um mês depois. Cinco meses no seu posto, o sargento de artilharia sofreu um colapso nervoso durante um exercício de treinamento e eliminou metade de um batalhão com tiros de plasma antes que você o tivesse agarrado. E após isso, você ficou no comando, e nos próximos meses você ficou muito bom em usar armas de feixe de baixa energia.
+
+Você Ganhou +1 em ARMAS ENERGÉTICAS, AFINIDADE CIBERNÉTICA e uma Pistola Laser."
 
 //---------------------------
 
-Mission5:"23 de Fevereiro de 2113
-É hora de sair do Cinturão de Asteroides e voltar para a estação Wake Island. Você provavelmente terá pesadelos sobre túneis pequenos apertados por anos, mas você e o seu time fizeram um bom trabalho. Uma combinação de granadas PEM vai parar a maioria das máquinas e durante seu ano no cinturão, você adquiriu muita prática em nocautear ciborgues e robôs de volta na linha de montagem.
-Você Ganhou +1 em Armas pesadas e +1 de Afinidade Cibernética."
+Mission5:"23 de Fevereiro de 2113 //Fuzileiro ano 2 centro
+
+É hora de sair do Cinturão de Asteroides e voltar para a Estação Wake Island. Você provavelmente terá pesadelos sobre túneis pequenos apertados por anos, mas você e o seu time fizeram um bom trabalho. Uma combinação de Granadas de PEM e Explosivos de Alta Potência vai parar a maioria das máquinas e durante seu ano no Cinturão, você adquiriu muita prática em nocautear ciborgues e robôs de volta para a linha de montagem.
+
+Você Ganhou +1 em ARMAS PESADAS, AFINIDADE CIBERNÉTICA e um Lança Granadas."
 
 //---------------------------
 
-Mission6:"23 de Fevereiro de 2113
-É hora de sair do porto MacArthur e voltar para a estação Wake Island. Você tem que pegar e encher mais cartuchos de munição do que você pode contar. Você ainda tem que ocasionalmente jogar com alvos vivos em um exercício de especialista. Ainda assim, você não pode passar um ano na MacArthur sem aprender alguma coisa. Você adquiririu uma grande quantidade de habiliadades com armas padrão e ainda impressionou alguns dos técnicos do Mac (porto MacArthur).
-Você Ganhou +2 em Armas Padrão."
+Mission6:"23 de Fevereiro de 2113 //Fuzileiro ano 2 direita
+
+É hora de sair do porto MacArthur e voltar para a Estação Wake Island. Você pôde pegar e encher mais cartuchos de munição do que você pode contar. Você ainda pôde ocasionalmente jogar com alvos vivos em um exercício de especialista. Ainda assim, você não pode passar um ano no MacArthur sem aprender alguma coisa. Você adquiriu uma grande quantidade de habilidades com armas padrão e ainda impressionou alguns dos técnicos do porto Mac.
+
+Você Ganhou +2 em ARMAS PADRÃO."
 
 //---------------------------
 
-Mission7:"9 de Fevereiro de 2114
-Volte para Estação Wake Island - \nimediatamente. Seu período de serviço no escritório da UNN terminou. Depois de anos praticando na guarda de honra você parece bem elegante em seu uniforme. E você está muito melhor em manter o seu rifle em uma condição perfeita. Se você tivesse ficado entediado por muito mais tempo você poderia ficar tentado a atirar em turistas. Ainda assim, a habilidade de manutenção pode vir a ser útil algum dia.
-Você Ganhou +1 em Manutenção."
+Mission7:"9 de Fevereiro de 2114 //Fuzileiro ano 3 esquerda
+
+Volte para Estação Wake Island - \nimediatamente. Seu período de serviço no escritório da UNN terminou. Depois de anos praticando na guarda de honra você parece bem elegante em seu uniforme. E você está muito melhor em manter o seu rifle em uma condição perfeita. Se você tivesse ficado entediado por muito mais tempo você poderia ficar tentado a atirar nos turistas. Ainda assim, a habilidade de manutenção pode vir a ser útil algum dia.
+
+Você Ganhou +1 em MANUTENÇÃO e uma Ferramenta de Manutenção."
 
 //---------------------------
 
-Mission8:"9 de Fevereiro de 2114
-Volte para Estação Wake Island - \nimediatamente. Seus anos na Estação Polidies terminaram. Trabalhando nas forças de magnata foi muito fácil, você quase não gastou nenhuma munição. A segunda batalha, quando o seu tenente tomou controle da estação, não foi tão dificil. A unica coisa que você achava realmente interessande era desconstruir armas do mercado negro para ver quais tipos de modificações exóticas eles faziam.
-Você Ganhou +1 em Modificação."
+Mission8:"9 de Fevereiro de 2114 //Fuzileiro ano 3 centro
+
+Volte para a Estação Wake Island \nimediatamente - seu ano na Estação Polidies terminou.  Enfrentar as forças do Magnata foi moleza - você quase não gastou munição.  A segunda luta, quando o tenente dele fez uma jogada para a delegacia, não foi muito mais difícil.  A única coisa que você achou um pouco interessante foi desmontar as armas do mercado negro depois para ver que tipo de mods sofisticados eles faziam.
+
+Você Ganhou +1 em MODIFICAÇÃO."
 
 //---------------------------
 
-Mission9:"9 de Fevereiro de 2114
-Volte para Estação Wake Island - \nimediatamente. Seu periodo de serviço na UNN Antigua termina. Você manteve a Antigua operando por 6 meses, quando cada sistema parava de funcionar diariamente. Mas os seus reais problemas vieram qudando os condenados que o serviço aéreo estava transportando tentaram se revoltar. Levou o resto da viagem para você tirar o cheiro dos explosivods dos purificadores de ar e aprender a consertar as essas coisas malditas
-Você Ganhou +1 em Reparação"
+Mission9:"9 de Fevereiro de 2114 //Fuzileiro ano 3 direita
+
+Volte para a Estação Wake Island \nimediatamente - seu serviço na UNN Antigua terminou.  Você manteve A Antigua funcionando por seis meses, quando todos os sistemas da nave travavam diariamente.  Mas seus verdadeiros problemas surgiram quando os condenados que o Serviço Aéreo transportava decidiram tentar uma revolta.  Você levou o resto da viagem para tirar o cheiro de explosivos dos purificadores de ar, mas aprendeu a consertar as malditas coisas.
+
+Você Ganhou +1 em REPARAÇÃO"
 
 //---------------------------
 
-Mission10:"13 Fevereiro de 2112
-Seu tempo de serviço a bordo do UNN Lucille foi concluido. você teve um ano muito produtivo. O Capitao Meyer parecia satisfeito com o seu trabalho, especialmente com a sua iniciativa na mostra a instrução fisica. Um alferez amigavel te ensinou como acessar (através de uma porta traseira), o sistema de dados basicos do navio e gastou o seu tempo livre bombeamento de grades de ferro.
-Você Ganhou +1 em Hacker e +1 Forca."
+Mission10:"13 Fevereiro de 2112 //Marinha ano 1 esquerda
+
+Sua missão a bordo da UNN Lucille foi concluída.  Você passou um ano produtivo.  O capitão Mayer ficou satisfeito com o seu trabalho, principalmente com a iniciativa que demonstrou no treinamento físico.  Um alferes amigável mostrou alguns back-doors para o loop de dados primário da nave e você passou seu tempo bombeando o bom e velho ferro.
+
+Você Ganhou +1 em HACKING e +1 FORÇA."
 
 //---------------------------
 
-Mission11:"13 Fevereiro de 2112
-Seu tempo de serviço a bordo do UNN Lucille foi finalizado. você teve um ano muito produtivo. O Capiton Meyer parecia satisfeito com o seu trabalho, especialmente com a sua iniciativa mostrando seu trabalho duro. Tambem demonstrou uma capacidade de reparar um dano e descartar as que não podiam ser reparadas.
-Você Ganhou +1 em Reparação e +1 em Forca."
+Mission11:"13 Fevereiro de 2112 //Marinha ano 1 centro
+
+Sua missão a bordo da UNN Lucille foi concluída.  Você passou um ano produtivo.  O Capitão Mayer ficou satisfeito com o seu trabalho, especialmente com a sua disposição em sujar as mãos.  Você também mostrou uma aptidão especial para consertar o que estava quebrado e carregar o que não podia ser consertado.
+
+Você Ganhou +1 em REPARAÇÃO e +1 em FORÇA."
 
 //---------------------------
 
-Mission12:"13 Fevereiro de 2112
-Seu tempo de serviço a bordo do UNN Lucille foi finalizado. você teve um ano muito produtivo, mas não fez muitos amigos. Sem contar o tempo que você gastou levando os soldados bebados para enfermagem, a maioria do tempo gasto no tratamento daqueles brinquedos do seu precioso arsenal.
-Você Ganhou +1 em Modificação e +1 em Forca."
+Mission12:"13 Fevereiro de 2112 //Marinha ano 1 direita
+
+Sua missão a bordo da UNN Lucille foi concluída.  Você passou um ano produtivo, embora não tenha feito muitos amigos.  Entre o endurecimento por colocar aspirantes bêbados na enfermaria, você tinha bastante tempo livre no arsenal para brincar com os lindos brinquedos.
+
+Você Ganhou +1 em MODIFICAÇÃO e +1 em FORÇA."
 
 //---------------------------
 
-Mission13:"11 de Fevereiro de 2113
-Seu tempo de serviço a bordo do UNN Carfax foi finalizado. Tem sido um ano bom para você, mas não para o Carfax. Apos o impacto, eles tiveram surpresa de um pequeno meteorito, o Carfax foi forçado a voltar para casa com 123 vitimas, incluindo o chefe do oficial de navegação. você ocupou seu lugar com cuidado e no final do ano você se tornou muito habil na gestão da interface da neuro-nav.
-Você Ganhou +2 em Cyber Afinidade."
+Mission13:"11 de Fevereiro de 2113 //Marinha ano 2 esquerda
+
+Sua missão a bordo da UNN Carfax foi concluída.  Foi um bom ano para você, mas não ótimo para o Carfax.  Depois de ser atingido de surpresa por um pequeno meteorito que se separou da massa maior, a Carfax foi forçada a voltar para casa, com 123 vítimas, incluindo o oficial chefe de navegação.  Você entrou em cena e ocupou o lugar dele e, no final do ano, você se tornou bastante habilidoso com a interface neuro-navegação.
+
+Você Ganhou +2 em AFINIDADE CIBERNÉTICA."
 
 //---------------------------
 
-Mission14:"11 de Fevereiro de 2113
-Seu tempo de serviço a bordo do UNN Pierce foi finalizado. A viagem foi tranquila, exceto para um dos presos, que passou a ser um dissidente espiao. Depois das emoções causada pela execução imediata e aprendido o suficiente sobre armas de manutenção, e tambem foi um prisioneiro condenado a prisao perpetua.
-Você Ganhou +1 em Manutenção."
+Mission14:"11 de Fevereiro de 2113 //Marinha ano 2 centro
+
+Seu serviço a bordo da UNN Pierce foi concluído.  Sua viagem anual foi realizada sem problemas, exceto que um dos “prisioneiros” era um espião dissidente.  Antes e depois de se empolgar com a execução sumária dele, você aprendeu um pouco sobre manutenção de armas com um dos sobreviventes a bordo.
+
+Você Ganhou +1 em MANUTENÇÃO e uma Ferramenta de Manutenção."
 
 //---------------------------
 
-Mission15:"11 de Fevereiro de 2113
-Seu tour do dever em Treinamento Tatico LaVerne Escola foi concluido. O ano em que venho treinando no campo de tiro e o simulador militar fez-lhe muito habil no uso de armas militares (pistolas, rifles de assalto e as politicas de espingardas automaticas.
-Você Ganhou +2 em Armas Padrão."
+Mission15:"11 de Fevereiro de 2113 //Marinha ano 2 direita
+
+Seu período de serviço na Escola de Treinamento Tático LaVerne foi concluído.  Um ano de campos de tiro, simulações de festas de embarque e jogos de guerra fez bem a você.  Você passou muito tempo com pistolas de nível militar, rifles de assalto e até espingardas automáticas.
+
+Você Ganhou +2 em ARMAS PADRÃO."
 
 //---------------------------
 
-Mission16:"9 de Fevereiro de 2114
-Seu tempo de servico na Marie Curie Research Facilities foi finalizado. Parabens por sobreviver ao desastre, Marine. Quando os sabotadores removeram os selos de segurança e liberou o vírus nos reguladores de controle atmosferico, você foi um dos poucos que conseguiu chegar a zona de segurança a tempo. Mas você teve a possibilidade de obtenção de informações sobre tecnicas de pesquisa antes de pegar uma onda de merda.
-Você Ganhou +1 em Pesquisa."
+Mission16:"9 de Fevereiro de 2114 //Marinha ano 3 esquerda
+
+Seu período de serviço no Centro de Pesquisa Marie Curie foi concluído.  Parabéns por sobreviver ao desastre, marinheiro.  Quando os sabotadores removeram os lacres de segurança e liberaram o vírus nos reguladores de controle atmosférico, você foi um dos poucos a alcançar a segurança a tempo.  No entanto, você foi capaz de aprender algumas técnicas de pesquisa antes que a merda batesse no ventilador.
+
+Você Ganhou +1 em PESQUISA."
 
 //---------------------------
 
-Mission17:"9 de Fevereiro de 2114
-Seu tempo de servico no Centro de Treinamento de sobrevivencia foi concluida. será que você superar o seu ano lá?.... o encontro com um descendente tigre mutante da Estação Citadel. Eu levei um mes para a enfermaria. você aprendeu a respeitar as maravilhas da biogenetica e ter treinado seu corpo alcançar uma excelente condição fisica.
-Você Ganhou +2 Resistencia."
+Mission17:"9 de Fevereiro de 2114 //Marinha ano 3 centro
+
+Seu serviço no Centro de Treinamento de Sobrevivência de Io foi concluído.  Você conseguiu sobreviver ao seu ano lá... por pouco.  O encontro com um descendente de um tigre mutante da Estação Cidadela colocou você na enfermaria por um mês.  Você aprendeu a respeitar as maravilhas da biogenética e treinou seu corpo para uma excelente condição física.
+
+Você Ganhou +2 RESISTÊNCIA."
 
 //---------------------------
 
-Mission18:"9 de Fevereiro de 2114
-Seu tempo de serviço na estação Yamamoto foi concluido. Certamente você não estava preparado para os eventos deste ano. O Capitao Willits nunca foi muito popular com os homens, mas nunca esperava que metade da tripulação se amotinasse. Os dias tensos se passaram, e com a ajuda do capitao recuperar o controle do navio. Foram mostrados para ter agilidade suficiente, mais do que você poderia imaginar.
-Você Ganhou +2 em Agilidade."
+Mission18:"9 de Fevereiro de 2114 //Marinha ano 3 direita
+
+Seu serviço na Estação Yamamoto foi concluído.  Você certamente não estava preparado para os acontecimentos deste ano.  O capitão Willits nunca foi popular entre os homens dele, mas nunca se esperava que metade da tripulação se amotinasse.  Os dias tensos que você passou para recuperar o controle do navio com o capitão lhe deram uma graça e uma agilidade que você nunca imaginou ser capaz.
+
+Você Ganhou +2 em AGILIDADE."
 
 //---------------------------
 
-Mission19:"15 de Fevereiro de 2112
+Mission19:"15 de Fevereiro de 2112 //O.S.A ano 1 esquerda
 
-Seu ano nos tanques do Shao Ling terminou.  Sua vontade cresceu.  Sua mente pode congelar seus inimigos e você pode sintonizá-la com o funcionamento interno das máquinas.  As disciplinas de segundo nível estão ao seu alcance.  Agora você pode levar suas habilidades para o campo, para colocá-las contra nossos inimigos.
+Seu ano nos tanques do Shao Ling terminou.  Sua vontade cresceu.  Sua mente pode congelar seus inimigos e você pode sintonizá-la com o funcionamento interno das máquinas.  As disciplinas de primeiro e segundo nível estão ao seu alcance.  Agora você pode levar suas habilidades para o campo, para colocá-las contra nossos inimigos.
 
-Você dominou as disciplinas PSI de nível 1: Criocinese Projetada e Afinidade Cibernética Psicogênica e Capacidade Neural nível 2."
-
-//---------------------------
-
-Mission20:"15 de Fevereiro de 2112
-
-Seu ano nos tanques de Ru Nang acabou.  Sua vontade cresceu.  Sua mente pode congelar seus inimigos e puxar objetos distantes para você.  Esses talentos serão úteis para você.  As disciplinas de segundo nível estão agora ao seu alcance.  Agora você pode levar suas habilidades para o campo, para colocá-las contra nossos inimigos.
-
-Você dominou as disciplinas PSI de nível 1: Criocinese Projetada e Atração PSI e Capacidade Neural nível 2"
+Você dominou as disciplinas PSI nível 1: CAPACIDADE NEURAL NÍVEL 1, CRIOCINESE PROJETADA e AFINIDADE CIBERNÉTICA PSICOGÊNICA. nível 2: CAPACIDADE NEURAL NÍVEL 2 e recebeu um Amplificador Psiônico."
 
 //---------------------------
 
-Mission21:"15 de Fevereiro de 2112
+Mission20:"15 de Fevereiro de 2112 //O.S.A ano 1 centro
 
-Seu ano nos tanques do Chu Lun terminou.  Sua vontade cresceu.  Você pode sentir que ele se reúne para atacar?  Você aprendeu como congelar seus inimigos e como se proteger deles também.  As disciplinas de segundo nível estão agora ao seu alcance.  Agora você pode levar suas habilidades para o campo, para colocá-las contra nossos inimigos.
+Seu ano nos tanques de Ru Nang acabou.  Sua vontade cresceu.  Sua mente pode congelar seus inimigos e puxar objetos distantes para você.  Esses talentos serão úteis para você.  As disciplinas de primeiro e segundo nível estão agora ao seu alcance.  Agora você pode levar suas habilidades para o campo, para colocá-las contra nossos inimigos.
 
-Você dominou as disciplinas PSI de nível 1: Criocinese projetada, e Tela Psico-refletora e Capacidade Neural nível 2."
-
-//---------------------------
-
-Mission22:"23 de Fevereiro de 2113
-
-Seu tempo de serviço no Núcleo Central da OSA chegou ao fim.  Seu ano foi principalmente pacífico, com uma grande exceção.  A assassina contratada tentou disfarçar suas intenções sob uma camada de devaneios bastante explícitos, mas você não se enganou.  Perto do final, você sentiu a presença de seus pensamentos desaparecendo entrar em sua mente e depois desaparecer como uma névoa clareadora.
-
-Você Ganhou +2 em Habilidade Psiônica."
+Você dominou as disciplinas PSI nível 1: CAPACIDADE NEURAL NÍVEL 1, CRIOCINESE PROJETADA e ATRAÇÃO PSI. nível 2: CAPACIDADE NEURAL NÍVEL 2 e recebeu um Amplificador Psiônico."
 
 //---------------------------
 
-Mission23:"23 de Fevereiro de 2113
+Mission21:"15 de Fevereiro de 2112 //O.S.A ano 1 direita
 
-Seu tempo de serviço no Ki Luan chegou ao fim.  Manter a paciência durante um ano sob o patrocínio emocional do Dr. Chandrisvilan foi difícil.  Contudo, a observação cuidadosa de sua técnica (e um exame cuidadoso, embora ilícito, dos cadernos de laboratório dele) levou você a uma melhor compreensão do processo de pesquisa.
+Seu ano nos tanques do Chu Lun terminou.  Sua vontade cresceu.  Você pode sentir que ele se reúne para atacar?  Você aprendeu como congelar seus inimigos e como se proteger deles também.  As disciplinas de primeiro e segundo nível estão agora ao seu alcance.  Agora você pode levar suas habilidades para o campo, para colocá-las contra nossos inimigos.
 
-Você Ganhou +1 em Pesquisa."
-
-//---------------------------
-
-Mission24:"23 de Fevereiro de 2113
-
-Você será direcionado para retornar à Estação 74/34A.  Seu ano na Instalação Io chegou ao fim.  Agora você sabe que o único oponente real é aquele que é mais astuto que você.  Você usou os cadetes ao seu redor como presas e aprendeu com suas falhas.  Você sente que a luta melhorou muito sua capacidade física.
-
-Você Ganhou +2 em Resistencia."
+Você dominou as disciplinas PSI nível 1: CAPACIDADE NEURAL NÍVEL 1, CRIOCINESE PROJETADA e TELA PSICO-REFLEXIVA. nível 2: CAPACIDADE NEURAL NÍVEL 2 e recebeu um Amplificador Psiônico."
 
 //---------------------------
 
-Mission25:"9 de Fevereiro de 2114
+Mission22:"23 de Fevereiro de 2113 //O.S.A ano 2 esquerda
 
-Você será direcionado para retornar à Estação 74/34A.  Seu ano com o Núcleo Central da OSA chegou ao fim.  Você aprendeu maneiras de descobrir segredos das mentes dos inimigos e desarmar seus dispositivos.  Mas quando chegou a hora de agir, a velocidade, tanto natural quanto mentalmente aprimorada, foi crítica.
+Seu tempo de serviço no Núcleo Central da OSA chegou ao fim.  Seu ano foi principalmente pacífico, com uma grande exceção.  A assassina contratada tentou disfarçar as intenções dela sob uma camada de devaneios bastante explícitos, mas você não se enganou.  Perto do final, você sentiu a presença dos pensamentos dela desaparecendo entrar em sua mente e depois desaparecer como uma névoa clareadora.
 
-Você Ganhou +1 em Forca, +1 em Agilidade e +1 em Afinidade Cibernética e dominou Agilidade Psicogênica."
+Você Ganhou +2 em HABILIDADE PSIÔNICA."
 
 //---------------------------
 
-Mission26:"9 de Fevereiro de 2114
+Mission23:"23 de Fevereiro de 2113 //O.S.A ano 2 centro
+
+Seu tempo de serviço no Ki Luan chegou ao fim.  Manter a paciência durante um ano sob o patrocínio emocional do Dr. Chandrisvilan foi difícil.  Contudo, a observação cuidadosa da técnica dele (e um exame cuidadoso, embora ilícito, dos cadernos de laboratório dele) levou você a uma melhor compreensão do processo de pesquisa.
+
+Você Ganhou +1 em PESQUISA."
+
+//---------------------------
+
+Mission24:"23 de Fevereiro de 2113 //O.S.A ano 2 direita
+
+Você será direcionado para retornar à Estação 74/34A.  Seu ano na Instalação Io chegou ao fim.  Agora você sabe que o único oponente real é aquele que é mais astuto que você.  Você usou os cadetes ao seu redor como presas e aprendeu com as falhas deles.  Você sente que a luta melhorou muito sua capacidade física.
+
+Você Ganhou +2 em RESISTÊNCIA."
+
+//---------------------------
+
+Mission25:"9 de Fevereiro de 2114 //O.S.A ano 3 esquerda
+
+Você será direcionado para retornar à Estação 74/34A.  Seu ano com o Núcleo Central da OSA chegou ao fim.  Você aprendeu maneiras de descobrir segredos das mentes dos inimigos e desarmar os dispositivos deles.  Mas quando chegou a hora de agir, a velocidade, tanto natural quanto mentalmente aprimorada, foi crítica.
+
+Você Ganhou  +1 em FORÇA, AGILIDADE, AFINIDADE CIBERNÉTICA e dominou a disciplina PSI AGILIDADE PSICOGÊNICA."
+
+//---------------------------
+
+Mission26:"9 de Fevereiro de 2114 //O.S.A ano 3 centro
 
 Você será direcionado para retornar à Estação 74/34A.  Seu ano com a Base de Campo OSA chegou ao fim.  Você desfrutou de seu poder sobre a vida e a morte, e seus movimentos cuidadosos serviram para evitar um grande caos e mais mortes.  Você aprendeu a arte do movimento mortal e a arte da quietude completa.  
 
-Você Ganhou +1 em Forca, +1 em Agilidade e +1 em Afinidade Cibernética e dominou Amortecimento Neuro-Reflexo."
+Você Ganhou  +1 em FORÇA, AGILIDADE, AFINIDADE CIBERNÉTICA e dominou a disciplina PSI AMORTECIMENTO NEURO-REFLEXO."
 
 //---------------------------
 
-Mission27:"9 de Fevereiro de 2114
+Mission27:"9 de Fevereiro de 2114 //O.S.A ano 3 direita
 
 Seu tempo de serviço na Base de Campo OSA chegou ao fim.  Mesmo agora, sua mente está um tanto turva e você não se lembra de todos os detalhes.  Você desempenhou bem o seu papel durante a maior parte do ano, e seus inimigos o chamaram de amigo, até que você os atacou com todos os seus talentos.
 
-Você Ganhou +1 em Força, +1 em Agilidade e +1 em Afinidade Cibernética e dominou Manipulação Eletrônica Remota."
+Você Ganhou  +1 em FORÇA, AGILIDADE, AFINIDADE CIBERNÉTICA e dominou a disciplina PSI MANIPULAÇÃO ELETRÔNICA REMOTA."
 
 
 

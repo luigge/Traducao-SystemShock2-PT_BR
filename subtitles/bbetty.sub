@@ -5,7 +5,7 @@ SUB1
 	descr "Info"
 	sub bb01 { text "PSI baixo." }
 	sub bb02 { text "Perigo radioativo." }
-	sub bb03 { text "Saúde baixa." }
+	sub bb03 { text "Vida baixa." }
 	sub bb04 { text "Arma danificada." }
 	sub bb05 { text "Elemento químico necessário." }
 	sub bb06 { text "Pesquisa completa." }

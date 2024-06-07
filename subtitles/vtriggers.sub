@@ -142,20 +142,20 @@ SUB1
 		{ time 8000 length 2200 text "Alerta de segurança classe C." }
 	}
 	multisub trg0201 {
-		{ time 1000 length 5000 text "Atenção, há um alerta de intrusão Classe 1 na suíte Cryo Recovery." }
-		{ time 6200 length 4000 text "Há um alerta de intrusão Classe 1 na suíte Cryo Recovery." }
+		{ time 1000 length 5000 text "Atenção, há um alerta de intrusão Classe 1 na suíte Recuperação Criogênica." }
+		{ time 6200 length 4000 text "Há um alerta de intrusão Classe 1 na suíte Recuperação Criogênica." }
 	}
 	multisub trg0202 {
-		{ time 1000 length 4100 text "Atenção, perigo crítico de descompressão na suíte Cryo Recovery." }
+		{ time 1000 length 4100 text "Atenção, perigo crítico de descompressão na suíte de Recuperação Criogênica." }
 		{ time 5500 length 1600 text "Evacuar imediatamente." }
 	}
 	multisub trg0203 {
 		{ time 800 length 2900 text "Aviso, evento de descompressão iminente." }
-		{ time 4000 length 2900 text "Por favor, vá imediatamente para o Cryo Recovery B." }
+		{ time 4000 length 2900 text "Por favor, vá imediatamente para a Recuperação Criogênica B." }
 		{ time 7100 length 1600 text "Evento de descompressão iminente." }
 	}
 	multisub trg0204 {
-		{ time 6300 length 4300 text "Cryo Recovery suite A experimentou uma descompressão crítica." }
+		{ time 6300 length 4300 text "Suite Recuperação Criogênica A experimentou uma descompressão crítica." }
 	}
 	multisub trg0205 {
 		{ time 800 length 2600 text "Intruso entrando no setor médico A." }
@@ -356,4 +356,10 @@ SUB1
 	type "convo"
 	descr "Delacroix"
 	sub trg0601 { text "Cuidado, mon petit. Você não pode confiar ... [morre]" }
+}
+
+{
+	type "convo"
+	descr "SHODAN"
+	sub shojump { text "Ótimo pulo, humano." }
 }

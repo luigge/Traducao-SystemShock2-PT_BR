@@ -1,7 +1,7 @@
 EmailName1:"POLITO 12.JUL.14\nre: Hueco bloqueado\n"
 EmailPortrait1:"Polito"
 EmailIcon1:"OpsIcon"
-EmailText1:"Merda. Algo está bloqueando o poço e ta inpedindo que o elevador chegue ao convés 4. Estou tentando determinar... Detectei quantidades maciças de algum tipo de biomaterial a obstruir o poço do elevador. O ambiente deste nível foi modificado para se tornar um tipo terreno fértil para os xenomorfos. Não deve ser perigoso, a menos que você planeje ficar mais do que algumas horas, mas para limpar o buraco você terá que remover o biomaterial. Estou a aceder ao ciclo de dados primários. Vamos ver o que podemos encontrar lá.¡.\n"
+EmailText1:"Merda. Algo está bloqueando o poço e ta inpedindo que o elevador chegue ao convés 4. Estou tentando determinar... Detectei quantidades maciças de algum tipo de biomaterial a obstruir o poço do elevador. O ambiente deste nível foi modificado para se tornar um tipo terreno fértil para os xenomorfos. Não deve ser perigoso, a menos que você planeje ficar mais do que algumas horas, mas para limpar o buraco você terá que remover o biomaterial. Estou a aceder ao ciclo de dados primários. Vamos ver o que podemos encontrar lá.\n"
 
 
 EmailName7:"POLITO 12.JUL.14\nre: Limpiar el hueco\n"
@@ -34,13 +34,13 @@ EmailIcon4:"OpsIcon"
 EmailText4:"¿Porque se ta andando como uma lesma? Acha que isto é algum tipo de jogo? Só por causa da tua sorte e da minha paciência que é voce ainda não virou um cadaver! Agora, sai dai logo!\n"
 
 
-EmailName5:"POLITO 12.JUL.14\nre: El hueco est  limpio\n"
+EmailName5:"POLITO 12.JUL.14\nre: El hueco está limpio\n"
 EmailPortrait5:"Polito"
 EmailIcon5:"OpsIcon"
 EmailText5:"Finalmente. As leituras indicam que o poço do elevador está limpo. Agora chega ao convés 4. Eu estarei à tua espera.\n"
 
 
-LogName32:"Manifiesto productos qu¡micos:\nHidrop¢nicoa\n"
+LogName32:"Manifiesto productos quimicos:\nHidropónicoa\n"
 LogPortrait32:"Chem"
 LogIcon32:"HydIcon"
 LogText32:"Inventário Químico em Hidropônicos 008\n\nAntimonio (Sb) : 2\nArsenico (As) : 1\nBario (Ba) : 1\nCesio (Cs) : 2 \nCobre (Cu) : 1\nFermio (Fm) : 1\nGalio (Ga) : 2\nHasio (Hs) : 1\nIridio (Ir) : 2\nRadio (Ra) : 1\nTecnecio (Tc) : 2\nTelurio (Te) : 2\nVanadio (V) : 1\n\nEste inventário é exigido pelo código de segurança UNN #134882 para estar disponível em todas as salas de armazenamento de produtos químicos perigosos.  \"Almac‚n\" qO Código de Segurança UNN #195331 define qualquer área na qual produtos químicos perigosos (ver Código de Segurança #093355) são armazenados em quantidades superiores a 50g por 10 pés quadrados durante períodos superiores a 24 horas.\n"
@@ -85,7 +85,7 @@ LogText5: "Encontrei estes esquemas na secretária do Dr. Miller... são projetos 
 LogName6:"DELACROIX 03.JUL.14\nre: Haciendo un cambio\n"
 LogPortrait6:"Delacroix"
 LogIcon6:"EngIcon"
-LogText6:"A:  Polito, Dr. Janice\nEu recebi uma mensagem do Anatoly. Não esta se sentindo bem. Os protocolos da Corporação especificam que eu posso remover o Diretor Executivo Sênior se ele ou ela for considerado inapto para desempenhar suas funções... mas quem vai ficar no seu lugar?, Capitão Diego? ele tem 120 capangas no Rickenbacker para o apoiar... me pergunto se aquela IA fragmentáda que voce achou no Tau Ceti 5 está relacionada com essa merda...\n"
+LogText6:"A:  Polito, Dr. Janice\nEu recebi uma mensagem do Anatoly. Não esta se sentindo bem. Os protocolos da Corporação especificam que eu posso remover o Diretor Executivo Sênior se ele ou ela for considerado inapto para desempenhar suas funções... mas quem vai ficar no seu lugar?, Capitão Diego? ele tem 120 capangas no Rickenbacker para o apoiar... me pergunto se aquela IA fragmentada que voce achou no Tau Ceti 5 está relacionada com essa merda...\n"
 
 
 LogName7:"POLITO 04.JUL.14\nre: Fragmento de voz IA\n"

@@ -286,7 +286,7 @@ SUB1
 		{ time 3200 length 3900 text "Parece que você adquiriu algumas habilidades em armas padrão no treinamento básico na ilha Coronado." }
 		{ time 7500 length 1600 text "Agora é hora da sua Missão." }
 		{ time 9600 length 2900 text "A sua Missão vai consistir em quatro designações em um período de quatro anos." }
-		{ time 12800 length 3200 text "No \"O Rompe Nuvens\" você escolhia entre três designações diferentes por ano." }
+		{ time 12800 length 3200 text "No “O Rompe Nuvens” você escolhia entre três designações diferentes por ano." }
 		{ time 16400 length 3500 text "Você decide qual tipo de carreira você quer ter então escolha com sabedoria." }
 		{ time 20400 length 2700 text "Apenas aproxime do seu hangar para receber instruções na designação." }
 		{ time 23600 length 4000 text "Se você acha que aquela designação é certa para você dirija-se ate o hangar para aceitar a atribuição." }
@@ -346,7 +346,7 @@ SUB1
 	multisub brief08 {
 		{ time 700 length 3400 text "A estação de negociação de Polidies tem sido um paraíso para o mercado negro." }
 		{ time 4400 length 4000 text "No entanto, até agora eles não interferiram na operação das estações." }
-		{ time 9100 length 6900 text "Relatórios recentes indicam que a equipe de comando de Polidies foi derrubada, e a estação está sob o controle de um auto-nomeado \"Magnata\"." }
+		{ time 9100 length 6900 text "Relatórios recentes indicam que a equipe de comando de Polidies foi derrubada, e a estação está sob o controle de um auto-nomeado “Magnata”." }
 		{ time 16500 length 3700 text "Isto deve ser retificado e uma presença da Marinha mantida na estação." }
 	}
  

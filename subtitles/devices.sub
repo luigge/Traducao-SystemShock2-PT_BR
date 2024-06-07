@@ -2,7 +2,9 @@ SUB1
 
 {
 	type "convo"
-	descr "Telephone"
-	sub telephon { text "Este dispositivo está temporariamente fora de serviço." }
+	descr "Payphone"
+	singleton
+	multisub telephon {
+		{ text "Este dispositivo está temporariamente fora de serviço." }
+	}
 }
-

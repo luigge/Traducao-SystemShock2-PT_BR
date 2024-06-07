@@ -116,12 +116,29 @@ Revisão da maioria dos arquivos da pasta strings.
 
 **V2.2:**
 
-* Mudança nos arquivos  `vbriefs.sub` mudei o nome PDA (Personal Digital Assistant) para ADP (Assistente Digital Pessoal)
+* adição dos caracteres em espanhol ñÑ¿¡ na fonte do jogo para funcionar com os textos que ainda não foram traduzidos
+* adição dos caracteres “ ” na fonte do jogo para usar no lugar de " por ser usado como parte da programação e da linguagem dos textos. assim não precisa usar \"quotes\" e ao invés pode se usar “quotes”
+* compactação da fonte para caber mais nos menus. e revisão de todos os arquivos de fonte.
+
+* Mudança nos arquivos da pasta subtitles:
+* * `vbriefs.sub` mudei o nome PDA (Personal Digital Assistant) para ADP (Assistente Digital Pessoal) 
+* * `vtriggers.sub` traduzido cryo-recovery suite para suite de recuperação criogênica
+* * `psi.sub` mudado alguns nomes
+* * `devices.sub`
+* * `cutscenes.sub` adicionado os caracteres “ ” na legenda ao invés de \"\"
+* * `bots.sub` adição de um "}" faltante.
+* * `bbetty.sub` mudança de "saúde" para "vida"
 * Revisado alguns arquivos da pasta STRINGS.
-* Traduzido os arquivos `MINIGAME.SRT` e `INFOCOMP.SRT` (Os painéis de informação com um desenho de um "?")
+* * `usermsg.str` revisado o texto do início quando o usuário passa os 3 primeiros anos em treinamento.
+* * `chargen.str` traduzido e revisado
+* * `objlooks.str` adicionado os acentos das palavras em espanhol enquanto não é traduzido e revisado totalmente.
+* * `misc.str` o mesmo das cutscenes. foram trocados os caracteres \"\" para “ ”
+* * `level 01.str` até `level 09.str` adicionado os acentos em espanhol para enquanto não é revisado totalmente.
+* * `INFOCOMP.SRT` (Os painéis de informação com um desenho de um "?") traduzido e revisado. foi mudado o nome do MFD (Multi-Function Display) para VMF (Visor-Multi Função)
+* * `MINIGAME.SRT` traduzido os minigames.
 * Adição do changelog e mudanças no Readme
 
 **O que falta traduzir:**
 * `OBJLOOKS.STR`, `LEVEL05.STR` ao `LEVEL09.STR`
 * Revisar os arquivos `LEVEL01.STR` ao `LEVEL04.STR`
-* Revisar o arquivo `CHARGEN.STR`s
+* Revisar todos os arquivos para manter uma padronização em itens de mesmo nome como vida/saúde etc...

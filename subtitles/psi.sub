@@ -19,12 +19,12 @@ SUB1
 	sub psiinvde { text "Invisibilidade desativada." }
 	sub psiradac { text "Escudo Anti Radiação ativado." }
 	sub psiradde { text "Escudo Anti Radiação desativado." }
-	sub psirecac { text "Psi Recursivo ativado." }
-	sub psirecde { text "Psi Recursivo desativado." }
-	sub psirefac { text "Reflexo ativado." }
-	sub psirefde { text "Reflexo desativado." }
-	sub psiscrac { text "Escudo Anti Psi ativado." }
-	sub psiscrde { text "Escudo Anti Psi desativado." }
+	sub psirecac { text "PSI Recursivo ativado." }
+	sub psirecde { text "PSI Recursivo desativado." }
+	sub psirefac { text "Neuro-Reflexo ativado." }
+	sub psirefde { text "Neuro-Reflexo desativado." }
+	sub psiscrac { text "Escudo Anti PSI ativado." }
+	sub psiscrde { text "Escudo Anti PSI desativado." }
 	sub psistrac { text "Força ativada." }
 	sub psistrde { text "Força desativada." }
 	sub psitoxac { text "Escudo Anti Toxina ativado." }
