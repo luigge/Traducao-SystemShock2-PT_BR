@@ -60,5 +60,5 @@ https://www.facebook.com/Projeto-System-Shock-2-BR
 1999 `Looking Glass Studios™` é uma marca registrada da `Looking Glass Studios`. 
 `System Shock 2` é um jogo da `Irrational Games™`. `Irrational Games` é uma marca registrada da `2K Games`.
 
-SYSTEM SHOCK 2 BRASIL, VERSÃO 2.0
-DATA: 25/05/2024
+SYSTEM SHOCK 2 BRASIL, VERSÃO 2.3
+DATA: 10/06/2024
