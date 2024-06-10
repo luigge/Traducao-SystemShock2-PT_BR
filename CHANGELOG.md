@@ -142,3 +142,9 @@ Revisão da maioria dos arquivos da pasta strings.
 * `OBJLOOKS.STR`, `LEVEL05.STR` ao `LEVEL09.STR`
 * Revisar os arquivos `LEVEL01.STR` ao `LEVEL04.STR`
 * Revisar todos os arquivos para manter uma padronização em itens de mesmo nome como vida/saúde etc...
+
+**V2.3:**
+
+* Tradução do arquivo `OBJLOOKS.STR`
+* Revisão dos arquivos `RSRCHTXT.STR`, `RESEARCH.STR`, `OBJSHORT.STR`, `OBJNAME.STR`, `JARGON.STR`, `INFOCOMP.STR`, `HUDUSE.STR` para padronizar os nomes dos itens e objetos em geral.
+* Adição dos arquivos de imagem `infoscrn.pcx` Terminal de informações da TriOptmum e `secscrn.pcx` sistema de controle de segurança. estes dois painéis no jogo agora estão em alta resolução e traduzidos em português.

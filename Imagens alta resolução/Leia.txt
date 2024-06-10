@@ -1,0 +1,3 @@
+este e o início do resto do projeto que é tentar atualizar a maioria das imagens do jogo para aumentar a resolução.
+
+esta pasta contém os arquivos brutos para serem editados

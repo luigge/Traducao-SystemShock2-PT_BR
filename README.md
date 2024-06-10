@@ -11,7 +11,7 @@ Para o changelog, consulte o arquivo Changelog.md
 1. Baixe a ferramenta para instalação de mods que pode ser encontrada [aqui](https://www.systemshock.org/index.php?topic=4790.0)
 2. Mova o arquivo **ss2bmm.exe** para a pasta do jogo. (no caso da steam fica em *C:\Program Files (x86)\Steam\steamapps\common\SS2*)
 3. Abra o arquivo **ss2bmm.exe** e clique na opção ao lado **Select Game Folder**. Após selecionar a pasta onde o jogo está instalado, uma pasta será criada, chamada **DMM** aonde ficarão os mods baixados. *...SS2\DMM*
-4. Baixe a pasta **SystemShock2-PT_BR** e estraia ela para a pasta **DMM** dentro da pasta do jogo. O diretório ficará assim: *...SS2\DMM\SystemShock2-PT_BR*
+4. Baixe a pasta **SystemShock2-PT_BR** e extraia ela para a pasta **DMM** dentro da pasta do jogo. O diretório ficará assim: *...SS2\DMM\SystemShock2-PT_BR*
 5. Para ativar as legendas, abra o **ss2bmm.exe**, selecione o mod **SystemShock2-PT_BR**, clique em **Activate / Deactivate** e após clique abaixo em **Apply changes**.
 6. O jogo pode ser aberto clicando em **Launch game** ou você pode fechar o mod loader e abrir direto pela steam/gog.
 
@@ -40,11 +40,11 @@ partes (`Luiz`. 2021 em diante)
 
 **Tradução dos arquivos da pasta Subtitles:**
 `Luigge Lena`
-`Arthur cavalcante`
+`Arthur Cavalcante`
 e com ajuda de algumas pessoas no fórum do system shock 2
 
 **Correção/continuação da tradução dos arquivos da pasta strings:**
-`Luigge Lena` com ajuda de `Arthur Cavalcante`, `Luiz` e algumas pessoas no fórum do system shock 2.
+`Luigge Lena` com ajuda de `Arthur Cavalcante`, `Luiz Henrique` e algumas pessoas no fórum do system shock 2.
 
 
 Fórum oficial do jogo:
