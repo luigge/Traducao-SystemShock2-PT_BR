@@ -346,7 +346,7 @@ SUB1
 	type "bark"
 	descr "Cortez"
 	multisub trg0501 {
-		{ time 900 length 4400 text "Este é Juan Enrique Cortez, comunicações fora... [Estática] UNN Von Braun." }
+		{ time 900 length 4400 text "Este é Juan Enrique Cortez, comunicações fora... [Estática] NNU Von Braun." }
 		{ time 5600 length 1800 text "A Von Braun foi sequestrada." }
 		{ time 7500 length 3000 text "Repito, a Von Braun foi sequestrada." }
 	}

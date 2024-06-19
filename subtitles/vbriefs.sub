@@ -6,7 +6,7 @@ SUB1
 	singleton
 
 	multisub trg0001 {
-		{ time 00 length 3000 text "Bem vindo a instalação de recrutamento do centro Ramsey da UNN." }
+		{ time 00 length 3000 text "Bem vindo a instalação de recrutamento do centro Ramsey do NNU (Nominado Nacional Unificado)." }
 		{ time 3000 length 2200 text "Por favor olhe onde pisa quando sair do trem." }
 		{ time 5200 length 4700 text "Os elevadores gravitacionais no fim do corredor vão te levar para o centro térreo de treino e recrutamento." }
 		{ time 10000 length 2200 text "Por favor dirija-se aos elevadores gravitacionais." }
@@ -37,7 +37,7 @@ SUB1
 		{ time 00 length 2000 text "Aqui é aonde você faz a sua escolha, soldado." }
 		{ time 2000 length 3000 text "Aqui é aonde você se alista em uma das três áreas militares." }
 		{ time 5000 length 3700 text "Uma vez que você decidiu a sua área de serviço, não há volta." }
-		{ time 8700 length 6100 text "Um Ônibus Espacial vai te levar para a estação da UNN em orbita, Onde você receberá um resumo sobre suas publicações anuais." }
+		{ time 8700 length 6100 text "Um Ônibus Espacial vai te levar para a estação do NNU em orbita, Onde você receberá um resumo sobre suas publicações anuais." }
 		{ time 15000 length 1000 text "Boa sorte." }
 	}
 
@@ -59,40 +59,40 @@ SUB1
 		{ time 2100 length 1000 text "Mova o mouse." }
 		{ time 3700 length 1700 text "Vê como muda quando você olha?" }
 		{ time 5900 length 1600 text "Isto significa que você está no modo de tiro." }
-		{ time 8200 length 1000 text "Pressione o botão do meio do mouse." }
+		{ time 8200 length 1000 text "Pressione o botão do inventário (Padrão: tab)." }
 		{ time 10300 length 4500 text "Isto coloca você no modo de Uso, onde você pode usar o seu mouse para interagir com os itens no mundo." }
-		{ time 16160 length 7000 text "Abra a sua janela de multi-função principal - (MFD em ingles) clicando no botão da MFD no canto inferior direito da tela." }
+		{ time 16160 length 7000 text "Abra o seu  Visor Multi-Função principal - (MFD em ingles) clicando no botão do MFD no canto inferior direito da tela." }
 		{ time 24570 length 2800 text "Essa janela mostra suas habilidades em várias áreas." }
-		{ time 27600 length 3700 text "Quando estiver pronto para continuar, pressione o botão do meio para voltar para o modo de tiro." }
+		{ time 27600 length 3700 text "Quando estiver pronto para continuar, pressione tab para voltar para o modo de tiro." }
 		{ time 32200 length 2860 text "Tente mudar entre os modos ate você pegar o jeito." }
 		{ time 35800 length 3500 text "Siga o caminho vermelho no chão para a próxima estação de treinamento." }
 	}
 
 	multisub trg0008 {
-		{ time 00 length 5560 text "Para usar itens como botões e computadores, centralize sua tela neles e clique com o botão direito do mouse." }
+		{ time 00 length 5560 text "Para interagir com itens como botões e computadores, centralize sua tela neles e pressione o botão de interação (Padrão: mouse direito)." }
 		{ time 5920 length 2380 text "Todos os itens utilizáveis terão colchetes ao redor deles." }
-		{ time 8910 length 2500 text "Olhe para o botão no pilar e pressione o botão direito." }
+		{ time 8910 length 2500 text "Olhe para o botão no pilar e pressione o mouse direito." }
 		{ time 11600 length 1500 text "Isto vai ativar a plataforma." }
 		{ time 13800 length 700 text "Tente." }
 		{ time 16300 length 3800 text "Se você ainda consegue ver a janela do inventário, significa que você está no modo de uso." }
-		{ time 20500 length 2000 text "Pressione o botão do meio para voltar para o modo de tiro." }
+		{ time 20500 length 2000 text "Pressione tab para voltar para o modo de tiro." }
 	}
 
 	multisub trg0009 {
-		{ time 00 length 3800 text "Para pegar itens, centralize a tela neles e pressione o botão direito." }
+		{ time 00 length 3800 text "Para pegar itens, centralize a tela neles e pressione o mouse direito." }
 		{ time 3890 length 2930 text "Isto vai automaticamente colocar este item no seu inventário." }
-		{ time 7170 length 2800 text "Para ver o seu inventário pressione o botão do meio do mouse." }
+		{ time 7170 length 2800 text "Para ver o seu inventário pressione tab." }
 		{ time 10150 length 4510 text "Você pode mover os itens pelo seu inventário clicando com o botão esquerdo do mouse e arrastando eles." }
 		{ time 15000 length 5150 text "Para soltar um item para o chão, arraste ele para fora do seu inventário." }
 	}
 
 	multisub trg0010 {
 		{ time 00 length 1600 text "Vê aquela caixa na sua frente?" }
-		{ time 1900 length 2900 text "Para examinar, centralize a sua tela e clique com o botão direito." }
-		{ time 5020 length 4120 text "Se você estiver no modo uso, simplesmente mova o ponteiro para a caixa e clique com o botão direito." }
-		{ time 9440 length 3260 text "Para pegar um item deste contêiner simplesmente clique com o botão esquerdo." }
+		{ time 1900 length 2900 text "Para examinar, centralize a sua tela e clique com o mouse direito." }
+		{ time 5020 length 4120 text "Se você estiver no modo uso, simplesmente mova o ponteiro para a caixa e clique com o mouse direito." }
+		{ time 9440 length 3260 text "Para pegar um item deste contêiner simplesmente clique com o mouse esquerdo." }
 		{ time 12870 length 2840 text "Isto vai automaticamente colocar o item no seu inventário." }
-		{ time 15980 length 4170 text "Para fechar a janela do contêiner e voltar para o modo de tiro pressione o botão do meio do mouse." }
+		{ time 15980 length 4170 text "Para fechar a janela do contêiner e voltar para o modo de tiro pressione tab." }
 	}
 
 	multisub trg0011 {
@@ -110,10 +110,10 @@ SUB1
 
 	multisub trg0032 {
 		{ time 00 length 2300 text "O objeto a sua frente é um Hipo Médico." }
-		{ time 2500 length 2700 text "Pegue o e pressione o botão do meio e vá para o modo de uso." }
-		{ time 5700 length 4300 text "Clicando com o botão do meio no Hipo Médico irá usá-lo e restaurar alguns pontos de vida necessários." }
+		{ time 2500 length 2700 text "Pegue o e pressione tab e vá para o modo de uso." }
+		{ time 5700 length 4300 text "Clicando com mouse direito no Hipo Médico irá usá-lo e restaurar alguns pontos de vida necessários." }
 		{ time 10500 length 4000 text "Os seus pontos de vida são exibidos por uma barra no canto inferior esquerdo da sua tela (barra azul)." }
-		{ time 15000 length 3900 text "Muitos objetos no seu inventário podem ser utilizados clicando com o botão direito neles." }
+		{ time 15000 length 3900 text "Muitos objetos no seu inventário podem ser utilizados clicando com o mouse direito neles." }
 	}
 
 	multisub trg0033 {
@@ -138,7 +138,7 @@ SUB1
 
 	multisub trg0016 {
 		{ time 00 length 1400 text "Bom ter você a bordo." }
-		{ time 1700 length 8900 text "Você vai perceber quando estiver na cabine de link cibernético que a UNN gentilmente proveu você com uma ciber-interface virtual e todo os níveis de habilidades simuladas que você precisa para as tarefas de treinamento." }
+		{ time 1700 length 8900 text "Você vai perceber quando estiver na cabine de link cibernético que o NNU gentilmente proveu você com uma interface cibernética virtual e todos os níveis de habilidades simuladas que você precisa para as tarefas de treinamento." }
 		{ time 10800 length 3400 text "Mas não fique tão pretensioso. Elas vão desaparecer assim que você deixar a cabine." }
 	}
 
@@ -149,7 +149,7 @@ SUB1
 		{ time 13800 length 4500 text "Se isso for muito lento para você, você pode usar o atalho no teclado, pressione a tecla 2 (numero 2 no teclado)." }
 		{ time 18900 length 3700 text "Se a pistola estiver no seu inventário, irá equipar automaticamente." }
 		{ time 23000 length 6300 text "Para travar e carregar o pente pressione a tecla R ou pressione o botão de carregamento no canto inferior direito da tela." }
-		{ time 29700 length 6100 text "Uma vez que tiver carregado a arma, dê um tiro no robô de teste pressionando o botão esquerdo enquanto estiver no modo tiro." }
+		{ time 29700 length 6100 text "Uma vez que tiver carregado a arma, dê um tiro no robô de teste pressionando o mouse esquerdo enquanto estiver no modo tiro." }
 		{ time 36500 length 3100 text "Perceba como a barra de vida dele fica menor a medida que você o enfraquece." }
 	}
 
@@ -195,9 +195,9 @@ SUB1
 	}
 
 	multisub trg0034 {
-		{ time 00 length 1800 text "Use o teclado clicando com o botão direito nele." }
+		{ time 00 length 1800 text "Use o teclado clicando com o mouse direito nele." }
 		{ time 2300 length 3300 text "A direita do teclado numérico, você verá uma botão laranja escrito Hack." }
-		{ time 6000 length 1100 text "Clique com o botão esquerdo no botão." }
+		{ time 6000 length 1100 text "Clique com o mouse esquerdo no botão." }
 		{ time 7800 length 3600 text "Um texto vai aparecer indicando o preço a dificuldade do hack e os bonus que aplica." }
 		{ time 12400 length 1800 text "Clique no botão Start para começar a hackear." }
 		{ time 14900 length 1400 text "você verá uma grade de nódulos (quadrados)." }
@@ -210,8 +210,8 @@ SUB1
 
 	multisub trg0024 {
 		{ time 00 length 2900 text "Você pode usar os Nanitos para comprar itens dos replicadores." }
-		{ time 3100 length 2100 text "Para usar um replicador clique nele com o botão direito." }
-		{ time 5600 length 2200 text "E depois clique com o botão esquerdo no item que deseja comprar." }
+		{ time 3100 length 2100 text "Para usar um replicador clique nele com o mouse direito." }
+		{ time 5600 length 2200 text "E depois clique com o mouse esquerdo no item que deseja comprar." }
 		{ time 8300 length 2500 text "O item que você comprou será despejado no compartimento abaixo." }
 		{ time 11500 length 2600 text "Tenha certeza que você pegou suas compras antes de partir." }
 	}
@@ -305,7 +305,7 @@ SUB1
 
 	multisub brief01 {
 		{ time 600 length 4500 text "Se você gosta de passar tempo com muitos explosivos pesados, essa designação é para você." }
-		{ time 5600 length 5800 text "Há muito trabalho pesado, mas a artilharia também recebe a primeira escolha de bebida e outras guloseimas a bordo do navio de abastecimento Gallo." }
+		{ time 5600 length 5800 text "Há muito trabalho pesado, mas a artilharia também recebe a primeira escolha de bebida e outras guloseimas a bordo da nave de abastecimento Gallo." }
 		{ time 11850 length 1100 text "Trave e carregue!" }
 	}
 
@@ -327,7 +327,7 @@ SUB1
 	}
 
 	multisub brief05 {
-		{ time 800 length 7400 text "A instalação automatizada de minério de asteroides na JM-432 abastece os estaleiros da UNN, então elas são cruciais para a defesa." }
+		{ time 800 length 7400 text "A instalação automatizada de minério de asteroides na JM-432 abastece os estaleiros do NNU, então elas são cruciais para a defesa." }
 		{ time 8500 length 3000 text "Entretanto, elas também são principais candidatos para hackers." }
 		{ time 11500 length 7100 text "Alguém colocou suas garras no circuito de dados primário e eles precisam de uma equipe para entrar lá e passar por cima dos sistemas de defesa automatizados." }
 	}
@@ -338,7 +338,7 @@ SUB1
 	}
 
 	multisub brief07 {
-		{ time 700 length 3900 text "O escritório do Secretário Geral da UNN precisa de uma equipe completa de guardas armados." }
+		{ time 700 length 3900 text "O escritório do Secretário Geral do NNU precisa de uma equipe completa de guardas armados." }
 		{ time 5000 length 4200 text "Quando as coisas estão maçantes, requer ficar de bobeira bem vestido em seu uniforme." }
 		{ time 9700 length 4000 text "Quando as coisas estão ruins, pode requerer se afastar de um ataque terrorista psiônico." }
 	}
@@ -358,28 +358,28 @@ SUB1
 	// Navy briefings
 
  	multisub brief10 {
-		{ time 800 length 5200 text "A UNN Lucille está procurando um oficial de treinamento para aprender os sistemas de navegação e controle de dados do navio." }
+		{ time 800 length 5200 text "A NNU Lucille está procurando um oficial de treinamento para aprender os sistemas de navegação e controle de dados da nave." }
 		{ time 6400 length 3700 text "Você vai se acostumar com os sistemas de alta tecnologia, mas também espere algum trabalho pesado." }
 	}
 
 	multisub brief11 {
-		{ time 900 length 4600 text "A UNN Lucille está procurando um Ajudante de Engenheiro para ajudar a manter os principais sistemas de energia do navio." }
+		{ time 900 length 4600 text "A NNU Lucille está procurando um Ajudante de Engenheiro para ajudar a manter os principais sistemas de energia da nave." }
 		{ time 5900 length 3800 text "Há algum trabalho pesado envolvido, marinheiro, mas você vai pegar o jeito com equipamentos de alta tecnologia." }
 	}
 
 	multisub brief12 {
-		{ time 800 length 3600 text "A UNN Lucille está procurando voluntários para o seu destacamento da Polícia Militar." }
+		{ time 800 length 3600 text "A NNU Lucille está procurando voluntários para o seu destacamento da Polícia Militar." }
 		{ time 4900 length 4500 text "Esses marinheiros podem ficar bastante turbulentos nesses cruzeiros de um ano, então é melhor você não ter medo de uma briga." }
 	}
 
 	multisub brief13 {
-		{ time 800 length 6300 text "A UNN Carfax está realizando uma missão para examinar um recém-descoberto cometa de classe B se aproximando do sistema solar externo." }
+		{ time 800 length 6300 text "A NNU Carfax está realizando uma missão para examinar um recém-descoberto cometa de classe B se aproximando do sistema solar externo." }
 		{ time 8000 length 5500 text "Você provavelmente vai pegar algumas habilidades úteis trabalhando com os sistemas de navegação de alta tecnologia a bordo deste cruzador pesado recém comissionado." }
 	}
 
 	multisub brief14 {
-		{ time 800 length 4600 text "A UNN Pierce está transportando presos políticos libertados de volta para casa depois de sua detenção perto de Saturno." }
-		{ time 6100 length 6300 text "A Pierce recebeu um grupo de fuzileiros navais e precisa de marinheiros para carregar, administrar e manter os braços a bordo do navio.." }
+		{ time 800 length 4600 text "A NNU Pierce está transportando presos políticos libertados de volta para casa depois de sua detenção perto de Saturno." }
+		{ time 6100 length 6300 text "A Pierce recebeu um grupo de fuzileiros navais e precisa de marinheiros para carregar, administrar e manter os braços a bordo da nave." }
 	}
 
 	multisub brief15 {

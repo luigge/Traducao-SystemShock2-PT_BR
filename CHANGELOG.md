@@ -152,4 +152,11 @@ Revisão da maioria dos arquivos da pasta strings.
 **O que falta traduzir:**
 * Revisar os arquivos `LEVEL01.STR` ao `LEVEL09.STR`
 * Após, revisar todos os arquivos de novo para procurar por erros e iniciar a tradução das imagens.
-* 
+
+**V2.4**
+
+* Revisão nos arquivos de legenda `vtriggers.sub`, `vbriefs.sub`, `cutscenes.sub`
+* Revisão nos arquivos `usemsg.str`, `traits.str`, `stathelp.str`, `skilhelp.str`, `savename.str`
+* Revisão do arquivo `level01.str`
+* Adição e tradução de várias imagens em alta resolução do projeto SHTUP ND
+* Tradução da maioria das imagens da interface

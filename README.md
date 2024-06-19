@@ -46,6 +46,9 @@ e com ajuda de algumas pessoas no fórum do system shock 2
 **Correção/continuação da tradução dos arquivos da pasta strings:**
 `Luigge Lena` com ajuda de `Arthur Cavalcante`, `Luiz Henrique` e algumas pessoas no fórum do system shock 2.
 
+**Imagens em alta resolução:**
+Pessoal do fórum do System Shock 2 [Link do mod SHTUP ND no forum do SS2](https://www.systemshock.org/index.php?topic=22.0)
+[Link do SHTUP](http://www.shtupmod.net/)
 
 Fórum oficial do jogo:
 www.systemshock.org

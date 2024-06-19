@@ -1,6 +1,6 @@
-No_Card:"Por favor, insira o hardware de sobreposição."
+No_Card:"Por favor, insira o hardware de Substituição."
 NeedChipA:"Chip de Simulação Quântica necessário."
 NeedChipB:"Chip de Simulação Linear necessário."
 NeedChipC:"Chip de Simulação Interpolado necessário."
-NeedOps:"Acesso a Sobreposição de Operações necessário."
+NeedOps:"Acesso a Substituição de Operações necessário."
 AuxPower:"Insira a célula de energia carregada."
