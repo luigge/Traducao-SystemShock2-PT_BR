@@ -4,10 +4,10 @@ EmailIcon10:"ShodIcon"
 EmailText10:"La Multitud mantiene el dominio aquí... Incluso no puedo mantener el contacto. Estás solo, humano. No me falles.\n"
 
 
-LogName32:"Manifiesto productos químicos:\n Rickenbacker\n"
+LogName32:"Manifesto de produtos químicos:\n Rickenbacker\n"
 LogPortrait32:"Chem"
 LogIcon32:"RickIcon"
-LogText32:"Inventario químico en almacén Rickenbacker 23C\n\nArsénico (As) : 1\nAntimonio (Sb) : 1\nBario (Ba) : 2\nCalifornio (Cf) : 1\nCesio (Cs) : 2\nCobre (Cu) : 1\nFermio (Fm) : 1\nGalio (Ga) : 1\nHasio (Hs) : 3\nIridio (Ir) : 1\nMolibdeno (Mo) : 1\nOsmio (Os) : 1\nRadio (Ra) : 3\nSelenio (Se) : 3\nSodio (Na) : 1\nTecnecio (Tc) : 1 \nTelurio (Te) : 4\nVanadio (V) : 1\nItrio (Y) : 3\n\nSe exige por el código de seguridad UNN #134882 que este inventario esté disponible en todas las estancias de almacén de productos químicos peligrosos.  \"Almacén\" queda definido por el código de seguridad UNN #195331 como toda área en la que se almacenan sustancias químicas peligrosas (ver código de seguridad #093355), en cantidades mayores de 50g por 10 pies cuadrados, para tiempos superiores a 24 horas.\n"
+LogText32:"Inventário do Almoxarifado do Laboratório: Almoxarifado 23C na Espaçonave Rickenbacker\n\nArsênico (As) : 1\nAntimônio (Sb) : 1\nBário (Ba) : 2\nCalifórnio (Cf) : 1\nCésio (Cs) : 2\nCobre (Cu) : 1\nFérmio (Fm) : 1\nGálio (Ga) : 1\nHássio (Hs) : 3\nIrídio (Ir) : 1\nMolibdeno (Mo) : 1\nOsmio (Os) : 1\nRadio (Ra) : 3\nSelenio (Se) : 3\nSodio (Na) : 1\nTecnecio (Tc) : 1 \nTelurio (Te) : 4\nVanádio (V) : 1\nÍtrio (Y) : 3\n\nEsta lista de inventário é exigida pelo Código de Segurança do NNU #134882 para ser mantida à mão em todos áreas de armazenamento de produtos químicos perigosos.  “Armazenamento” é definido pelo Código de Segurança do UNN #195331 para consistir em todas as áreas nas quais produtos químicos perigosos (ver Código de Segurança #093355) são armazenados em quantidades superiores a 50g por 3m², por períodos superiores a 24 horas.\n"
 
 
 LogName1:"PREFONTAINE 12.JUL.14\nre: preso aqui\n"
@@ -69,4 +69,67 @@ LogPortrait5:"prefont"
 LogIcon5:"HydIcon"
 LogText5:"Eles estão me levando agora... é a minha vez... Estou sendo arrastado para uma camara... o teto está coberto com painéis que se destacam que se parecem com estalactites... ou dentes... A criatura está me soltando agora... está saindo... Serei guardado? O que esta acontecendo? tá escuro aqui... Consigo ouvir os gemidos de alguém... Claudette? é voce?  Hmm, parece que eu entrei... algo suave... escorregadio... Os estalagmites estão se movendo.\n"
 
+
+==========================================================================
+
+
+
+EmailName10:"SHODAN 12.JUL.14\nre: Por conta própria\n"
+EmailPortrait10:"Shodan"
+EmailIcon10:"ShodIcon"
+EmailText10:"A Many domina este lugar... Nem mesmo eu consigo manter contato. Você está por conta própria, humano. Não me decepcione.\n"
+
+
+LogName32:"Manifesto Químico:\n Rickenbacker\n"
+LogPortrait32:"Chem"
+LogIcon32:"RickIcon"
+LogText32:"Inventário do Almoxarifado do Laboratório: Almoxarifado 23C da Rickenbacker\n\nArsênio (As) : 1\nAntimônio (Sb) : 1\nBário (Ba) : 2\nCalifórnio (Cf) : 1\nCésio (Cs) : 2\nCobre (Cu) : 1\nFérmio (Fm) : 1\nGálio (Ga) : 1\nHássio (Hs) : 3\nIrídio (Ir) : 1\nMolibdênio (Mo) : 1\nÓsmio (Os) : 1\nRádio (Ra) : 3\nSelênio (Se) : 3\nSódio (Na) : 1\nTecnécio (Tc) : 1\nTelúrio (Te) : 4\nVanádio (V) : 1\nÍtrio (Y) : 3\n\nEsta lista de inventário é exigida pelo Código de Segurança do NNU #134882 e deve ser mantida em todas as áreas de armazenamento de produtos químicos perigosos. \"Armazenamento\" é definido pelo Código de Segurança do NNU #195331 como todas as áreas nas quais produtos químicos perigosos (ver Código de Segurança #093355) são mantidos em quantidades superiores a 50g por 10 pés quadrados, por períodos superiores a 24 horas.\n"
+
+
+LogName1:"PREFONTAINE 12.JUL.14\nre: Preso aqui\n"
+LogPortrait1:"prefont"
+LogIcon1:"HydIcon"
+LogText1:"Uma daquelas coisas voadoras me arrastou, junto com o David, para cá ontem à noite. Não lembro muito da viagem... acho que devo ter bloqueado isso da memória, quase inconsciente na maior parte do tempo. Fico lembrando daquela parte de Pinóquio, sabe, quando o velho vai procurar o boneco dentro da baleia. Só que acho que ninguém vai entrar aqui para me salvar...\n"
+
+
+LogName9:"PREFONTAINE 12.JUL.14\nre: Ciclo de vida dos Anelídeos\n"
+LogPortrait9:"prefont"
+LogIcon9:"HydIcon"
+LogText9:"Embora eu não compreenda completamente o ciclo de vida dos Anelídeos, ele é claramente extremamente diverso. Os ovos produzem um esporo macho ou fêmea. Os machos, os drones, são pequenas criaturas semelhantes a vespas. As fêmeas são anelídeos semelhantes a minhocas que procuram um hospedeiro para infectar. Após a infecção, o hospedeiro começa a se transformar em um híbrido humano/anelídeo. A partir daí, a forma de vida pode seguir inúmeros caminhos. Acredito que esse caminho seja determinado pela própria Many. As criaturas comunicaram sua necessidade de expandir a biomassa, então imagino que material biológico seja seu principal recurso. Portanto, cada caminho tem custos e benefícios. O proto-aracnídeo é extremamente rápido e provavelmente relativamente barato em biomassa. As criaturas grandes e carnudas são poderosas, mas claramente exigem um investimento maior. Observei apenas um exemplo dos organismos flutuantes. O único consolo é que os organismos mais perigosos parecem ser muito caros de produzir, o que limita seus números.\n"
+
+
+LogName7:"PREFONTAINE 12.JUL.14\nre: Os Muitos\n"
+LogPortrait7:"prefont"
+LogIcon7:"HydIcon"
+LogText7:"Está claro que esta coisa dentro da qual estou preso está intimamente ligada a todos os organismos que observei a bordo da Von Braun. Não... corrijo isso. Esta criatura É o mesmo organismo. Talvez a melhor maneira de descrevê-los — ou pelo menos a única forma que consigo compreender — é que este organismo desempenha as funções mentais mais elevadas de toda a espécie. As criaturas menores existem apenas para executar sua vontade... não, corrijo isso também. Todos os espécimes funcionam como um todo, como diferentes órgãos de um único corpo, com esta entidade atuando principalmente como um cérebro. Se alguém destruísse este grande espécime, eu me pergunto... isso eliminaria todos os outros?\n"
+
+
+LogName10:"PREFONTAINE 12.JUL.14\nre: Os Muitos e nós\n"
+LogPortrait10:"prefont"
+LogIcon10:"HydIcon"
+LogText10:"Além do comportamento parasitário evidenciado no ciclo de vida dos híbridos humano/anelídeo, está ficando claro para mim que SHODAN criou os Muitos para usar os humanos para outros propósitos. Em primeiro lugar, os Muitos claramente possuem a capacidade de converter carne humana em energia... eles podem nos devorar. Mas também pode nos usar diretamente na criação de seus casulos de ovos... cadáveres são alimentados em algum tipo de estrutura tubular... e ovos nascem por um tubo próximo. Não consegui determinar se o organismo está convertendo diretamente os cadáveres nas estruturas de ovos ou não, mas está claro que existe alguma ligação entre o reservatório de nutrientes que fornecemos e os ovos que estão sendo produzidos.\n"
+
+
+LogName8:"PREFONTAINE 12.JUL.14\nre: Evolução dos Muitos\n"
+LogPortrait8:"prefont"
+LogIcon8:"HydIcon"
+LogText8:"Com apenas alguns poucos anos de evolução, eles foram capazes de conquistar esta nave estelar, a maior criação da humanidade. Onde estávamos nós após quarenta anos de evolução? Em que pântano estávamos nadando, unicelulares e sem mente? E se as criações de SHODAN forem superiores a nós? O que elas se tornarão em um milhão de anos, em dez milhões de anos? O que está claro é que SHODAN não deveria ter permissão para brincar de Deus. Ela é boa demais nisso.\n"
+
+
+LogName6:"PREFONTAINE 12.JUL.14\nre: Abrindo o esfíncter\n"
+LogPortrait6:"prefont"
+LogIcon6:"HydIcon"
+LogText6:"As passagens arteriais estão bloqueadas por algum tipo de esfíncter. Segui os nervos que saem das paredes a partir do bloqueio. Eles levam a um par de aglomerados nervosos. Quando a passagem está aberta, o aglomerado parece se contrair. Por outro lado, imagino que se eu conseguisse destruir ambos os aglomerados, o bloqueio se abriria permanentemente. Estou ansioso para ver o restante desta besta.\n"
+
+
+LogName2:"PREFONTAINE 12.JUL.14\nre: Ruídos de trituração\n"
+LogPortrait2:"prefont"
+LogIcon2:"HydIcon"
+LogText2:"Há algum tipo de ruído horrível de trituração vindo da próxima área. Parece... mastigação. Acho que sei o que vai acontecer aqui. Isto é algum tipo de trato digestivo de um animal muito, muito grande. Fico alternando entre fascínio e terror. Esta criatura é uma descoberta extraordinária... eu só queria poder viver tempo suficiente para aprender mais.\n"
+
+
+LogName4:"PREFONTAINE 12.JUL.14\nre: Controle central?\n"
+LogPortrait4:"prefont"
+LogIcon4:"HydIcon"
+LogText4:"Agora estou convencido de que estes... Muitos, como eles se chamam, realmente possuem um sistema nervoso centralizado. O que significa que deve existir algum tipo de controle central. Com isso em mente, reuni o máximo de armas que consegui e as escondi em esconderijos. Uma das criaturas encontrou um desses esconderijos e aparentemente o confundiu com comida... simplesmente o levou para a sala de trituração...\n"
 

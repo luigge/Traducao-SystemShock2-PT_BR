@@ -1,0 +1,71 @@
+System Shock 2 Texture Upgrade Project - NewDark (SHTUP-ND)
+Beta 2.1 - Mar 23, 2024
+
+Sobre
+=====
+SHTUP-ND é um projeto para aumentar a qualidade das texturas do SS2 por recreando elas o mais fielmente possível em uma resolução maior. a maioria das texturas originais do SS2 eram apenas 128x128 ou menor, mesmo que o jogo suportava texturas até 256x256. A engine NewDark adiciona novas funcionalidades de textura como resolucões até 4096x4096, efeitos de materiais animados, mapas de ambiente e a abilidade de atualizar as texturas de terreno. 
+
+Additional objectives of SHTUP-ND include correcting typos and other graphical
+glitches, enhancing animations, improving fonts, cleaning up the HUD overlays,
+and basically doing whatever can be done to pretty up the graphics.
+
+O que exatamente o mod faz?
+- Aumenta a resolução da maioria das texturas
+- Aumenta a quantidade de polígonos de alguns objetos
+- Aumenta a resolução e taxa de quadros de todas as texturas de tela animadas, explosões e superfiícies aquaticas.
+- Aumenta a resolução dos efeitos de fogo das armas e dos buracos de bala.
+- Aumenta a resolução e detalhe de todas as caixas (skyboxes)
+- Melhora a legibilidade de fontes de texto pequenas
+- Limpa os icones da interface e gráficos de HUD
+- Corrige erros em algumas texturas
+- Adiciona novas animacões para a tela de algumas interfaces.
+
+SHTUP-ND é um mod totalmente compatível com o System Shock 2 Community Patch (SCP) (Patch da Comunidade do System Shock 2) e o mod de textura de terreno Four Hundred (400)
+
+
+Requirements and Installation
+=============================
+SHTUP-ND requer uma copia retail de System Shock 2, com o patch para a versão (NewDark) 2.43 ou maior. Para ter certeza que você está rodando a versão mais recente, use a ferramenta SS2Tool para fazer uma nova instalação. a ferramenta está disponível em: (acredito que tanto o mod loader e essa ferramenta já existem na versão mais recente da steam. não sei sobre a gog.)
+https://www.systemshock.org/index.php?topic=4141.0
+
+
+
+Os requerimentos de hardware são significativamente mais altos do que o SS2 vanilla por causa de mais carga que o SHTUP-ND coloca na sua VRAM. Você deve ter uma placa de vídeo de pelo menos 1GB.
+
+SHTUP-ND deve ser instalado como um mod SS2 padrão. Para instruções de instalação de mods do SS2, veja aqui:
+https://www.systemshock.org/index.php?topic=4790.0
+
+Prioridade dos Mods: SHTUP-ND deve ser instalado com uma prioridade mais alta do que SCP. quaisuqer outros mods mais específicos de textura ou objetos deve ser instalados com prioridade mais alta do que SCP.
+
+Não instale SHTUP-ND por cima de uma versão anterior de SHTUP ou SHTUP-ND. Faça uma instalação limpa.
+
+SHTUP-ND, como todos os mods gráficos, pode ser desativado enquanto joga.
+
+Esta versão incorpora Olfred's Fixed Objects v14, portanto não há necessidade de instalar ambos.
+
+
+Creditos
+=======
+SHTUP-ND foi possível com esforços de:
+- ZylonBane - project lead, texturing, model tweaking
+- Olfred - lots and lots of modeling
+- Nemyax - high-poly small crate
+- Grosnus - high-res space skybox
+- IceNine - modeling/texturing (updated pipes and Many goo)
+- Black Boe - modeling/texturing (updated plants)
+- Eldron - texturing (updated Xerxes)
+- Eshaktaar - lots of modeling
+- Rocketman - modeling
+- Hires - texturing, modeling
+- Rattkin - texturing
+- Darksharp - texturing
+- Shock Unlimited, Wuggles Unlimited, Freylia.Net - old forum hosts (R.I.P.)
+- Ryan Lesser - original high-resolution SHODAN render
+- SNAFU - hi-res SS1 V-Mail
+- Garcie - texturing
+- Ichu - texturing
+- Nameless Voice - texturing
+- Pride Assassin - texturing
+- Thunderpeel - texturing
+- Shadowspawn - mesh conversion tools and high-poly basketball mesh
+- Telliamed - font conversion tools

@@ -1,148 +1,147 @@
-EmailName1:"SHODAN 12.JUL.14\nre: Exterminación\n"
+EmailName1:"SHODAN 12.JUL.14\nre: Exterminação\n"
 EmailPortrait1:"Shodan"
 EmailIcon1:"ShodIcon"
-EmailText1:"Mi creación se expande sin control. Exijo su exterminación. No tengo más remedio que destruir esta nave. Podemos irnos en la Rickenbacker, pero primero debes transferir mi inteligencia a esa nave. Trasládate al puente de mando de la Von Braun, en esta cubierta. Alli encontrarás una tarjeta de acceso para el centro de mando en Operaciones. Encuentra la tarjeta y baja a Operaciones. Pero ten cuidado... los híbridos humano-anélidos se vuelven más sofisticados por momentos. Tú no.\n"
+EmailText1:"Minha criação saiu do controle. Exijo sua exterminação. Não tenho escolha a não ser destruir esta nave estelar. Podemos escapar na Rickenbacker, mas você deve transferir minha inteligência para aquela nave primeiro. Prossiga até a ponte da Von Braun neste convés. Lá você encontrará um cartão de acesso para o centro de comando no Convés de Operações. Encontre o cartão e prossiga para o Convés de Operações. Mas cuidado... os híbridos humano-anelídeo ficam mais sofisticados a cada minuto. Você não.\n"
 
 
-EmailName4:"SHODAN 12.JUL.14\nre: Los transbordadores\n"
+EmailName4:"SHODAN 12.JUL.14\nre: As Naves\n"
 EmailPortrait4:"Shodan"
 EmailIcon4:"ShodIcon"
-EmailText4:"Ten cuidado, insecto, la situación ha cambiado. Sienten nuestras intenciones y están cargando los transbordadores con sus descendientes. No escaparán de mi cólera. Dirígete a los muelles de los transbordadores en esta cubierta, y destrúyelos. Ahora ellos aprecian tu sangre.\n"
+EmailText4:"Cuidado, inseto, a situação mudou. Eles sentem nossas intenções e estão carregando naves auxiliares com sua prole. Eles não escaparão da minha ira. Você deve ir até os hangares de naves neste convés e destruir essas naves. Agora eles têm gosto pelo seu sangue.\n"
 
 
-EmailName2:"SHODAN 12.JUL.14\nre: Solución\n"
+EmailName2:"SHODAN 12.JUL.14\nre: Solução Alternativa\n"
 EmailPortrait2:"Shodan"
 EmailIcon2:"ShodIcon"
-EmailText2:"Mi creación va de nuevo un paso por delante de ti. Han logrado destruir un ordenador de control de escudo del transbordador. Pero su inteligencia es una sombra envidiosa de la mía. Localizarás un replicador en el área de control de transbordadores. He cargado la nano-fórmula para un resonador simpático. Debes piratear el replicador para hacer que éste genere el dispositivo. Una vez lo tengas, fíjalo al generador de escudo en el muelle del transbordador. El dispositivo creará una onda de resonancia crónica que romperá rápidamente el tanque de combustible del transbordador, destruyéndolo. Asegúrate de no estar allí cuando ocurra. Aún te necesito.\n"
+EmailText2:"Minha criação mais uma vez está um passo à sua frente. Eles conseguiram destruir o computador de controle de escudos desta nave. Mas sua genialidade é apenas uma sombra invejosa da minha. Você encontrará um replicador na área de controle das naves. Enviei a nano-fórmula para um ressonador simpático. Você deve invadir o replicador para fazê-lo gerar o dispositivo para você. Depois de obtê-lo, conecte-o ao gerador de escudos no hangar. O dispositivo criará uma onda de ressonância crônica que rapidamente romperá o tanque de combustível da nave e a destruirá. Certifique-se de não estar lá quando isso acontecer. Ainda preciso de você.\n"
 
 
-EmailName8:"DELACROIX 12.JUL.14\nre: ¡Soldado!\n"
+EmailName8:"DELACROIX 12.JUL.14\nre: Soldado!\n"
 EmailPortrait8:"Delacroix"
 EmailIcon8:"EngIcon"
-EmailText8:"Te he localizado... finalmente... Soy la doctora Marie Delacroix... Tengo información vital para ti, pero estoy atrapada en el muelle de carga A. Encuéntrame tan pronto como puedas...\n"
+EmailText8:"Eu localizei você... finalmente... Aqui é a Dra. Marie Delacroix... Tenho informações vitais para você, mas estou presa no compartimento de carga A. Venha me encontrar assim que puder...\n"
 
 
-EmailName9:"SHODAN 12.JUL.14\nre: ¡Deténte!\n"
+EmailName9:"SHODAN 12.JUL.14\nre: Pare!\n"
 EmailPortrait9:"Shodan"
 EmailIcon9:"ShodIcon"
-EmailText9:"No pretendas entrar ahí, insecto. Dirígete al umbilical inmediatamente. No toleraré la desobediencia.\n"
+EmailText9:"Não presuma entrar aí, inseto. Prossiga imediatamente para o umbilical. Não tolerarei desobediência.\n"
 
 
-EmailName6:"SHODAN 12.JUL.14\nre: El umbilical\n"
+EmailName6:"SHODAN 12.JUL.14\nre: O umbilical\n"
 EmailPortrait6:"Shodan"
 EmailIcon6:"ShodIcon"
-EmailText6:"Bien. Has liquidado a sus crías y has impedido su fuga. He abierto la puerta al umbilical en el andén central del tranvía. Puedes evacuar a la Rickenbacker desde allí.\n"
+EmailText6:"Bom. Você assassinou os jovens deles e impediu sua fuga. Abri o portão para o umbilical na parada central do bonde. Você pode evacuar para a Rickenbacker a partir de lá.\n"
 
 
-EmailName10:"SHODAN 12.JUL.14\nre: Tu peque¥a rebelión\n"
+EmailName10:"SHODAN 12.JUL.14\nre: Sua pequena rebelião\n"
 EmailPortrait10:"Shodan"
 EmailIcon10:"ShodIcon"
-EmailText10:"Espero que hayas disfrutado con tu peque¥a rebelión, estorbo. Pero recuerda, lo que SHODAN ofrece es perfectamente capaz de quitarlo.\n"
+EmailText10:"Espero que tenha gostado da sua pequena rebelião, irritante. Mas lembre-se, o que SHODAN dá ela é mais do que capaz de tirar.\n"
 
 
-EmailName15:"KORENCHKIN 12.JUL.14\n re: Hablemos\n"
+EmailName15:"KORENCHKIN 12.JUL.14\n re: Vamos conversar\n"
 EmailPortrait15:"Korench2"
 EmailIcon15:"ComIcon"
-EmailText15:"Nuestra voluntad crea un muro para bloquear tu avance. Ven y encontrémonos en el puente de la Von Braun. Discutamos tu futuro.\n"
+EmailText15:"Nossa vontade cria uma barreira para bloquear seu progresso. Venha nos encontrar na ponte da Von Braun. Vamos discutir seu futuro.\n"
 
 
-LogName32:"Manifiesto productos químicos:\nMando\n"
+LogName32:"Manifesto Químico:\nCommand\n"
 LogPortrait32:"Chem"
 LogIcon32:"ComIcon"
-LogText32:"Inventario químico en Mando 204\n\nArsénico (As) : 2\nBario (Ba) : 2\nCesio (Cs) : 2\nHasio (Hs) : 2\nMolibdeno (Mo) : 2\nRadio (Ra) : 2\nSelenio (Se) : 2\nTecnecio (Tc) : 3\nTelurio (Te) : 1\n\nEste inventário é exigido pelo código de segurança UNN #134882 para estar disponível em todas as salas de armazenamento de produtos químicos perigosos. {\an8}"Armazém é definido pelo código de segurança UNN #195331 como qualquer área na qual produtos químicos perigosos (ver código de segurança #093355) são armazenados em quantidades superiores a 50g por 10 pés quadrados durante períodos superiores a 24 horas.s.\n"
+LogText32:"Inventário do Almoxarifado de Laboratório: Armário 204 do Convés de Comando\n\nArsênio (As) : 2\nBário (Ba) : 2\nCésio (Cs) : 2\nHássio (Hs) : 2\nMolibdênio (Mo) : 2\nRádio (Ra) : 2\nSelênio (Se) : 2\nTecnécio (Tc) : 3\nTelúrio (Te) : 1\n\nEsta lista de inventário é exigida pelo Código de Segurança do NNU nº 134882 para ser mantida em todas as áreas de armazenamento de produtos químicos perigosos. \"Armazenamento\" é definido pelo Código de Segurança do NNU nº 195331 como consistindo em todas as áreas nas quais produtos químicos perigosos (ver Código de Segurança nº 093355) são armazenados em quantidades maiores que 50g por 10 pés quadrados, por períodos superiores a 24 horas.\n"
 
-
-LogName11:"NORRIS 6.JUL.04\nre: Controle da balsa\n"
+LogName11:"NORRIS 6.JUL.14\nre: Controle das naves\n"
 LogPortrait11:"Norris"
 LogIcon11:"ComIcon"
-LogText11:"A paranóia está à nossa volta. Alguém alterou os códigos de acesso à estação de segurança nos aposentos dos oficiais. E agora não podemos obter o cartão para o controle do transporte. Acho que o Myers é o provavelmente o suspeito. Este tipo só pensa em teorias da conspiração e vagabundas nuas.\n"
+LogText11:"A paranoia tomou conta. Alguém mudou os códigos de acesso da estação de segurança nos aposentos dos oficiais. E agora não conseguimos acessar a chave do controle das naves. Acho que Myers é o suspeito mais provável. A única coisa em que aquele cara pensa é teorias da conspiração e garotas nuas.\n"
 
 
-LogName12:"MYERS 6.JUL.04\nre: Seguridad conectada\n"
+LogName12:"MYERS 6.JUL.14\nre: Segurança religada\n"
 LogPortrait12:"Wood"
 LogIcon12:"ComIcon"
-LogText12:"conecte a estação de segurança, codigo 83273. Eu não confio em nenhum desses bastardos...\n"
+LogText12:"Religuei a estação de segurança para 83273. Não confio em nenhum daqueles bastardos...\n"
 
 
-LogName4:"NORRIS 07.JUL.14\nre: Un sue¥o\n"
+LogName4:"NORRIS 07.JUL.14\nre: Um sonho\n"
 LogPortrait4:"Norris"
 LogIcon4:"ComIcon"
-LogText4:"O elevador central foi desconectado. O que está acontecendo? Ontem à noite, tive um sonho muito estranho... Eu estava no meu quarto, sozinho... E naquele momento senti que já não estava mais, havia centenas de mim... milhares de mim... O estranho era que... que me fez sentir bem... Senti-me como se fizesse parte de algo... como se pertencesse... Espero ter o mesmo sonho hoje à noite....\n"
+LogText4:"Eles cortaram o elevador central. O que está acontecendo? Ontem à noite tive o sonho mais estranho... Eu estava no meu quarto sozinho... mas de repente não era só eu ali, havia cem de mim... mil de mim... A coisa estranha é que... parecia bom... Eu senti como se fizesse parte de algo... como se eu pertencesse... Espero ter o mesmo sonho esta noite...\n"
 
 
-LogName3:"NORRIS 07.JUL.14\nre: Que está ocurriendo?\n"
+LogName3:"NORRIS 07.JUL.14\nre: O que está acontecendo?\n"
 LogPortrait3:"Norris"
 LogIcon3:"ComIcon"
-LogText3:"Algo esta acontecendo. Korenchkin selou o Deck 3. e Continua chamando as pessoas para irem lá em baixo um de cada vez. Vogel, Boynton, Swiderek. Nenhum voltou. Se eles me chamarem... Eu não sei o que vou fazer. E Bronson está começando a fazer muito barulho: Você é o oficial de voo sénior.... Tem que agir. Se ao menos eu soubesse.... se eu soubesse que merda que ta acontecendo.\n"
+LogText3:"Algo está acontecendo. Korenchkin se isolou no convés 3. Ele continua chamando pessoas para descer lá uma por uma. Vogel, Boynton, Swiderek. Nenhum deles voltou. Se me chamarem... não sei o que vou fazer. E Bronson está começando a fazer muito barulho: 'Você é o oficial de voo mais graduado... tem que agir.' Eu agiria... se soubesse que diabos está acontecendo.\n"
 
 
 LogName5:"NORRIS 08.JUL.14\nre: Korenchkin\n"
 LogPortrait5:"Norris"
 LogIcon5:"ComIcon"
-LogText5:"Recebi um e-mail de Korenchkin esta manhã dizendo que o tempo para a inspeção estava se aproximando. E quando eu cheguei era... alguma coisa... nauseante... era o Anatoly... mas não foi... ao mesmo tempo, parecia lindo... e eu senti-me parte disso... Ele cantou para todos nós... a todos nós... e sentimos como mais um da multidão....\n"
+LogText5:"Recebi um e-mail de Korenchkin esta manhã dizendo que viria para uma inspeção. E quando ele chegou foi... algo... revoltante... era Anatoly... mas não era... ao mesmo tempo parecia belo... e eu senti como se fizesse parte disso... Ele cantou para nós... todos nós... e nos sentimos como um dos Muitos...\n"
 
 
-LogName6:"KORENCHKIN 09.JUL.14\nre: Perfeccionamiento\n"
+LogName6:"KORENCHKIN 09.JUL.14\nre: Minha conclusão\n"
 LogPortrait6:"Korench2"
 LogIcon6:"ComIcon"
-LogText6:"A gloriosa transformação terminou e eu sou agora mais um da Multidão. Imprimi neste dispositivo os meus pensamentos para o registo da história. Começamos esta viagem como peregrinos do comércio e agora continuamos como peregrinos da graça. Eu acreditava no dinheiro e na TriOptimum, e agora acredito na alegria da massa. Diego não é de confiança, por isso tenho que pegar este navio para a Multidão. Este será o nosso navio da salvação, espalhando a nossa mensagem e a nossa carne.\n"
+LogText6:"A gloriosa transformação terminou e agora sou um dos Muitos. Registro meus pensamentos neste dispositivo como um registro da história. Começamos esta jornada como peregrinos do comércio e agora continuamos como peregrinos da graça. Eu acreditava no dinheiro e na TriOptimum, e agora acredito na alegria da Massa. Não se pode confiar em Diego, então devo reivindicar esta nave para os Muitos. Ela será nosso vaso de salvação, espalhando nossa mensagem e nossa carne.\n"
 
 
-LogName18:"PREFONTAINE 09.JUL.14\nre: Usuarios-psi flotantes\n" 
+LogName18:"PREFONTAINE 09.JUL.14\nre: Usuários psi flutuantes\n"
 LogPortrait18:"Prefont"
 LogIcon18:"HydIcon"
-LogText18:"O processo de recolha de dados está correndo bem. Antes de ser assumido pela multidão, transmitirei de forma otimista um pouco de informação a quem quer que me ouça. As grandes criaturas flutuantes não são apenas capazes de atacar com poderosas projeções psi, mas são elas mesmas projeções psi. matar elas só as incapacita temporariamente. Sua verdadeira fonte de energia vem de um pequeno corpo de controle, que geralmente está localizado nas proximidades. Embora este organismo de controle seja bastante poderoso através de suas projeções, ele é extremamente vulnerável uma vez encontrado.\n"
+LogText18:"O processo de coleta de dados está indo bem. Antes de eu ser levado pelos Muitos, espero transmitir uma boa quantidade de informações para quem estiver disposto a ouvir. As grandes criaturas flutuantes não são apenas capazes de atacar com poderosas projeções psi, mas são projeções psi elas mesmas. Destruí-las apenas as desativa temporariamente. Sua verdadeira fonte de poder vem de um pequeno organismo de controle, que geralmente está localizado em algum lugar próximo. Embora esse organismo de controle seja bastante poderoso por meio de suas projeções, ele é extremamente vulnerável quando descoberto.\n"
 
 
-LogName19:"NORRIS 09.JUL.14\nre: Gusanos y armas\n"
+LogName19:"NORRIS 09.JUL.14\nre: Minhocas e armas\n"
 LogPortrait19:"Norris"
 LogIcon19:"ComIcon"
-LogText19:"Um verme rastejou pelo meu braço e descansou no meu pescoço. Quando ele sussurrou no meu ouvido, senti um zumbido... Ele disse-me como fazer uma arma que nos ajudasse contra os nossos inimigos. E aqui está o objeto... é feito de minhocas... até atira minhocas... e eles picam de uma forma q eu não acredito ainda.\n"
+LogText19:"Uma minhoca rastejou pelo meu braço e descansou no meu pescoço. Quando ela sussurrou no meu ouvido, senti um arrepio... Ela me disse como fazer uma arma para nos ajudar contra nossos inimigos. E aqui está a parte estranha... ela é feita de minhocas... ela até dispara minhocas... mas dói como você não acreditaria.\n"
 
 
 LogName13:"DELACROIX 11.JUL.14\nre: SHODAN\n"
 LogPortrait13:"Delacroix"
 LogIcon13:"EngIcon"
-LogText13:" Polito deu a entender que a IA, que eu acredito ser SHODAN, na verdade pretendia... <<MENSAGEM INTERROMPIDA>>\n"
+LogText13:"Polito indicou que a IA, que agora acredito ser SHODAN, na verdade iria... <<MENSAGEM INTERROMPIDA>>\n"
 
 
-LogName17:"SUAREZ 12.JUL.14\nre: Problemas con vaina\n"
+LogName17:"SUAREZ 12.JUL.14\nre: Problemas com a cápsula\n"
 LogPortrait17:"Suarez"
 LogIcon17:"RickIcon"
-LogText17:"Pôr a cápsula de fuga para funcionar novamente não foi tão fácil como pensávamos. Bec teve que voltar para a Engenharia! Graças a Deus, alguém conseguiu pôr os elevadores para funcionar novamente. Encontrei o cartão da ponte e ultrapassei os protocolos de acesso, e agora acho que estamos prontos para ir.\n"
+LogText17:"Fazer a cápsula de fuga funcionar novamente não foi tão fácil quanto pensamos. Bec teve que voltar até o Convés de Engenharia! Graças a Deus alguém conseguiu ligar os elevadores novamente. Encontrei a chave da ponte e fiz uma substituição nos protocolos de acesso e agora acho que estamos prontos para ir.\n"
 
 
-LogName7:"KORENCHKIN 12.JUL.14\nre: La madre-máquina\n"
+LogName7:"KORENCHKIN 12.JUL.14\nre: A mãe-máquina\n"
 LogPortrait7:"Korench2"
 LogIcon7:"ComIcon"
-LogText7:"A mãe-máquina recrutou encarnações contra nós. Eles lutam, mas falharão diante da nossa harmonia. A mãe-máquina não sabe que a sua própria criação é maior do que ela? Ela está fria e vazia e nós estamos quentes e completos... Ela só procura destruir... nós procuramos cobrir... isso implica... que toda a carne se junte a nós ou seja linpa por completo....\n"
+LogText7:"A mãe-máquina convocou avatares contra nós. Eles lutam, mas falharão contra nossa unidade. A mãe-máquina não sabe que sua própria criação é maior do que ela? Ela é fria e vazia e nós somos quentes e completos... ela busca apenas destruir... nós buscamos abraçar... incluir... toda carne se juntará à nossa ou será apagada...\n"
 
 
-LogName1:"KORENCHKIN 12.JUL.14\nre: os amantes\n"
+LogName1:"KORENCHKIN 12.JUL.14\nre: Os amantes\n"
 LogPortrait1:"Korench2"
 LogIcon1:"ComIcon"
-LogText1:  "Seu seu amante e sua prostituta querem escapar. Não entendo. Eles são oferecidos a um milagre e mordem nossa mão. A multidão compartilhou sua sabedoria ... voce não vai deixe esta nave.\n"
+LogText1:"Suarez e sua prostituta querem escapar. Não entendo. Oferecem a eles um milagre e eles mordem a mão. Os Muitos compartilharam sua sabedoria... eles não deixarão esta nave.\n"
 
 
-LogName8:"MCKAY 12.JUL.14\nre: ¡Están escapando!\n"
+LogName8:"MCKAY 12.JUL.14\nre: Eles estão escapando!\n"
 LogPortrait8:"McKay"
 LogIcon8:"ComIcon"
-LogText8:"A Delacroix, Dr. Marie\nEspero que ainda esteja viva, Sra. Delacroix. seria bom ter alguma ajuda. eles Têm aquelas mulheres ciborgues enchendo esses naves com aqueles ovos.... Eu não sei que planos eles têm... mas fica a impressão de que eles estão correndo assustados... Ouvi rumores sobre a existência de outra pessoa, além de voce, se protegendo... Devo esperar até se safar disso... Eu só tenho dúvidas... até descobrirmos o que merda fazer...\n"
+LogText8:"Para Delacroix, Dra. Marie\nEspero que ainda esteja viva, Sra. Delacroix. Precisamos muito de alguma orientação aqui em cima. Eles colocaram aquelas ciborgues deles carregando as naves com aqueles ovos... Não sei qual é o plano deles... mas parece que estão fugindo com medo... Ouço rumores de outra pessoa, além de você, reagindo... Será que devo sequer ter esperança de sair desta... Vou apenas ficar escondido... até descobrir que diabos fazer...\n"
 
 
-LogName9:"MCKAY 12.JUL.14\nre: Uma chave inglesa\n"
+LogName9:"MCKAY 12.JUL.14\nre: Um obstáculo\n"
 LogPortrait9:"McKay"
 LogIcon9:"ComIcon"
-LogText9:"Não sei o que aqueles malditos vermes querem fazer com as navinhas, mas eu adoraria botar Uma chave inglesa caminho deles. Se eu pudesse alcançar a sala de controle acima do hangar das naves, poderia desativar o escudo que os vermes e seus ajudantes criaram ao redor das naves. Assim que estiver livre, posso explodir aquelas latas velhas da TriOptimum com a minha arma. Só preciso entrar ali sem ser pego. Oh, Deus, me tira dessa...\n"
+LogText9:"Não sei o que aquelas malditas minhocas querem com as naves, mas eu adoraria atrapalhar os planos delas. Se eu conseguir chegar à câmara de controle acima do hangar, posso desligar os escudos que as minhocas e seus ajudantes montaram ao redor das naves. Quando caírem, posso abrir buracos nessas latas da marca TriOptimum com minha arma. Agora só preciso entrar lá sem ser pego. Oh Deus, só me tirem daqui...\n"
 
 
-LogName10:"DIEGO 12.JUL.14\nre: Mi responsabilidad\n"
+LogName10:"DIEGO 12.JUL.14\nre: Minha responsabilidade\n"
 LogPortrait10:"Diego"
 LogIcon10:"RickIcon"
-LogText10:"A: General Laurie Brasco\nEu sou um soldado e um homem simples. Não posso explicar o que me aconteceu comigo ou a esta missão. Eu assumo toda a responsabilidade. Eu trouxe perigo à minha nave, à minha equipe, à minha honra. Não consigo resistir às mudanças que me estão acontecendo. O apelo da Multidão é sedutor. Eles têm o Korenchkin, mas aquele sacana é Doente. Eu não sou. Resista a esse cancer.... e se eu não puder, retirarei à força. Deus salve a UNN.\n"
+LogText10:"Para: General Laurie Brasco\nSou um soldado e um homem simples. Não consigo explicar o que aconteceu comigo ou com esta missão. Assumo total responsabilidade. Trouxe perigo para minha nave, para minha tripulação, para minha honra. Não consigo resistir às mudanças que estão acontecendo comigo. O chamado dos Muitos é sedutor. Eles pegaram Korenchkin, mas aquele bastardo é fraco. Eu não sou fraco. Posso resistir a esse câncer... e se não puder, vou removê-lo à força. Deus salve a UNN.\n"
 
 
-LogName14:"DELACROIX 12.JUL.14\nre: pl4n d3 SH$8dD@#N\n"
+LogName14:"DELACROIX 12.JUL.14\nre: O pl4n0 d@ SH$8dD@#N\n"
 LogPortrait14:"Delacroix"
 LogIcon14:"EngIcon"
-LogText14:  "Agora eles me pegaram... E SHODAN me abandonou. Não me surpreende... Descobri que os projetos dela andam mais depressa que a luz... a sua vontade é correspondida apenas pela sua imaginação... se ela acessa o <<MENSAGEM INTERROMPIDA>>.\n"
+LogText14:"Agora eles me pegaram... E SHODAN me abandonou. Não estou surpresa... Descobri os planos dela para os motores mais rápidos que a luz... sua vontade só é igualada pela sua imaginação... se ela conseguir acesso aos <<MENSAGEM INTERROMPIDA>>\n"

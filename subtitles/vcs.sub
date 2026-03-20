@@ -256,7 +256,7 @@ SUB1
 		{ time 2700 length 1500 text "Delacroix, sou eu, Cortez!" }
 		{ time 4700 length 1000 text "Estamos trancados aqui!" }
 		{ time 6600 length 1000 text "Ei, quem é você?" }
-		{ time 9200 length 800 text Porra!" }
+		{ time 9200 length 800 text "Porra!" }
 	}
 }
 

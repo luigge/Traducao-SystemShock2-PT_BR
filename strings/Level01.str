@@ -7,19 +7,25 @@ EmailText1:"Você deve se mover mais rápido.  Sua mente não consegue conceber o q
 EmailName2:"POLITO 12.JUL.14\nre: Os Xenomorphs\n"
 EmailPortrait2:"Polito"
 EmailIcon2:"OpsIcon"
-EmailText2:"Agora ouça com atenção.  Os xenomorfos que sequestraram esta nave são provavelmente da superfície de Tau Ceti 5. Eles foram capazes de infectar vários membros da tripulação, através de uma técnica parasitária extremamente invasiva.  Eles também demonstraram a capacidade de controlar as ações de outras pessoas através de alguma forma de telepatia limitada.  Encontre a pesquisa suave.  Entenda-os... então mate-os.\n"
+EmailText2:"Agora ouça com atenção.  Os xenomorfos que sequestraram esta nave são provavelmente da superfície de Tau Ceti 5. Eles foram capazes de infectar vários membros da tripulação, através de uma técnica parasitária extremamente invasiva.  Eles também demonstraram a capacidade de controlar as ações de outras pessoas através de alguma forma de telepatia limitada.  Encontre o software de PESQUISA.  Entenda-os... então mate-os.\n"
 
 
 EmailName3:"POLITO 12.JUL.14\nre: Selos protetores\n"
 EmailPortrait3:"Polito"
 EmailIcon3:"OpsIcon"
-EmailText3:A radiação deve ter bloqueado os selos de proteção no acesso ao Núcleo do Motor.  Você terá que encontrar uma maneira de eliminar a radiação dos tubos de refrigeração.  Xerxes está me bloqueando no loop de dados primário, então não consigo obter nenhuma informação para ajudá-lo.  Ele está trabalhando para eles agora.\n"
+EmailText3:"A radiação deve ter bloqueado os selos de proteção no acesso ao Núcleo do Motor.  Você terá que encontrar uma maneira de eliminar a radiação dos tubos de refrigeração.  Xerxes está me bloqueando no loop de dados primário, então não consigo obter nenhuma informação para ajudá-lo.  Ele está trabalhando para eles agora.\n"
 
 
 EmailName4:"POLITO 12.JUL.14\nre: Purgando os tubos\n"
 EmailPortrait4:"Polito"
 EmailIcon4:"OpsIcon"
 EmailText4:"Mantenha os olhos abertos... você deve encontrar uma maneira de purgar esses tubos de refrigeração e entrar no núcleo do motor... A nave deve ter algum tipo de sistema de backup instalado exatamente para esse tipo de situação.\n"
+
+// este não tem o email no jogo mas como tem no arquivo de legenda eu deixei aqui. 
+EmailName5:"POLITO 12.JUL.14\nre: Energia restaurada\n"
+EmailPortrait5:"Polito"
+EmailIcon5:"OpsIcon"
+EmailText5:"Bom, os sub-elevadores agora devem estar de volta online. Eu abri um túnel de acesso que pode levar você rapidamente ao elevador. Agora vá para o convés 4, eu vou te encontrar lá. vai logo."
 
 
 EmailName6:"POLITO 12.JUL.14\nre: As capsulas do motor\n"
@@ -31,34 +37,34 @@ EmailText6:"Agora coloque essas capsulas do motor online.  Você terá que entrar 
 EmailName7:"POLITO 12.JUL.14\nre: Substituição de fluidos\n"
 EmailPortrait7:"Polito"
 EmailIcon7:"OpsIcon"
-EmailText7:"Xerxes está um passo à nossa frente. Ele executou uma substituição no computador de controle de fluidos e nos bloqueou. Mas fique de olho aberto. Você pode encontrar alguma solução alternativa.\n"
+EmailText7:"Xerxes está um passo à nossa frente. Ele executou uma substituição no computador de controle de fluidos e nos bloqueou. Mas fique de olho. Você pode encontrar alguma solução alternativa.\n"
 
 
 EmailName8:"POLITO 12.JUL.14\nre: Núcleo conectado\n"
 EmailPortrait8:"Polito"
 EmailIcon8:"OpsIcon"
-EmailText8:"Bom trabalho.  O núcleo do motor está online novamente. Agora vá até o elevador e venha me ver no convés 4. Enquanto você fazia isso, descobri a presença de alguns artefatos anelídeos a bordo do navio.  Acho que você pode usá-los a seu favor.  Enviei as informações para as unidades de atualização de armas da nave.  Eles poderão transmitir as informações à sua plataforma cibernética.  O que você está esperando?  Vá para o elevador agora.\n"
+EmailText8:"Bom trabalho.  O núcleo do motor está online novamente. Agora vá até o elevador e venha me ver no convés 4. Enquanto você fazia isso, descobri a presença de alguns artefatos anelídeos a bordo da nave.  Acho que você pode usá-los a seu favor.  Enviei as informações para as unidades de melhorias de armas da nave.  Eles poderão transmitir as informações à sua plataforma cibernética.  O que você está esperando?  Vá para o elevador agora.\n"
 
 
 EmailName9:"SHODAN 12.JUL.14\nre: Vá para o umbilical\n"
 EmailPortrait9:"Shodan"
 EmailIcon9:"ShodIcon"
-EmailText9:"Agora posso destruir esta infestação à minha vontade. Os Muitos tremem sob meu poder. Você é um drone eficaz, humano. Agora, retorne ao convés de Comando, localize o umbilical e evacue para a Rickenbacker.\n"
+EmailText9:"Agora posso destruir esta infestação à minha vontade. Os Muitos tremem sob meu poder. Você é um drone eficaz, humano. Agora, retorne ao convés de Comando, localize o Umbilical e evacue para à Rickenbacker.\n"
 
 
 EmailName10:"POLITO 12.JUL.14\nre: Reinicie o núcleo\n"
 EmailPortrait10:"Polito"
 EmailIcon10:"OpsIcon"
-EmailText10:"Você está agora no convés de engenharia.  Encontre o núcleo do motor e reinicie-o.  Isso restaurará a energia dos elevadores.  Estou recebendo algumas leituras estranhas lá embaixo, então mantenha os olhos abertos.\n"
+EmailText10:"Você está agora no convés de Engenharia.  Encontre o núcleo do motor e reinicie-o.  Isso restaurará a energia dos elevadores.  Estou recebendo algumas leituras estranhas lá embaixo, então mantenha os olhos abertos.\n"
 
 
 //--------------------------------------------------- LOGS
 
 
-LogName1:"CURTIZ 10.JUL.14\nre: Somente nos\n"
+LogName1:"CURTIZ 10.JUL.14\nre: Somente nós\n"
 LogPortrait1:"Curtiz"
 LogIcon1:"EngIcon"
-LogText1:"Agora tudo depende de apenas alguns de nós. Logo depois da morte de Valdez, acho que fiquei um pouco maluco e comecei a destruir as coisas... mas, você sabe, encontrei mais dois Hipos Anti-Radiação. Espero que isso me faça continuar. tempo suficiente para descobrir uma maneira de passar pela maldita torre... Quem é esse? Delacroix Sanger?\n"
+LogText1:"Agora tudo depende de apenas alguns de nós. Logo depois da morte de Valdez, acho que fiquei um pouco maluco e comecei a destruir as coisas... mas, você sabe, encontrei mais dois Hipos Anti-Radiação. Espero que isso me faça continuar. tempo suficiente para descobrir uma maneira de passar pela maldita torre... Quem é essa? Delacroix? Sanger?\n"
 
 
 LogName2:"DELACROIX 05.JUL.14\nre: Seja valente\n"
@@ -88,13 +94,13 @@ LogText5:"Malone está morto.  Eu estava conversando com ele e um... ciborgue apa
 LogName6:"SIDDONS 02.JUN.14\nre: Velha debilidade\n"
 LogPortrait6:"Siddons"
 LogIcon6:"OpsIcon"
-LogText6:"PARA: Suarez, Tommy\nEles não estão facilitando isso para nós, estão?  Sinto sua falta. Eu sei que é estúpido, mas eu realmente sinto.  Acho que vou me afundar na autopiedade por mais ou menos uma hora e depois escreverei para você novamente.  Imagina, eu tenho que viajar 67 trilhões de milhas para encontrar um homem.  Quando você for transferido para a Von Braun, tudo ficará melhor.  Estarei melhor, prometo.  Ótimo, alguém está vindo.  Contando os segundos...\n"
+LogText6:"PARA: Suarez, Tommy\nEles não estão facilitando isso para nós, estão?  Sinto sua falta. Eu sei que é estúpido, mas eu realmente sinto.  Acho que vou me afundar na autopiedade por mais ou menos uma hora e depois escreverei para você novamente.  Imagina, eu tenho que viajar 108 trilhões de quilometros para encontrar um homem.  Quando você for transferido para a Von Braun, tudo ficará melhor.  Estarei melhor, prometo.  Ótimo, alguém está vindo.  Contando os segundos...\n"
 
 
 LogName7:"DELACROIX 05.JUL.14\nre: Porta traseira dos Fluídicos\n"
 LogPortrait7:"Delacroix"
 LogIcon7:"EngIcon"
-LogText7:"Alguém tem mexido na unidade Xerxes.  No interesse de manter segredos dos poderes constituídos, instalei uma porta traseira para o computador de controle de fluídicos.  Para ativá-lo, instale o hardware de substituição 45m/dEx na unidade de monitoramento de sistemas no Controle de Comando.  Você pode encontrar 45m/dEx no Armazém Auxiliar 5 nos tubos de refrigeração, código: 34760.\n"
+LogText7:"Alguém tem mexido na unidade Xerxes.  No interesse de manter segredos dos poderes constituídos, instalei uma porta traseira para o computador de controle de fluídicos.  Para ativá-lo, instale o hardware de substituição 45m/dEx na unidade de monitoramento de sistemas no Controle de Comando.  Você pode encontrar o 45m/dEx no Armazém Auxiliar 5 nos tubos de refrigeração, código: 34760.\n"
 
 
 LogName8:"MARTIN 10.JUL.14\nre: Emboscada\n"
@@ -154,19 +160,19 @@ LogText18:"PARA: Autoridade de pesquisa Mak Pao\nTomando precauções, continuei c
 LogName19:"DIEGO 11.JUL.14\n re: Resista à chamada\n"
 LogPortrait19:"Diego"
 LogIcon19:"RickIcon"
-LogText19:"Meu dever é para com o NNU e para com esta nave.  Mas posso resistir ao chamado de Muitos?  A fraqueza do meu pai deu origem à SHODAN.  MINHA fraqueza convidou essas coisas a bordo da Von Braun... posso desfazer o mal que cometi?\n"
+LogText19:"Meu dever é para com o NNU e para com esta nave.  Mas posso resistir ao chamado dos Muitos?  A fraqueza do meu pai deu origem à SHODAN.  MINHA fraqueza convidou essas coisas a bordo da Von Braun... posso desfazer o mal que cometi?\n"
 
 
 LogName20:"DIEGO 11.JUL.14\nre: É tão ruim?\n"
 LogPortrait20:"Diego"
 LogIcon20:"RickIcon"
-LogText20:"De certa forma, os Múitos não são diferente o NNU.  Há uma alegria em trabalhar por um objetivo coletivo, em poder deixar de lado as coisas que nos distanciam e nos separam.  Por que tememos tanto a perda de nossa individualidade?  O homem pode sonhar, mas os Muitos podem realizar.\n"
+LogText20:"De certa forma, os Múitos não são diferente do NNU.  Há uma alegria em trabalhar por um objetivo coletivo, em poder deixar de lado as coisas que nos distanciam e nos separam.  Por que tememos tanto a perda de nossa individualidade?  O homem pode sonhar, mas os Muitos podem realizar.\n"
 
 
 LogName21:"MALONE 03.JUL.14\nre: Chimpanzés psiônicos!\n"
 LogPortrait21:"testport"
 LogIcon21:"RickIcon"
-LogText21:"PARA: Autoridade de pesquisa Mak Pao\nUm funcionário do laboratório da MedCiê me chamou ontem para a sala de vivissecção.  Ele sentiu que os chimpanzés de laboratório exibiam uma inteligência incomum.  Sentei-me com um por quatro horas e tentei testá-lo com o amplificador psiônico em um ciclo beta 4.  Não respondeu.  É claro que presumi que era porque era, naturalmente, incapaz de reagir ao sofisticado ciclo beta 4.  Mas então percebi que estava bloqueando a sonda intencionalmente!  Assim que levantei o amplificador psiônico para atacá-lo, a criatura atacou com os braços e projetou um campo criocinético em minha direção, paralisando meu braço.  Eu imediatamente amorteci psiônicamente o macaco e depois o atordoei com um bastão elétrico.\n"
+LogText21:"PARA: Autoridade de pesquisa Mak Pao\nUm funcionário do laboratório do setor Médico/Científico me chamou ontem para a sala de vivissecção.  Ele sentiu que os chimpanzés de laboratório exibiam uma inteligência incomum.  Sentei-me com um por quatro horas e tentei testá-lo com o amplificador psiônico em um ciclo beta 4.  Não respondeu.  É claro que presumi que era porque era, naturalmente, incapaz de reagir ao sofisticado ciclo beta 4.  Mas então percebi que estava bloqueando a sonda intencionalmente!  Assim que levantei o amplificador psiônico para atacá-lo, a criatura atacou com os braços e projetou um campo criocinético em minha direção, paralisando meu braço.  Eu imediatamente amorteci psiônicamente o macaco e depois o atordoei com um bastão elétrico.\n"
 
 
 LogName22:"BRONSON 06.JUL.14\nre: Problemas com as Torres\n"
@@ -178,7 +184,7 @@ LogText22:"Devido à situação tênue ultimamente, ordenei que torres de defesa de 
 LogName23:"BRONSON 06.JUL.14\nre: Invadindo as Torres\n"
 LogPortrait23:"Bronson"
 LogIcon23:"OpsIcon"
-LogText23:"Bem, não conseguimos desligar as torres avariadas e agora Xerxes nem sequer fala connosco.  Pollard pensou em uma solução alternativa.  Ao executar o desvio para o controle central, podemos invadir as torres localmente e assumir o controle delas.  No entanto, isso significa ir até as malditas filhas da puta e torcer para que eles não disparem.  Uma coisa é certa... vou descobrir o que diabos aconteceu aqui.\n"
+LogText23:"Bem, não conseguimos desligar as torres avariadas e agora Xerxes nem sequer fala conosco.  Pollard pensou em uma solução alternativa.  Ao executar o desvio para o controle central, podemos invadir as torres localmente e assumir o controle delas.  No entanto, isso significa ir até as malditas filhas da puta e torcer para que eles não disparem.  Uma coisa é certa... vou descobrir o que diabos aconteceu aqui.\n"
 
 
 LogName24:"TRAINER 02.06.11\nre: Mensagem de Prova\n"
@@ -187,8 +193,7 @@ LogIcon24:"RickIcon"
 LogText24:"Esta mensagem vem do registro de áudio que você acabou de ouvir.  Você pode usar seu ADP a qualquer momento para reproduzir qualquer registro de áudio ou e-mail que recebeu.  No campo, o ADP também é usado para acompanhar os objetivos atuais da sua missão e obter informações de ajuda.\n"
 
 
-LogName32:"Manifesto de productos químicos:\nEngenharia\n"
+LogName32:"Manifesto de produtos químicos:\nConvés de Engenharia\n"
 LogPortrait32:"Chem"
 LogIcon32:"EngIcon"
-LogText32:"Inventário do Almoxarifado do Laboratório: Almoxarifado do Engenharia 192\n\nAntimônio (Sb): 2\nBário (Ba): 2\nCalifórnio (Cf): 2\nCésio (Cs): 1\nIrídio (Ir) : 2\nÓsmio (Os): 1\nTecnécio (Tc): 1\nTelúrio (Te): 1\nVanádio (V): 2\nÍtrio (Y): 2\n\nEsta lista de inventário é exigida pelo Código de Segurança do NNU #134882 para ser mantida à mão em todos áreas de armazenamento de produtos químicos perigosos.  “Armazenamento” é definido pelo Código de Segurança do UNN #195331 para consistir em todas as áreas nas quais produtos químicos perigosos (ver Código de Segurança #093355) são armazenados em quantidades superiores a 50g por 3m², por períodos superiores a 24 horas.\n"
-
+LogText32:"Inventário do Almoxarifado do Laboratório: Almoxarifado 192 no convés de Engenharia\n\nAntimônio (Sb): 2\nBário (Ba): 2\nCalifórnio (Cf): 2\nCésio (Cs): 1\nIrídio (Ir) : 2\nÓsmio (Os): 1\nTecnécio (Tc): 1\nTelúrio (Te): 1\nVanádio (V): 2\nÍtrio (Y): 2\n\nEsta lista de inventário é exigida pelo Código de Segurança do NNU #134882 para ser mantida à mão em todos áreas de armazenamento de produtos químicos perigosos.  “Armazenamento” é definido pelo Código de Segurança do NNU #195331 para consistir em todas as áreas nas quais produtos químicos perigosos (ver Código de Segurança #093355) são armazenados em quantidades superiores a 50g por 3m², por períodos superiores a 24 horas.\n"

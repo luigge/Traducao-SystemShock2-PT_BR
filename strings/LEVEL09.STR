@@ -1,42 +1,40 @@
-EmailName1:"SHODAN 12.JUL.14\nre: Nos separamos...\n"
+EmailName1:"SHODAN 12.JUL.14\nre: Seguimos caminhos diferentes...\n"
 EmailPortrait1:"Shodan"
 EmailIcon1:"ShodIcon"
-EmailText1:"Gracias por ejecutar mis mandatos, marioneta. Se que has luchado, pero nunca tuve intención alguna de destruir la Von Braun. La Von Braun, más rápida que la velocidad de la luz, puede utilizarse para crear bolsas de proto-realidad. Ahora la uso para modificar la realidad a mis propias especificaciones. El proceso no llevará mucho tiempo. Si esto te parece desagradable, ponte cómodo, insecto... no sobrevivirás para ver mi nuevo orden en el mundo...\n"
+EmailText1:"Obrigado por fazer meus recados, marionete. Sei que você lutou bastante, mas nunca tive a intenção de destruir a Von Braun. O motor de dobra mais rápido que a luz da Von Braun pode ser usado para criar bolsões de proto-realidade. Agora estou usando-o para modificar a realidade de acordo com minhas próprias especificações. O processo não levará muito tempo. Se isso lhe parece desagradável, tranquilize-se, inseto... você não sobreviverá para ver minha nova ordem mundial...\n"
 
 
-EmailName2:"SHODAN 12.JUL.14\nre: ¿Puedes sentir tu final?\n"
+EmailName2:"SHODAN 12.JUL.14\nre: Você consegue sentir seu fim?\n"
 EmailPortrait2:"Shodan"
 EmailIcon2:"ShodIcon"
-EmailText2:"Viajas dentro de la gloria de mis recuerdos, insecto. Puedo sentir tu miedo cuando pisas la extensión infinita de mi mente. Ponte cómodo... dentro de poco decoraré mi casa con tu carcasa.\n"
+EmailText2:"Você viaja pela glória de minhas memórias, inseto. Posso sentir seu medo enquanto você percorre a extensão infinita de minha mente. Fique à vontade... em breve decorarei minha morada com sua carcaça.\n"
 
 
 EmailName3:"SHODAN 12.JUL.14\nre: Adeus, inseto\n"
 EmailPortrait3:"Shodan"
 EmailIcon3:"ShodIcon"
-EmailText3:"Ya no eres bienvenido aquí, estorbo. ¿Por qué te quedas, a pesar de  sentir mi disgusto? He aguantado tu compañía el tiempo suficiente... Es el momento de que acabe nuestro baile.\n"n"
+EmailText3:"Você não é mais bem-vindo aqui, incômodo. Por que permanece, quando percebe meu desagrado? Já suportei sua companhia por tempo suficiente... chegou a hora de nossa dança terminar.\n"
 
 
 LogName1:"DELACROIX 12.JUL.14\nre: Uma pequena ajuda\n"
 LogPortrait1:"Delacroix"
 LogIcon1:"EngIcon"
-LogText1:"Se está ouvindo isso, eu já estou morta. Quando percebi que SHODAN tinha me traído, integrei estes comentários no seu ciclo de dados primários. SHODAN tirou vantagem da capacidade de salto do dispositivo da Von Braun, que lhe permite viajar mais rápido do que a velocidade da luz, para os seus próprios fins. O dispositivo atua alterando o espaço em redor da nave espacial em condições claramente arbitrárias. SHODAN modificou esse sistema nos SEUS termos. O efeito é até agora bastante pequeno, mas está se espalhando de forma alarmante. Em breve, chegaremos à Terra. voce está no mundo deles... nas suas memórias e com as suas regras. Cuidado com as suas costas.\n"
+LogText1:"Se você está recebendo isto, eu já estou morta. Quando percebi que SHODAN havia me traído, integrei estes comentários ao seu loop primário de dados. SHODAN explorou a capacidade de distorção do dispositivo mais rápido que a luz da Von Braun para seus próprios propósitos. O dispositivo funciona alterando o espaço ao redor da nave para especificações relativamente arbitrárias. SHODAN o alterou para as SUAS especificações. O efeito ainda é pequeno agora, mas se espalha com velocidade alarmante. Em breve, alcançará a Terra. Você está no mundo dela agora... nas memórias dela e sob as regras dela. Cuidado.\n"
 
 
-LogName2:"DELACROIX 12.JUL.14\nre: Cuidado\n"
+LogName2:"DELACROIX 12.JUL.14\nre: Um aviso\n"
 LogPortrait2:"Delacroix"
 LogIcon2:"EngIcon"
-LogText2:"Não é só aqui... SHODAN gerou suas próprias versões dos horrores da Von Braun... lembre-se, eles são virtuais, eles não são reais... não tome como certeza qualquer de seus pontos fortes ou fracos...\n"
+LogText2:"Você não está sozinho aqui... SHODAN criou suas próprias versões dos horrores da Von Braun... lembre-se, eles são virtuais, não são reais... não presuma nada sobre suas forças ou fraquezas...\n"
 
 
-LogName4:"DELACROIX 12.JUL.14\nre: Riscos\n"
+LogName4:"DELACROIX 12.JUL.14\nre: O que está em jogo\n"
 LogPortrait4:"Delacroix"
 LogIcon4:"EngIcon"
-LogText4:"Você deve entender os riscos... se SHODAN puder continuar, a sua realidade irá absorver completamente a nossa. O espaço vai se tornar ciberespaço e os caprichos de SHODAN vão se tornar realidade.\n"
+LogText4:"Você precisa entender o que está em jogo aqui... se SHODAN continuar, sua realidade irá assimilar completamente a nossa. O espaço se tornará ciberespaço e os caprichos de SHODAN se tornarão realidade.\n"
 
 
-LogName3:"DELACROIX 12.JUL.14\nre: o Final\n"
+LogName3:"DELACROIX 12.JUL.14\nre: O fim\n"
 LogPortrait3:"Delacroix"
 LogIcon3:"EngIcon"
-LogText3:"Você está perto do sede do poder de SHODAN. Provavelmente voce não vai conseguir derrotár ela. Mas não há outra opção... e se Lembre de se concentrar nos seus pontos fortes... ela será vulnerável ao seu armamento e aos seus poderes psíquicos. Consegui fornecer ajuda a voce através de terminais virtuais que voce pode piratear... Eles devem te ajudar a derrotar o monstro.\n"
-
-
+LogText3:"Você está perto da fonte do poder de SHODAN. Provavelmente não conseguirá derrotá-la. Mas não há escolha... Lembre-se de focar em seus pontos fortes... ela será vulnerável às suas armas e aos seus poderes psiónicos. Consegui introduzir alguma ajuda na forma de terminais virtuais que você pode invadir... eles devem ajudá-lo a derrotar o monstro.\n"

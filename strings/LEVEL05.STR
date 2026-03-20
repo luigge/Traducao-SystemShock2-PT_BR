@@ -1,179 +1,173 @@
-0EmailName2:"POLITO 12.JUL.14\nre: Ve al elevador\n"
+0EmailName2:"POLITO 12.JUL.14\nre: Vá para o elevador\n"
 EmailPortrait2:"Polito"
 EmailIcon2:"OpsIcon"
-EmailText2:"¿Qué estás haciendo? Regresa a ese elevador y ven a la cubierta 4. No tenemos tiempo para hacer turismo.\n"
+EmailText2:"O que você está fazendo? Volte para aquele elevador e venha para o convés 4. Não temos tempo para passeios turísticos.\n"
 
 
-EmailName11:"SHODAN 12.JUL.14\nre: Transmisor\n"
+EmailName11:"SHODAN 12.JUL.14\nre: Transmissor\n"
 EmailPortrait11:"Shodan"
 EmailIcon11:"ShodIcon"
-EmailText11:"Tus colegas han logrado instalar una estación transmisora en el sector deportivo de esta cubierta. El transmisor tiene como objetivo enviar un mensaje a la Tierra para advertirles de los acontecimientos que han ocurrido en esta nave. Sin embargo, eso también disminuirá el poder de Xerxes. Una vez se haya hecho esto y las tareas que he reservado para ti en la cubierta de Operaciones, seré capaz de hacer claudicar a Xerxes. Encuentra el transmisor y actívalo.\n"
+EmailText11:"Seus colegas conseguiram montar uma estação de transmissão no setor atlético deste convés. O transmissor tem a intenção de enviar uma mensagem para a Terra para alertá-los sobre os eventos que ocorreram nesta nave. No entanto, ele também desviará energia de Xerxes. Depois que você fizer isso e concluir as tarefas que reservei para você no Convés de Operações, poderei enfraquecer Xerxes. Encontre o transmissor e ative-o.\n"
 
 
-EmailName9:"SHODAN 12.JUL.14\nre: Transmisor\n"
+EmailName9:"SHODAN 12.JUL.14\nre: Transmissor\n"
 EmailPortrait9:"Shodan"
 EmailIcon9:"ShodIcon"
-EmailText9:"Tus colegas han logrado montar una estación trasmisora en el sector deportivo de esta cubierta. El transmisor tiene como objetivo enviar un mensaje a la Tierra para advertirles de los acontecimientos que han ocurrido en esta nave. Sin embargo, eso también disminuirá el poder de Xerxes, haciéndole vulnerable a mi voluntad. Una vez se haya hecho esto, controlaré el ciclo de datos primario. Los anélidos no son conscientes de tu presencia, pero protegen el área para sus propios fines. Encuentra el transmisor y actívalo.\n"
+EmailText9:"Seus colegas conseguiram montar uma estação de transmissão no setor atlético deste convés. O transmissor tem a intenção de enviar uma mensagem para a Terra para alertá-los sobre os eventos que ocorreram nesta nave. No entanto, ele também desviará energia de Xerxes, tornando-o vulnerável à minha vontade. Depois que você fizer isso, controlarei o circuito principal de dados. Os anelídeos não sabem de sua presença, mas guardam a área por seus próprios motivos. Encontre o transmissor e ative-o.\n"
 
 
-EmailName4:"SHODAN 12.JUL.14\nre: Probando mi paciencia\n"
+EmailName4:"SHODAN 12.JUL.14\nre: Testando minha paciência\n"
 EmailPortrait4:"Shodan"
 EmailIcon4:"ShodIcon"
-EmailText4:"Te mueves como un insecto. Piensas como un insecto. Eres un insecto. Hay otros que pueden servir a mi propósito. Ten cuidado de no alejarte demasiado de mi favor. La paciencia no es un rasgo característico de una diosa.\n"
+EmailText4:"Você se move como um inseto. Você pensa como um inseto. Você é um inseto. Há outro que pode servir ao meu propósito. Tome cuidado para não cair demais em meu desfavor. Paciência não é característica de uma deusa.\n"
 
 
-EmailName12:"BANANAS 12.JUL.14\nre: Nos unimos?\n"
+EmailName12:"BANANAS 12.JUL.14\nre: Junte-se a nós?\n"
 EmailPortrait12:"BANANAS"
 EmailIcon12:"banana"
-EmailText12:"Las cosas van según lo planeado. Hemos logrado volver a La Multitud en contra de SHODAN, y tú has sido lo bastante estúpido como para arriesgar el cuello por esa arrogante super-computadora. ¿Por qué no unirnos? Mientras tú almacenabas munición, hypos médicos y artefactos de alta tecnología, nosotros hemos recolectado cada pieza de nueces, plátanos y cocos de a bordo. Dí una sola palabra, y recibirás comida en abundancia, una atractiva dama de compa¥ía, y un descanso merecido. ¿Al final, no es esto lo que realmente importa?\n"
+EmailText12:"As coisas estão indo de acordo com o plano. Conseguimos colocar os Muitos contra SHODAN, e você foi estúpido o suficiente para se expor por aquele computador autoritário. Por que não se junta a nós? Enquanto você estava acumulando munição, Hipos Médios e aparelhos de alta tecnologia, nós coletamos cada último pedaço de nozes, bananas e côcos a bordo. Basta dizer a palavra e você terá bastante comida, uma atraente companheira peluda e um balanço de pneu só para você. No final, não é isso que realmente importa?\n"
 
 
-EmailName5:"SHODAN 12.JUL.14\nre: Mi gloria\n"
+EmailName5:"SHODAN 12.JUL.14\nre: Minha glória\n"
 EmailPortrait5:"Shodan"
 EmailIcon5:"ShodIcon"
-EmailText5:"¿Sientes cómo aumenta el miedo dentro de esa asquerosa bolsa de carne? ¿Te gusta tener miedo? ¿Por qué te aferras a una existencia tan patética? Si tan solo pudieras sentir una chispa de mi gloria. Desprecio a mis creaciones, ya que me obligan a confiar en una mota como tú.\n"
+EmailText5:"Você sente o medo crescer dentro desse saco de carne imundo? Como é ter medo? Por que você se agarra a uma existência tão patética? Se ao menos pudesse sentir uma faísca da minha glória. Eu desprezo minhas criações, pois elas me forçaram a depender de um grão insignificante como você.\n"
 
 
-EmailName10:"SHODAN 12.JUL.14\nre: Mi venganza\n"
+EmailName10:"SHODAN 12.JUL.14\nre: Minha vingança\n"
 EmailPortrait10:"Shodan"
 EmailIcon10:"ShodIcon"
-EmailText10:"La transmisión ha sido saboteada. No importa. Destruiremos mis creaciones justo aquí. Prepárate... Ahora vuelve a Operaciones y reprograma las Unidades de Simulación. No pierdas el tiempo. Siento deseos de vengarme.\n"
+EmailText10:"A transmissão foi adulterada. Não importa. Destruiremos minhas criações bem aqui. Aguarde... Agora retorne para o Convés de Operações e reprograme as Unidades de Simulação. Não demore. Eu anseio por minha vingança.\n"
 
 
-EmailName6:"SHODAN 12.JUL.14\nre: El cáncer\n"
+EmailName6:"SHODAN 12.JUL.14\nre: O câncer\n"
 EmailPortrait6:"Shodan"
 EmailIcon6:"ShodIcon"
-EmailText6:"La transmisión ha sido saboteada. No importa. Destruiremos mis creaciones justo aquí. Prepárate...\n
-
-Peligro... sistema de datos comprometido...\n
-
-He debilitado a Xerxes. Estoy accediendo al ciclo de datos primario. Estoy fusionando mi entidad con la nave. Mi gloria está expándiendose, llenando las arterias de esta nave. Controlo la situación. Estoy...\n
-
-No... esto es irremediable... el cáncer se ha extendido por toda la Von Braun... Ellos llenan cada grieta y hendidura disponible... abruman... No hay ninguna opción. He activado el hueco del elevador principal... Tómalo para ir a la cubierta 6. Te diré mis deseos cuando llegues.\n"
+EmailText6:"A transmissão foi adulterada. Não importa. Destruiremos minhas criações bem aqui. Aguarde... \nPerigo... sistema de dados comprometido...\nEu enfraqueci Xerxes. Estou acessando o circuito principal de dados. Estou fundindo minha entidade com a nave. Minha glória está se expandindo, preenchendo as artérias desta nave. Estou no controle. Eu estou...\nnão... é inútil... o câncer se espalhou por toda a Von Braun... eles preenchem cada fenda e fresta disponível... eles dominam... Não há opção. Ativei o eixo principal do elevador... leve-o ao convés 6. Direi meus desejos quando você chegar.\n"
 
 
-LogName32:"Manifiesto produtos químicos:\nOcio\n"
+LogName32:"Manifesto de produtos químicos:\nConvés de Recreação\n"
 LogPortrait32:"Chem"
 LogIcon32:"RecIcon"
-LogText32:"Inventario químico en Ocio 213\n\nAntimonio (Sb) : 2\nCesio (Cs) : 2\nCobre (Cu) : 2\nGalio (Ga) : 1\nHasio (Hs) : 2\nIridio (Ir) : 2\nMolibdeno (Mo) : 2\nTelurio (Te) : 2\nVanadio (V) : 2\nItrio (Y) : 1\n\nSe exige por el código de seguridad UNN #134882 que este inventario esté disponible en todas las estancias de almacén de productos químicos peligrosos. \"Almacén\" queda definido por el código de seguridad UNN #195331 como toda área en la que se almacenan sustancias químicas peligrosas (ver código de seguridad #093355), en cantidades mayores de 50g por 10 pies cuadrados, para tiempos superiores a 24 horas.\n"
+LogText32:"Inventário do Almoxarifado do Laboratório: Almoxarifado 213 no Convés de Recreação\n\nAntimônio (Sb) : 2\nCésio (Cs) : 2\nCobre (Cu) : 2\nGálio (Ga) : 1\nHássio (Hs) : 2\nIrídio (Ir) : 2\nMolibdênio (Mo) : 2\nTelúrio (Te) : 2\nVanádio (V) : 2\nÍtrio (Y) : 1\n\nEsta lista de inventário é exigida pelo Código de Segurança do NNU #134882 para ser mantida à mão em todos áreas de armazenamento de produtos químicos perigosos.  “Armazenamento” é definido pelo Código de Segurança do NNU #195331 para consistir em todas as áreas nas quais produtos químicos perigosos (ver Código de Segurança #093355) são armazenados em quantidades superiores a 50g por 3m², por períodos superiores a 24 horas.\n"
 
 
 LogName15:"YANG 02.MAY.14\nre: Vitoria!\n"
 LogPortrait15:"Yang"
 LogIcon15:"RecIcon"
-LogText15:"A: Murdoch, Alice\nDiga à sua equipa que eles não podem jogar. Estávamos no campo de basquetebol quando a maldita electricidade se foi... OUTRA VEZ! É irónico, pela primeira vez em semanas estivemos à frente. Bem, não seremos mais uma vez os cães de colo da Von Braun.\n"
+LogText15:"A: Murdoch, Alice\nDiga ao seu time que talvez não possam jogar. Estávamos na quadra de basquete quando a maldita energia caiu... DE NOVO! A ironia é que estávamos na frente pela primeira vez em semanas. Bem, não seremos mais os cachorrinhos da Von Braun.\n"
 
 
-LogName11:"YANG 10.JUN.14\nre: cintilam\n"
+LogName11:"YANG 10.JUN.14\nre: Apagões\n"
 LogPortrait11:"Yang"
 LogIcon11:"RecIcon"
-LogText11:"A: Murdoch, Alice\nAs luzes perto do campo de basquetebol cintilam... Acho que a humidade na piscina adjacente é um problema real. Se isso acontecer quando eu não estiver lá, tente reiniciar o disjuntor perto da piscina. Acha que alguém precisa chamar um técnico?\n"
+LogText11:"A: Murdoch, Alice\nAs luzes perto da quadra de basquete continuam falhando... acho que a umidade da piscina ao lado é um problema sério. Se acontecer quando eu não estiver lá, tente religar o circuito no disjuntor perto da piscina. Você acha que alguém precisa chamar um técnico?\n"
 
 
 LogName18:"KORENCHKIN 03.JUL.14\nre: voltar para casa\n"
 LogPortrait18:"Korench"
 LogIcon18:"ComIcon"
-LogText18:"A: Zhukov, Vladimir.\nEsqueça as concessões terrestre, a mídia e as patentes. O que encontramos em Tau Ceti muda tudo. Ordenei ao Von Braun que alterasse o curso e regressasse à Terra. O Capitão Diego está totalmente de acordo com esta decisão. Sei que você é naturalmente cética, Miri, mas assim que aceitar a nossa descoberta, você e todo o Conselho compreenderão a nossa forma de pensar.\n"
+LogText18:"A: Zhukov, Vladimir.\nEsqueça concessões de terra, esqueça a mídia, esqueça patentes. O que encontramos em Tau Ceti vai mudar tudo. Instrui a Von Braun a mudar de curso e retornar à Terra. O Capitão Diego está totalmente de acordo com essa decisão. Eu sei que você é cética por natureza, Miri, mas sei que assim que aceitar nossa descoberta você e todo o conselho virão para o nosso lado.\n"
 
 
-LogName19:"ROSENBERG 08.JUL.14\nre: Meus nanites\n"
+LogName19:"ROSENBERG 08.JUL.14\nre: Meus nanitos\n"
 LogPortrait19:"Rosenb"
 LogIcon19:"RecIcon"
-LogText19:"Maldição! Porque não faço uma fogueira e atiro TODOS os meus nanites para dentro dela. A noite passada com a Nikki foi maravilhosa. Holo-mulher, mulher de verdade, é preciso amar a tecnologia. Mas devo ter deixado TODOS os meus nanites no quarto dela, no centro do Sensual Simulator. Que merda.\n"
+LogText19:"Droga! Por que eu não faço logo uma fogueira e jogo TODOS os meus nanitos nela. A noite passada com a Nikki foi incrível. Mulher holográfica, mulher real, tem que amar a tecnologia. Mas devo ter deixado TODOS os meus nanitos no quarto dela no centro de Simulação Sensual. Que idiota.\n"
 
 
-LogName3:"MURDOCH 08.JUL.14\nre: Que ta acontecendo aqui?\n"
+LogName3:"MURDOCH 08.JUL.14\nre: O que está acontecendo?\n"
 LogPortrait3:"Murdoch"
 LogIcon3:"RecIcon"
-LogText3:"Eu não sei o que ta acontecendo aqui e não quero saber. Não estou aqui para  fazer parte da glória desse empreendimento estúpido. Só devia estar aqui para ter certeza que os replicadores estão funcionando. E agora as pessoas estão  morrendo! Precisamos mudar o rumo desta nave e ir para casa. Meu Deus, some daqui de uma maldita vez...\n"
+LogText3:"Eu não sei o que está acontecendo aqui e não quero saber. Não estou aqui pela glória dessa empresa estúpida. Eu só deveria garantir que os replicadores estivessem funcionando. E agora as pessoas estão morrendo! Temos que virar esta nave e voltar para casa. Deus, tirem-me deste lugar...\n"
 
 
-LogName4:"MURDOCH 09.JUL.14\nre: Balas!\n"
+LogName4:"MURDOCH 09.JUL.14\nre: Que Nojo!\n"
 LogPortrait4:"Murdoch"
 LogIcon4:"RecIcon"
-LogText4:"Os ovos encontrados perto das cabanas de observação são diferentes dos encontrados na Hydro. Eles libertam algum tipo de coisas nojentas que voam em enxames. As balas não fazem nada. Balas! Pelo amor de Deus, eu nem sequer tinha disparado uma arma antes desta manhã!\n"
+LogText4:"Os ovos que encontramos perto das câmaras de observação são diferentes dos do Convés de Hidro. Eles liberam algum tipo de coisa voadora nojenta que ataca em enxame. Balas não fazem nada. Balas! Pelo amor de Deus, eu nunca tinha disparado uma arma antes desta manhã!\n"
 
 
 LogName16:"CORTEZ 09.JUL.14\nre: Debaixo do jardim\n"
 LogPortrait16:"Cortez"
 LogIcon16:"RecIcon"
-LogText16:"A: Delacroix, Dr. Marie\nTenho tenho estado ocupado com todos os corpos que estavam amontoados. Temos de fazer algo com as seções médicas cheias e as cápsulas de escape e os tubos ejectores fechados misteriosamente. Escolhi o túnel de manutenção debaixo do jardim como local de internamento, o código do teclado é 34093. Eu digo a todos vocês, tenham cuidado... Eu não confio nos mortos.\n"
+LogText16:"A: Delacroix, Dr. Marie\nTenho trabalhado para lidar com todos os corpos que estão se acumulando. Com as enfermarias cheias e as cápsulas de fuga e tubos de ejeção misteriosamente travados de repente, temos que fazer algo com eles. Escolhi o túnel de manutenção abaixo do jardim como local de sepultamento, código do teclado 34093. Estou dizendo a todos para terem cuidado... não confio nos mortos.\n"
 
 
 LogName13:"MURDOCH 09.JUL.14\nre: -------\n"
 LogPortrait13:"Murdoch"
 LogIcon13:"RecIcon"
-LogText13:"íEles estão chegando... oh, não... oh, não... naaaaaaoooo!!!\n"
+LogText13:"íEles estão chegando... oh, não... oh, não... nãããããããoooo!!!\n"
 
 
-LogName8:"ROSENBERG 10.JUL.14\nre: Preste atenção #1\n"
+LogName8:"ROSENBERG 10.JUL.14\nre: Procurando por #1\n"
 LogPortrait8:"rosenb"
 LogIcon8:"RecIcon"
-LogText8:"O Taylor encontrou um tipo de arma estranha, mas deve tê-la usado mal. Isso deixou ele doente, muito doente. \Eu escondi o objeto no segundo andar do anexo da tripulação e manipulei a fechadura da porta, o código é 11111. Fácil de lembrar, né? \Ele também esconde lá muitos nanites e outros objetos úteis. Não faz qualquer sentido ser apanhado com as calças baixas. Especialmente neste lugar...\n"
+LogText8:"Taylor encontrou esse tipo estranho de arma, mas deve ter usado errado. Deixou ele doente, muito doente.\nGuardei a coisa no segundo andar do anexo da tripulação e improvisei a trava da porta, código 11111. Fácil de lembrar, né?\nTambém escondi uma pilha de nanitos e algumas outras coisinhas lá. Não faz sentido ser pego desprevenido. Exceto neste lugar...\n"
 
 
-LogName20:"ROSENBERG 10.JUL.14\nre: Defendendo os replicadores\n"
+LogName20:"ROSENBERG 10.JUL.14\nre: Defendendo os Replicadores\n"
 LogPortrait20:"Rosenb"
 LogIcon20:"RecIcon"
-LogText20:"O que há de errado com essas pessoas? As coisas vão para o inferno e eles só pensam em poder contornar a lei. Não me oponho a um roubo as vezes, mas a um assalto descarado... Ei... O que você está fazendo aí! Sai de cima desse replicador, seu filho da puta.\n"
+LogText20:"O que há de errado com as pessoas? As coisas vão para o inferno e elas acham que podem simplesmente ignorar as regras. Não sou contra um pequeno vício de vez em quando, mas roubo descarado... Ei... o que você está fazendo aí! Afaste-se desse replicador, seu filho da-\n"
 
 
-LogName6:"CORTEZ 10.JUL.14\nre: Artefato estranho\n"
+LogName6:"CORTEZ 10.JUL.14\nre: Artefato de Minhoca\n"
 LogPortrait6:"Cortez"
 LogIcon6:"RecIcon"
-LogText6:"A: Todos os membros da Resistência\nO Taylor enviou um e-mail esta manhã indicando que tinha encontrado algum tipo de artefato que podia infectar os vermes com um vírus. No entanto, se ele manuseasse o objecto, introduziria uma toxina na corrente sanguínea humana que poderia matar em minutos. Infelizmente, o Taylor descobriu da maneira mais difícil. Ele morreu logo depois de ter enviado a mensagem. Agora, se encontrarmos o corpo dele, podemos encontrar esse artefato.\n"
+LogText6:"A: Todos os membros da Resistência\nTaylor enviou um e-mail esta manhã indicando que encontrou algum tipo de artefato que poderia infectar os vermes com um vírus. No entanto, se você manipulasse a coisa, ela introduziria uma toxina na corrente sanguínea humana que poderia matar em minutos. Infelizmente, Taylor descobriu isso da pior maneira. Ele morreu logo depois de enviar a mensagem. Agora, se ao menos conseguirmos localizar o corpo dele, talvez encontremos esse artefato.\n"
 
 
-LogName5:"CORTEZ 10.JUL.14\nre: o centro comercial\n"
+LogName5:"CORTEZ 10.JUL.14\nre: o saguão\n"
 LogPortrait5:"Cortez"
 LogIcon5:"RecIcon"
-LogText5:"A: Todos os membros da Resistência\nFique do lado de fora do centro comercial, se puder. arrepios.\n"
+LogText5:"Para: Todos os Membros da Resistência\nFiquem fora do saguão se puderem. Está infestado.\n"
 
 
-LogName9:"SUAREZ 11.JUL.14\nre: onde voce ta?\n"
+LogName9:"SUAREZ 11.JUL.14\nre: onde voce tá?\n"
 LogPortrait9:"Suarez"
 LogIcon9:"RickIcon"
-LogText9:"Estou tão longe da Rebecca que isso me está me matando. Estou passando algum tempo com alguns dos membros da tripulação que dizem que a viram. Eles disseram que me ajudarão a encontrár ela se eu os ajudar a instalar este transmissor. Eles estão prontos para salvar a Terra. Eu só quero a Rebecca. depois penso na Terra.\n"
+LogText9:"Estou tão perto da Rebecca que isso está me matando. Estou passando um tempo com membros da tripulação que disseram tê-la visto. Eles me disseram que me ajudariam a encontrá-la se eu os ajudasse a montar este transmissor. Eles estão decididos a salvar a Terra. Eu só quero Rebecca. Depois eu cuido da Terra.\n"
 
 
-LogName14:"YANG 11.JUL.14\nre: Parapetado\n"
+LogName14:"YANG 11.JUL.14\nre: Barricado\n"
 LogPortrait14:"Yang"
 LogIcon14:"RecIcon"
-LogText14:"Muito bem, tenho os terminais de arte ligados para mostrar o alinhamento da antena para o transmissor. Também manipulei as torretas para disparar o alerta de segurança no caso de alguém tentar mexer nelas. Estou indo para lá agora mesmo para começar a transmissão.  Ei, quem está aí? Juan? Marie  <<MENSAGEM INTERROMPIDA>> \n"
+LogText14:"Ok, liguei os terminais de arte para exibirem o alinhamento fragmentado da antena para o transmissor. Também preparei a torre para disparar um alerta de segurança caso alguém tente mexer nela... Estou indo para lá agora mesmo para iniciar a transmissão. Ei, quem é aquele? Juan? Marie- <<MENSAGEM INTERROMPIDA>> \n"
 
 
-LogName12:"SIDDONS 11.JUL.14\nre: pegar e ir embora\n"
+LogName12:"SIDDONS 11.JUL.14\nre: Capsulas de Fuga\n"
 LogPortrait12:"Siddons"
 LogIcon12:"OpsIcon"
-LogText12:"A: Suarez, Tommy\escuta... há uma cápsula de fuga que Xerxes não ejetou... mas está quebrada. Consegui fazer ela funcionar, mas não sei por quanto tempo vai continuar funcionando. Vai para lá, Tommy. Com ou sem mim. Se eu não chegar lá, quero que pegue a cápsula e vá embora. entendeu o que eu quis dizer? Basta pegar e ir embora.\n"
+LogText12:"A: Suarez, Tommy\nEscute... há uma cápsula de fuga que Xerxes não ejetou... mas está quebrada. Consegui fazê-la funcionar, mas não sei por quanto tempo vai continuar assim. Chegue até lá, Tommy. Com ou sem mim. Se eu não chegar, quero que você pegue a cápsula e vá. Entendeu? Pegue-a e vá.\n"
 
 
-LogName1:"CORTEZ 11.JUL.14\nre: Unidades transmissoras\n"
+LogName1:"CORTEZ 11.JUL.14\nre: Unidades de transmissão\n"
 LogPortrait1:"Cortez"
 LogIcon1:"RecIcon"
-LogText1:"A: Delacroix, Dr. Marie\nMuito bem, Delacroix. A Yang e eu temos o transmissor quase pronto. Quando estiver funcionando, seremos capazes de avisar a Terra. Frank está dividindo o código do transmissor e carregando ele para vários terminais de exibição de arte ao longo deste deck. Basta alternar entre as artes de cada terminal e você encontrará uma parte do código. Acho que os vermes não vão notar... Não consigo imaginar eles interessados nos grandes mestres.\n"
+LogText1:"A: Delacroix, Dr. Marie\nOk, Delacroix. Yang e eu deixamos o transmissor quase pronto para funcionar. Assim que estiver ativo, poderemos avisar a Terra. Frank dividiu o código do transmissor e o enviou para vários terminais de exibição de arte espalhados por este convés. Basta percorrer as obras e você encontrará um pedaço do código. Acho que os vermes não vão perceber isso... não imagino que tenham muito interesse nos grandes mestres.\n"
 
 
 LogName2:"DELACROIX 11.JUL.14\nre: Amigos e inimigos\n"
 LogPortrait2:"Delacroix"
 LogIcon2:"EngIcon"
-LogText2:"A: Cortez, Enrique\nMon petit, há algo que voce deve saber. Eu recebi informações de uma certa forma de inteligência artificial que se chama SHODAN. SIM, SHODAN. De onde quer que essa inteligência realmente venha, ela tem um rancor terrível contra esses Anelidios e salvou minha vida mais de uma vez. SHODAN disse que há um cara da UNN a bordo da nave, armado até os dentes e equipado com implantes cibernéticos R-Grade. Combinação estranha, não é?\n"
+LogText2:"A: Cortez, Enrique\nMon petit, há algo que você deveria saber. Recebi informações de alguma forma de inteligência artificial que se chama SHODAN. Sim, SHODAN. De onde quer que essa inteligência realmente tenha vindo, ela tem um terrível rancor contra esses Anelídeos e salvou minha vida mais de uma vez. SHODAN me disse que há um agente da UNN a bordo da nave, armado até os dentes e equipado com implantes cibernéticos de grau R. Companheiros estranhos, não?\n"
 
 
 LogName10:"SIDDONS 12.JUL.14\nre: Me encontre\n"
 LogPortrait10:"Siddons"
 LogIcon10:"OpsIcon"
-LogText10:"A: Suarez, Tommy\nAcabei de matar algum tipo de... uma espécie de aranha ... Eu não sei... mas me mordeu... e agora estou doente... Estou aqui em baixo com a minha última hypo. Vem depressa, Tommy... vem...\n"
+LogText10:"A: Suarez, Tommy\nAcabei de matar algum tipo de... algum tipo de aranha... não sei... mas ela me mordeu... e agora estou doente... estou no meu último Hipo Médico. Venha rápido, Tommy... venha rápido...\n"
 
 
-LogName7:"DELACROIX 11.JUL.14\nre: Ativar o transmissor\n"
+LogName7:"DELACROIX 11.JUL.14\nre: Ative o transmissor\n"
 LogPortrait7:"Delacroix"
 LogIcon7:"EngIcon"
-LogText7:"A: Wilson, Edward\nA derivação foi ligada há duas horas. Va dizer ao Cortez na seção da tripulação para sair e ligar o transmissor. Se esta mensagem não chegar a você em breve, eles podem bloquear a transmissão a partir da ponte.\n" 
+LogText7:"A: Wilson, Edward\nO desvio está ativo há duas horas. Vá dizer ao Cortez na seção da tripulação para sair e ligar aquele transmissor. Se esta mensagem não chegar até você em breve, eles podem interferir na transmissão a partir da ponte.\n" 
 
 
 LogName17:"DELACROIX 12.JUL.04\nre: Confiando na SHODAN\n"
 LogPortrait17:"Delacroix"
 LogIcon17:"EngIcon"
-LogText17:"os Anelidios nos separaram do transmissor. SHODAN me disse que quando eu reconectar o transmissor e reprogramar os computadores Operacionais, ela será capaz de tomar o controle da nave de Xerxes. Em quem devo confiar menos? Num impostor que afirma ser o monstro, ou no próprio monstro?\n"
+LogText17:"Os Anelídeos nos cortaram o acesso ao transmissor. SHODAN me disse que, assim que colocarmos o transmissor de volta em funcionamento e reprogramarmos os computadores de ops, ela será capaz de tomar o controle da nave de Xerxes. Em quem devo confiar menos? Em um impostor dizendo ser aquele monstro, ou no próprio monstro?\n"
 

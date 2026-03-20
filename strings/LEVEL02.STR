@@ -1,242 +1,263 @@
-EmailName15:"POLITO 12.JUL.14\nre: Nave destruida\n"
-EmailPortrait15:"Polito"
-EmailIcon15:"OpsIcon"
-EmailText15:"Tenha cuidado...  Estou obtendo estranhas leituras dessa parabólica do radar no exterior da janela.  Isso esta se toranando instavel devido ao...  Corra e acima de tudo, proteja-se!\n"
-
-
-EmailName1:"POLITO 12.JUL.14\nre: Despresurización\n"
+EmailName1:"POLITO 12.JUL.14\nre: Despresurização\n"
 EmailPortrait1:"Polito"
 EmailIcon1:"OpsIcon"
-EmailText1:"O setor inteiro estaádespedacando e o escudo de vacuo nao vai durar muito. Tente alcancar uma trava segura antes que voce seja sugado para o espaco. E mova-se!\n"
+EmailText1:"Todo o setor está despressurizando e o escudo azul contra vácuo não durará muito. Passe por uma câmara de descompressão segura antes de ser sugado para o espaço. Mova-se!"
 
 
-EmailName2:"POLITO 12.JUL.14\nre: Códigos\n"
+EmailName2:"POLITO 12.JUL.14\nre: Códigos de Acesso\n"
 EmailPortrait2:"Polito"
 EmailIcon2:"OpsIcon"
-EmailText2:"Algumas destas portas estao fechadas com fechaduras por código. O cadaver que esta na sua frente pertenece a um tipo de manutencao para esse setor. Provavelmente ele tem o n£mero. Isso nao seria escrupuloso verificar o corpo dele. Voce nao tem muitas opcoes, esta e uma.\n"
+EmailText2:"Algumas dessas portas são fechadas por fechaduras com código de acesso. O corpo à sua frente pertence ao homem da manutenção deste setor. Ele provavelmente tem o número com ele. Não tenha escrúpulos em revistar seu corpo. Ele não vai se importar."
 
 
-EmailName9:"POLITO 12.JUL.14\nre: Célula esgotada\n"
-EmailPortrait9:"Polito"
-EmailIcon9:"OpsIcon"
-EmailText9:"Esta célula de energía está descarregada. Voce precisa achar um caixa de recarga... use-a e podera recarregar todos os dispositivos elétricos que possui. Depois de ter recarregado a célula, insira ela na unidade energética auxiliar. Esso deve abrir a fechadura. Depressa, os selos do vacuo nao vao resistirápor muito tempo.\n"
-
-
-EmailName21:"POLITO 12.JUL.14\nre: Unidades de melhora\n"
-EmailPortrait21:"Polito"
-EmailIcon21:"OpsIcon"
-EmailText21:"Muito bem. Voce conseguiu escapar da zona antes que ela fosse despressurizada. Acabo de dar alguns módulos cibernéticos. voce puedes usar para melhorar seu equipamento cibernético nas unidades de melhora desta zona. Ha quatro tipos de unidades nessa habitacao, uma para cada subsistema do seu equipamento cibernético: estadísticas, psiónica, armas, e tecnología. mas use os módulos cuidadosamente... sao difíciceis de conseguir.\n"
-
-
-EmailName13:"POLITO 12.JUL.14\nre: Unidade de melhora Ciber\n"
-EmailPortrait13:"Polito"
-EmailIcon13:"OpsIcon"
-EmailText13:"Estos módulos cibernéticos se usan para mejorar los subsistemas individuales de tus mejoras neuronales. Recuerda, hay cuatro tipos £nicos de unidades de mejora, así que no gastes todos tus módulos cibernéticos en uno a menos que estés seguro de que quieres enfocar tu hardware en ese tipo en particular.\n"
-
-
-EmailName3:"POLITO 12.JUL.14\nre: Reparando elevadores\n"
+EmailName3:"POLITO 12.JUL.14\nre: Reparando os Elevadores\n"
 EmailPortrait3:"Polito"
 EmailIcon3:"OpsIcon"
-EmailText3:"Esa insulsa computadora Xerxes también ha bloqueado los elevadores. Puedes transferir energía al n£cleo del motor en la cubierta 1, lo que hará que el elevador se active y funcione de nuevo. Pero no puedes usar el elevador para bajar allí. Espera... hay alguna clase de acceso de mantenimiento justo en este pasillo. Puedes usarlo para alcanzar la cubierta 1. Sin embargo, está cerrado y Xerxes me oculta el código de acceso. El Doctor Watts debería tener el código: probablemente está en la subsección de tripulación. Grassi tiene la tarjeta para entrar allí, pero está en la subsección médica, probablemente cerca del laboratorio de biopsia. Ahora vete a la subsección Médica y encuentra a Grassi.\n"
+EmailText3:"Aquele computador insípido Xerxes também desligou o elevador. Você pode transferir energia para o núcleo do motor no convés 1, o que fará com que o elevador volte a funcionar. Mas você não pode usar o elevador para chegar lá. Espere... há algum tipo de acesso de manutenção neste corredor. Você pode usá-lo para chegar ao convés 1. No entanto, está bloqueado e Xerxes está escondendo a senha de mim.   Dr. Watts deve ter o código.   Ele provavelmente está na subseção da Tripulação.   Grassi tem a chave para entrar, mas está na subseção Médica, provavelmente perto do laboratório de biópsia. Agora vá para a subseção Médica e encontre Grassi."
 
 
-EmailName17:"POLITO 12.JUL.14\nre: Energía a la puerta\n"
-EmailPortrait17:"Polito"
-EmailIcon17:"OpsIcon"
-EmailText17:"Demonios. El corte de energía también ha eliminado el acceso a esta compuerta. Esa es la £nica manera de llegar a la subsección médica. Recoge la batería del suelo y encuentra un cargador. Me temo que el que usaste antes está ahora en el vacío, pero debería haber otro en esta cubierta. Una vez tengas la batería recargada, colócala en la unidad auxiliar.\n"
-
-
-EmailName19:"POLITO 12.JUL.14\nre: Bio-reconstrucao\n"
-EmailPortrait19:"Polito"
-EmailIcon19:"OpsIcon"
-EmailText19:"En la mayoría de las cubiertas, encontrarás un dispositivo de bio-reconstrucción cuántico. Xerxes los desconectó todos, pero los he vuelto a conectar discretamente. Necesitarás conectarte con cada máquina para proporcionarle una muestra de entrelazamiento cuántico. Una vez lo hagas, el dispositivo será capaz de reconstruir tu cuerpo en esencia partiendo de cero. No es agradable, pero es preferible a la descomposición lenta.\n"
-
-
-EmailName10:"POLITO 12.JUL.14\nre: Sistema de segurança\n"
-EmailPortrait10:"Polito"
-EmailIcon10:"OpsIcon"
-EmailText10:"Xerxes tiene el control del sistema de seguridad de la nave. Evita o destruye cualquier cámara de seguridad que veas. También puedes piratear los ordenadores de seguridad para apagar las cámaras, si eres lo suficientemente bueno. Pero si haces mal el trabajo pondrás en marcha la alarma. Tu cadáver no me es £til.\n"
-
-
-EmailName22:"POLITO 12.JUL.14\nre: Almacenes químicos\n"
-EmailPortrait22:"Polito"
-EmailIcon22:"OpsIcon"
-EmailText22:"Cada cubierta tiene un almacén de productos químicos donde puedes encontrar los recursos que necesitas para investigar los objetos que encontrarás por toda la nave. No intentes llevar contigo todas las sustancias quimicas a la vez. Es poco práctico e innecesario. Tu software de investigación te dirá qué sustancias químicas necesitas... y cuándo.\n"
-
-
-EmailName4:"POLITO 12.JUL.14\nre: Tarjeta de Watts\n"
+EmailName4:"POLITO 12.JUL.14\nre: Cartão de Acesso do Dr. Watts\n"
 EmailPortrait4:"Polito"
 EmailIcon4:"OpsIcon"
-EmailText4:"Bien, has logrado entrar en la subsección médica. Ahora, encuentra a Grassi y consigue la tarjeta al subsector de la tripulación. l es quien monitorizó tu crio-sue¥o, así que quizás esté interesado en reunirse contigo... si aun no ha sido despedazado.\n"
+EmailText4:"Bom, você conseguiu entrar na subseção Médica. Agora encontre Grassi e pegue o cartão-chave para o Setor da Tripulação. Foi ele quem monitorou seu sono criogênico, então ele pode estar interessado em se juntar a você... se ele não estiver sido massacrado ainda."
 
 
-EmailName7:"POLITO 12.JUL.14\nre: Tarjeta a I+D\n"
+EmailName5:"POLITO 12.JUL.14\nre: Invadindo Replicadores\n"
+EmailPortrait5:"Polito"
+EmailIcon5:"OpsIcon"
+EmailText5:"Você pode invadir este replicador para obter materiais não autorizados. Use este e todos os meios possíveis para chegar ao convés 4. Isto não é um jogo."
+
+
+EmailName6:"POLITO 12.JUL.14\nre: Acceso ao Convés 1\n"
+EmailPortrait6:"Polito"
+EmailIcon6:"OpsIcon"
+EmailText6:"Não perca tempo dando tapinhas nas costas. Vá até aquele poço para a Engenharia e reinicie a reação ou núcleo primário. Isso restaurará a energia do elevador e você poderá subir ao convés 4. Vá em frente!"
+
+
+EmailName7:"POLITO 12.JUL.14\nre: Cartão do setor P&D\n"
 EmailPortrait7:"Polito"
 EmailIcon7:"OpsIcon"
-EmailText7:"Bien, has logrado llegar al subsector de la tripulación. Ahora, encuentra la habitación del Dr. Watts...\n"
+EmailText7:"Bom, você conseguiu entrar no Setor da Tripulação. Agora encontre o quarto do Dr. Watts..."
+
+
+// não existe o email mas também deixei aqui.
+EmailName8:"POLITO 12.JUL.14\nre: Cartão do setor P&D\n"
+EmailPortrait8:"Polito"
+EmailIcon8:"OpsIcon"
+EmailText8:"Sua nova interface cibernética pode ser confusa.   Carreguei especificações técnicas detalhadas para os terminais de informação na sua área, que responderão às suas perguntas sobre o uso.   Certas áreas da nave exigem cartões de acesso específicos para entrada.   Pegue o cartão perto de você e, em seguida, ative o leitor de cartão perto da porta."
+
+
+EmailName9:"POLITO 12.JUL.14\nre: Célula de Energia esgotada\n"
+EmailPortrait9:"Polito"
+EmailIcon9:"OpsIcon"
+EmailText9:"Esta célula de energia está descarregada. Deve haver uma estação de recarga por perto... basta usá-la e ela recarregará todos os dispositivos elétricos que você possui. Depois de recarregar a célula, conecte-a à unidade de alimentação auxiliar. Isso deve abrir a porta da câmara de ar. Seja rápido, as vedações contra o vácuo não resistirão por muito mais tempo."
+
+
+EmailName10:"POLITO 12.JUL.14\nre: O sistema de segurança\n"
+EmailPortrait10:"Polito"
+EmailIcon10:"OpsIcon"
+EmailText10:"Xerxes controla o sistema de segurança da nave. Evite ou destrua quaisquer câmeras de segurança que você ver. Você também pode invadir computadores de segurança para desligar as câmeras, se for bom o suficiente. Mas não falhe ao invadir, ou você mesmo disparará o alarme. Seu cadáver é inútil para mim."
+
+
+// não existe o email mas também deixei aqui.
+EmailName11:"POLITO 12.JUL.14\nre: Unidades de melhorias\n"
+EmailPortrait11:"Polito"
+EmailIcon11:"OpsIcon"
+EmailText11:"lembre-se de gastar todos os seus módulos cibernéticos antes de sair desta área.   Você não sabe quando encontrará outra unidade de melhorias.   Agora encontre um caminho para o convés 4."
+
+
+// não existe o email mas também deixei aqui.
+EmailName11:"POLITO 12.JUL.14\nre: Unidades de melhorias\n"
+EmailPortrait11:"Polito"
+EmailIcon11:"OpsIcon"
+EmailText11:"Há várias estações de melhorias Cibernéticas nessa área, uma para cada uma das funções de aprimoramento de sua unidade: ARMAS, Habilidades BASICAS, DISCIPLINAS PSIÔNICAS e Habilidades TÉCNICAS.   Estou enviando alguns módulos de upgrade para o seu equipamento agora. Você precisará deles para interagir com as estações de melhorias.   Mas escolha seus aprimoramentos com muito cuidado... unidades de melhorias são difíceis de encontrar."
+
+
+EmailName13:"POLITO 12.JUL.14\nre: Unidade de melhorias em AFINIDADE CIBERNÉTICA\n"
+EmailPortrait13:"Polito"
+EmailIcon13:"OpsIcon"
+EmailText13:"Esses módulos cibernéticos são usados para aprimorar subsistemas individuais de suas melhorias neurais. Lembre-se, existem 4 tipos exclusivos de Unidades de melhorias, portanto, não gaste todos os seus módulos cibernéticos em uma só, a menos que tenha certeza de que deseja concentrar seu hardware nessa área específica."
+
+
+EmailName14:"POLITO 12.JUL.14\nre: Encontre Dr. Watts\n"
+EmailPortrait14:"Polito"
+EmailIcon14:"OpsIcon"
+EmailText14:"Dr. Watts está vivo e em seu consultório. Ele deve saber o código do poço de acesso para manutenção. Depressa... ele está gravemente ferido. Não o deixe morrer antes de lhe contar esse número!"
+
+
+EmailName15:"POLITO 12.JUL.14\nre: Dano na nave\n"
+EmailPortrait15:"Polito"
+EmailIcon15:"OpsIcon"
+EmailText15:"Cuidado... estou recebendo leituras estranhas daquele radar do lado de fora da janela. Tornou-se instável devido a... Mova-se! Proteja-se!"
+
+
+EmailName17:"POLITO 12.JUL.14\nre: Energizando a porta\n"
+EmailPortrait17:"Polito"
+EmailIcon17:"OpsIcon"
+EmailText17:"Droga. A queda de energia também impediu o acesso a esta antepara. É a única maneira de chegar à subseção Médica. Pegue a bateria do chão e encontre uma estação de recarga. A que você usou antes está no vácuo agora, infelizmente, mas deve haver outra neste convés. Depois de recarregar a bateria, coloque-a no dispositivo de substituição auxiliar."
+
+
+EmailName18:"POLITO 12.JUL.14\nre: Cartão do setor P&D\n"
+EmailPortrait18:"Polito"
+EmailIcon18:"OpsIcon"
+EmailText18:"Watts não está aqui, então provavelmente está em seu escritório no setor de P&D. Talvez ele tenha um cartão reserva do setor P&D aqui. Dê uma olhada ao redor."
+
+
+EmailName19:"POLITO 12.JUL.14\nre: Bio-reconstrução\n"
+EmailPortrait19:"Polito"
+EmailIcon19:"OpsIcon"
+EmailText19:"Na maioria dos convés, você encontrará um dispositivo de bio-reconstrução quântica. Xerxes desconectou todos eles, mas eu os coloquei discretamente online novamente. Você precisará interagir com cada máquina localmente para fornecer uma amostra de emaranhamento quântico. Depois de fazer isso, o dispositivo será capaz de reconstruir seu corpo essencialmente do zero. Não é agradável, mas é preferível à decomposição lenta."
 
 
 EmailName20:"POLITO 12.JUL.14\nre: Fantasmas\n"
 EmailPortrait20:"Polito"
 EmailIcon20:"OpsIcon"
-EmailText20:"Quizá presencies algunos fenómenos extra¥os. Tu equipo cibernético de Grado-R tiene un dispositivo de percepción experimental que teóricamente puede detectar emanaciones psíquicas residuales. Estas emanaciones normalmente provienen de personas recientemente fallecidas. La literatura las llamaría fantasmas. Yo las llamo defectos auto-hipnóticos de la unidad de Grado-R. No dejes que te distraigan del trabajo que tienes entre manos.\n"
+EmailText20:"Você pode testemunhar alguns fenômenos estranhos. Seu equipamento cibernético de grau R possui um aprimoramento de percepção experimental que pode, teoricamente, detectar emanações psíquicas residuais. Estas emanações vêm tradicionalmente dos mortos recentemente. A literatura pode chamá-los de fantasmas. Eu os chamo de defeitos auto-hipnóticos na unidade de grau R. Não deixe que isso o distraia do trabalho em questão."
 
 
-EmailName5:"POLITO 12.JUL.14\nre: Pirateando replicadores\n"
-EmailPortrait5:"Polito"
-EmailIcon5:"OpsIcon"
-EmailText5:"Puedes piratear este replicador para conseguir elementos no autorizados. Haz uso de ello y de cualquier medio posible para llegar a la cubierta 4. Esto no es un juego.\n"
+EmailName21:"POLITO 12.JUL.14\nre: Unidades de melhorias\n"
+EmailPortrait21:"Polito"
+EmailIcon21:"OpsIcon"
+EmailText21:"Bom. Você conseguiu sair antes que toda a área fosse despressurizada. Acabei de enviar alguns módulos cibernéticos. Você pode usá-los para atualizar seu equipamento cibernético nas unidades de melhorias nesta área. Existem quatro tipos de unidades na próxima sala, uma para cada subsistema do seu equipamento cibernético: ESTATÍSTICAS, HABILIDADES PSIÔNICAS, ARMAS e TÉCNICAS. Mas use os módulos com cuidado... eles são difíceis de encontrar."
+
+
+EmailName22:"POLITO 12.JUL.14\nre: Armazéns de produtos químicos\n"
+EmailPortrait22:"Polito"
+EmailIcon22:"OpsIcon"
+EmailText22:"Cada convés possui um Armazém de produtos químicos onde você pode encontrar os recursos necessários para pesquisar os artefatos que encontrará ao redor da nave. Não tente carregar todos os produtos químicos de uma só vez. É impraticável e desnecessário. Seu software de pesquisa lhe dirá quais produtos químicos são necessários... e quando."
 
 
 
-EmailName18:"POLITO 12.JUL.14\nre: Tarjeta I+D\n"
-EmailPortrait18:"Polito"
-EmailIcon18:"OpsIcon"
-EmailText18:"Watts no está aquí, así que probablemente está en su oficina en el subsector I+D. Quizá tenga una tarjeta I+D de reserva aquí. Echa un vistazo en la oficina.\n"
+//--------------------------------------------------
 
 
-EmailName14:"POLITO 12.JUL.14\nre: Encontrar Dr. Watts\n"
-EmailPortrait14:"Polito"
-EmailIcon14:"OpsIcon"
-EmailText14:"El doctor Watts está vivo y en su oficina. Debería conocer el código al hueco de acceso de mantenimiento. Date prisa... está gravemente herido. ¡No dejes que muera antes de que te diga ese n£mero!\n"
-
-
-EmailName6:"POLITO 12.JUL.14\nre: Acceso a Cubierta 1\n"
-EmailPortrait6:"Polito"
-EmailIcon6:"OpsIcon"
-EmailText6:"No pierdas el tiempo dándote palmaditas en la espalda. Baja por ese hueco hasta Ingeniería y reinicia el reactor primario o el n£cleo. Eso restaurará la energía al elevador y así podras llegar a la cubierta 4. ¡Empieza!\n"
-
-
-LogName32:"Manifiesto productos químicos:\nSector Científico\n"
-LogPortrait32:"Chem"
-LogIcon32:"MedIcon"
-LogText32:"Inventário químico no sector científico 143\n\nAntimonio (Sb) : 2\nBario (Ba) : 1\nCalifornio (Cf) : 2\nFermio (Fm) : 2\nGalio (Ga) : 1\nIridio (Ir) : 2\nOsmio (Os) : 1\nTecnecio (Tc) : 1\nTelurio (Te) : 2\nItrio (Y) : 2\n\nExigido pelo código de segurança UNN #134882 que este inventário está disponível em todos as salas de armazenamento para produtos químicos perigosos.  \"Almacén\" queda definido por el código de seguridad UNN #195331 como qualquer área em que produtos químicos perigosos são armazenados (ver código de segurança #093355), em quantidades superiores a 50g por 10 pés quadrados, por vezes superiores a 24 horas.\n"
-
-
-LogName18:"DIEGO 17.MAR.14\nre: Tirando de mi cadena\n"
-LogPortrait18:"Diego"
-LogIcon18:"RickIcon"
-LogText18:"A: Korenchkin, Anatoly\nAnatoly, há tanta besteira corporativa da qual eu poderia ficar falandor até ficar tonto, entao vou direto ao assunto. Nós não gostamos um do outro. Cada um tem as suas motivações para continuar essa missão, por isso deixe-me dar-lhe um pequeno aviso. Não posso ser contornado, não posso ser enganado, não posso ser manipulado, e não posso ser comprado. Venha me ver diretamente e guarde sua garotinha sutil para a próxima reunião do Conselho. Só porque o meu pai nadou com tubarões não quer dizer que eu va tambem..\n"
-
-
-LogName21:"DELACROIX 04.APR.14\nre: Xerxes\n"
-LogPortrait21:"Delacroix"
-LogIcon21:"EngIcon"
-LogText21:"¿Por que é que ninguém me ouve? Os protocolos de segurança no sistema Xerxes não estão nenhum pouco seguros. Um idiota invadiu o ciclo de dados primários ontem à noite e fez Xerxes cantar as músicas do Elvis Presley por três horas. eu finalmente consegui desligar o subsistema de voz. O que aconteceria se alguém com um plano real entrasse nele?\n"
-
-
-LogName22:"GRASSI 12.MAY.14\nre: chimpanzés condenados\n"
-LogPortrait22:"Grassi"
-LogIcon22:"MedIcon"
-LogText22:"¿De quem foi a ideia de trazer 150 chimpanzés a bordo? no interesse da ciência? E quanto aos interesses da higiene? ¿Alguém tem ideia de quanta merda 150 macacos de laboratório produzem em um dia?? Os pobres chimpanzés... eles vieram a bordo para a missão mais histórica de todos os tempos, e acabarão por ser cortados em pedaços em nome do progresso.\n"
-
-
-LogName6:"KORENCHKIN 14.JUN.14\nre: Primeiro contato\n"
-LogPortrait6:"Korench"
-LogIcon6:"ComIcon"
-LogText6:"A: Zhukov, Vladimir\nRecebemos uma transmissão da superfície da Tau Ceti 5. Tenho negociado com o Capitão Diego do Rickenbacker e depois de algum tempo, eu... nós, concordamos em ir para o planeta como uma missão partilhada. Imagine, esta missão histórica pode tornar-se ainda mais histórica. Primeiro contato. ¿E quem terá direitos exclusivos para todos os meios de comunicação, patentes e subsídios terrestres? TriOptimum. Miri, Eu disse que isto ia valer a pena.\n"
-
-
-LogName19:"SUAREZ 20.JUN.14\nre: 100% Tortura\n"
-LogPortrait19:"Suarez"
-LogIcon19:"RickIcon"
-LogText19:"A: Siddons, Rebecca\nUau...  Você é incrível, ¿sabia? Eu fiz um joguinho, tentei não pensar em voce. Que estúpido. Eu te amo, Rebecca. E eu tenho um plano. Tenho falado com o capitão para me transferir do Rickenbacker para a equipa chave do Von Braun. Muito em breve, nada nos separará.\n"
-
-
-LogName1:"GRASSI 20.JUN.14\nre: Todo trabajo, no juego\n"
+LogName1:"GRASSI 20.JUN.14\nre: Só trabalho, sem diversão\n"
 LogPortrait1:"Grassi"
 LogIcon1:"MedIcon"
-LogText1:"Fui chamado por volta das 04h30 horas para ajudar a descarregar o onibus espacial do regresso de Tau Ceti. Korenchkin estava lá sozinho. Jesus, que diabos aconteceu com ele? Ele tinha perdido a maior parte do seu cabelo, e havia solavancos na lateral do pescoço. E aquele cheiro. Eu disse que ele devia ir ver o Dr. Watts, mas ele me disse para mim se meter na minha vida. tabom então.\n"
+LogText1:"Fui chamado por volta das 04h30 para ajudar a descarregar a espaçonave que voltava de Tau Ceti. Korenchkin estava lá sozinho. Jesus, o que diabos aconteceu com ele? Ele havia perdido a maior parte do cabelo e dava para ver esses caroços na lateral do pescoço. E esse cheiro. Eu disse a ele que deveria consultar o Dr. Watts, mas ele me disse para cuidar da minha vida. Está bem então\n"
 
 
-LogName12:"POLITO 25.JUN.14\nre: Extra¥a AI\n"
-LogPortrait12:"Polito"
-LogIcon12:"OpsIcon"
-LogText12:"A: Delacroix, Dr. Marie\n Marie... Desculpe, eu estava desconectada, mas eu tenho trabalhado no artefato que Bayliss trouxe de Tau Ceti 5. Fiz uma análise de nível 3 sobre ele... Acho que é algum tipo de Inteligência Artificial. Consegui extrair um arquivo de áudio da sua memória... Vamos ouvi-la...\n \n[uma transmissão é ouvida]\n \n...Marie... Acho que ele está falando em portugues...\n"
+LogName2:"DELACROIX 08.JUL.14\nre: Não pronto\n"
+LogPortrait2:"Delacroix"
+LogIcon2:"EngIcon"
+LogText2:"PARA: Korenchkin, Anatoly\nEsta missão deveria ter sido cancelada antes de deixar a Terra. Não conseguimos conter o vazamento do refrigerante reagente no convés 1. Fiz um pedido exigindo trajes de perigo lá embaixo. Eu sei que você acha que isso vai causar pânico, mas é melhor do que deixar todo mundo enjoado pela radiação, não acha?"
 
 
-LogName23:"GRASSI 26.JUN.14\nre: Derechos del animal?\n"
-LogPortrait23:"Grassi"
-LogIcon23:"MedIcon"
-LogText23:"Desde que alcançamos Tau Ceti, os macacos de laboratório têm agido estranha. Quando a enfermeira Loesser pegou um da jaula para levá-lo à vivição o resto, acho que um grupo inteiro, se levantou sobre suas pernas e uivaram. Isto não era uma exibição aleatória, era um protesto.\n"
-
-
-LogName24:"WATTS 30.JUN.14\nre: idiotices\n"
-LogPortrait24:"Watts"
-LogIcon24:"MedIcon"
-LogText24:"A: Loesser, Angela\nAngela, pode parecer que os macacos no laboratório se comunicam entre si, mas te garanto que isso é completamente impossível. Você afirma categoricamente que um macaco gesticulou para outro macaco a senha para um armário de suprimentos e que o outro abriu o armario mais tarde. Tenho certeza de que você sabe que existem literalmente dezenas de milhares de estudos sobre inteligência primata e nenhuma evidência de comportamento mesmo remotamente dessa sofisticação. então, ou voce teve sucesso por conta própria no complexo campo do comportamento animal ou voce precisa urgentemente de umas férias.\n"
-
-
-LogName9:"WATTS 01.JUL.14\nre: Paciente Watson\n"
-LogPortrait9:"Watts"
-LogIcon9:"MedIcon"
-LogText9:"Desde o seu regresso da superfície da Tau Ceti 5, o paciente tem experimentado inúmeros fenómenos novos, evidenciados por um crescimento inflamatório nodular e pela presença de um parasita volumoso semelhante a um verme. Esta manhã, o parasita penetrou no peito do paciente... por dentro... e prendeu uma ponta na testa do sujeito. Se eu o tirar, posso matar o rapaz. Se eu o deixar...  Diagnóstico final: O diabo levara a todos. Eu adoraria gerir isto pela Madorsky no CDC, mas infelizmente, ele está a 67 triliões de quilómetros de distância..\n"
-
-
-LogName15:"CURTIZ 02.JUL.14\nre: Hypos Rad \n"
-LogPortrait15:"Curtiz"
-LogIcon15:"EngIcon"
-LogText15:"O médico me disse que eles replicaram um conjunto completo de Hypos Rad. Vou levá-los e distribuí-los ao pessoal de engenharia, a menos que alguém tenha uma ideia melhor. Watts também me pediu para verificar o replicador na sala da tripulação... disse que é um paraíso para um hacker....\n"
-
-
-LogName4:"CURTIZ 06.JUL.14\nre: Fugas de refrigerante\n"
+LogName4:"CURTIZ 06.JUL.14\nre: Vazamentos de refrigerantes\n"
 LogPortrait4:"Curtiz"
 LogIcon4:"EngIcon"
-LogText4:"A:  Delacroix, Dr. Marie\nMarie, eu tenho que restringir o acesso à Engenharia até descobrirmos o que fazer lá em baixo. Está muito calor. Não sei para onde foram todos os trajes de proteção, por isso estou limitado a diminuir a radiação com um punhado de Hypos Rad. Essas malditas coisas sempre me dão dor de cabeça..\n"
-
-
-LogName7:"GRASSI 07.JUL.14\nre: Implantar el trabajo\n"
-LogPortrait7:"Grassi"
-LogIcon7:"MedIcon"
-LogText7:"A: Polito, Dr. Janice\nEi, doutora... um robô de segurança apareceu com ordens suas para colocar aquele soldado no congelador de recuperação. Não sou um cyber-homem, mas conheço um trabalho de merda quando vejo um. Acho que sabe que eles proibiram os cyber implantes de grau R depois do fiasco da Citadel Station... mas, ei, eu só trabalho aqui ¿esta bem?\n"
-
-
-LogName20:"AMANPOUR 07.JUL.14\nre: Novo codigo\n"
-LogPortrait20:"Amanpour"
-LogIcon20:"MedIcon"
-LogText20:"Magnífico. Eu tenho que mudar os códigos de acesso do Cryo A novamente! Como se eu não tivesse nada melhor para fazer. Acho que o Grassi só gosta de me dar trabalho. Defina o novo código para 45100. Isto deve ser bastante fácil de lembrar
-
-
-(tradução dos logs feitas por luiz henrique).\n"
-
-
-LogName10:"WATTS 07.JUL.14\nre:  Watson ou lazaro?, 2\n"
-LogPortrait10:"Watts"
-LogIcon10:"MedIcon"
-LogText10:"O paciente Watson morreu às 02h40 horas de causas não especificadas. Apesar da sua função respiratória e cerebral estar em zero, o corpo ainda apresenta uma função motora autónoma, igual a do parasita. Às 08h47 horas, o paciente até falou com uma das enfermeiras. A autópsia está marcada para 16h30 horas e depois veremos o que faz esse Lazaro funcionar....\n"
+LogText4:"PARA:  Delacroix, Dra. Marie\nMarie, preciso restringir o acesso à Engenharia até que possamos descobrir o que fazer lá embaixo. Está muito quente. Não sei para onde foram todos os Trajes de Perigo, então só me resta levar na mão uns Hipos Anti-Radiação. Essas malditas coisas sempre me dão dor de cabeça."
 
 
 LogName5:"CURTIZ 07.JUL.14\nre: Mais problemas\n"
 LogPortrait5:"Curtiz"
 LogIcon5:"EngIcon"
-LogText5:"Não consegui entrar em contacto com a Delacroix... este lugar esta desmoronando... os membros da minha equipe continuam sumindo. As fugas nas aberturas de ventilação provocam um curto-circuito no canal de acesso principal... o que significa que todos nós estaremos em energia auxiliar até conseguirmos descobrir como resolver. Isto significa que TODOS os elevadores serão desligados... ¿Marie, onde demonios esta você?\n"
+LogText5:"Não consegui entrar em contato com Delacroix... este lugar está desmoronando... membros da minha equipe continuam desaparecendo. Os vazamentos nos poços de ventilação causaram curto-circuito no canal de acesso primário... e isso significa que estaremos todos com energia auxiliar até que possamos recuperá-la. Isso significa que TODOS os elevadores estão desligados... Marie, onde diabos você está?"
 
 
-LogName8:"CURTIZ 07.JUL.14\nre: Elevadores apagados\n"
+LogName6:"KORENCHKIN 14.JUN.14\nre: Primeiro contato\n"
+LogPortrait6:"Korench"
+LogIcon6:"ComIcon"
+LogText6:"PARA: Zhukov, Vladimir\nRecebemos uma transmissão da superfície de Tau Ceti 5. Estive em negociação com o Capitão Diego da Rickenbacker e depois de alguma... coerção, ele concordou em ir para o planeta como um consórcio. Imagine, esta missão histórica pode até se tornar mais histórica. Primeiro contato. E quem está lá para obter direitos exclusivos sobre todos os meios de comunicação, patentes e concessões de terras? TriOptimum. Miri, eu disse que isso valeria a pena."
+
+
+LogName7:"GRASSI 07.JUL.14\nre: Trabalho de implante\n"
+LogPortrait7:"Grassi"
+LogIcon7:"MedIcon"
+LogText7:"PARA: Polito, Dra. Janice\nOi, doutora... um robô de segurança apareceu com ordens suas para colocar este recruta no freezer de recuperação. Eu não sou um ciber-médico, mas reconheço uma armação quando vejo uma. Suponho que você saiba que eles proibiram os ciber-apetrechos de grau R depois daquele fiasco na Estação Citadel... mas, hey, eu só trabalho aqui, certo?"
+
+
+LogName8:"CURTIZ 07.JUL.14\nre: Elevadores desligados\n"
 LogPortrait8:"Curtiz"
 LogIcon8:"EngIcon"
-LogText8:"Não consigo subir ninguém lá de baixo na Engenharia. Com os elevadores desligados, tente chegar lá através dos dutos de emergência no anexo do subsector científico. Acho que o código de acesso está no laboratório do Watts.\n"
+LogText8:"Não posso subir ninguém na Engenharia. Com os elevadores desligados, precisarei descer pelo conduíte de emergência no Anexo Científico. Acho que o código de acesso está no laboratório do Watts."
 
 
-LogName14:"WATTS 07.JUL.14\nre: Código del Conducto\n"
+LogName9:"WATTS 01.JUL.14\nre: Paciente Watson\n"
+LogPortrait9:"Watts"
+LogIcon9:"MedIcon"
+LogText9:"Desde que regressou da Superfície de Tau Ceti 5, o paciente experimentou numerosos fenómenos novos, evidenciados pelo crescimento nodular inflamatório e pela presença de um grande parasita semelhante a um verme. Esta manhã, o parasita penetrou no peito do sujeito... por dentro... e prendeu uma extremidade na testa do sujeito. Se eu removê-lo, posso matar o garoto. Se eu deixar... Diagnóstico Final: me dá uma surra. Adoraria referir isto ao Madorsky no CDC, mas infelizmente ele está a 107 biliões de quilómetros de distância."
+
+
+LogName10:"WATTS 07.JUL.14\nre:  Paciente Watson, pt. 2\n"
+LogPortrait10:"Watts"
+LogIcon10:"MedIcon"
+LogText10:"O paciente Watson morreu às 02:40 de causas inespecíficas. Apesar de zero função respiratória e cerebral, o corpo ainda apresenta função motora autônoma, assim como o parasita. Às 08:47, o paciente ainda falou com uma das enfermeiras. A autópsia está marcada para 16:30 e então veremos o que motiva esse Lázaro..."
+
+
+LogName11:"WATTS 07.JUL.14\nre: Autópsia do Watson\n"
+LogPortrait11:"Watts"
+LogIcon11:"MedIcon"
+LogText11:"são 16:30. Cobaia da autópsia: A. Watson. Agora vamos fazer a primeira incisão... segure-o, enfermeira! Enfermeira! Segure-o! Aahh!!! Ei! AAAHH!!!"
+
+
+LogName12:"POLITO 25.JUN.14\nre: IA Estranha\n"
+LogPortrait12:"Polito"
+LogIcon12:"OpsIcon"
+LogText12:"PARA: Delacroix, Dra. Marie\nMarie... Lamento estar fora de contato, mas estou trabalhando naquele artefato que Bayliss trouxe de Tau Ceti 5. Fiz uma análise de nível 3 nisso... acho que é algum tipo de Inteligência Artificial. Consegui extrair um arquivo de áudio da memória... Vou deixar você ser a juiza... Marie... Acho que está falando inglês..."
+
+
+LogName14:"WATTS 07.JUL.14\nre: Conduíte de manutenção\n"
 LogPortrait14:"Watts"
 LogIcon14:"MedIcon"
-LogText14:"A: Curtiz, Juan\nEstá tudo bem, fique calmo agora... O código de acesso ao duto é 12451.  Tenho uma autópsia às 16h30 horas, mas depois disso vamos beber umas cervejas no convés de recreio. ¿ta bom?\n"
+LogText14:"PARA: Curtiz, Juan\nTudo bem, acalme-se... o código de acesso ao conduíte é 12451. Tenho uma autópsia às 16:30, mas depois vamos tomar uma cerveja no Convés de Recreação. Parece bom?"
+
+
+LogName15:"CURTIZ 02.JUL.14\nre: Hipos Anti-Radiação\n"
+LogPortrait15:"Curtiz"
+LogIcon15:"EngIcon"
+LogText15:"Os médicos me disseram que replicaram um monte de Hipos Anti-Radiação. Vou pegá-los e distribuí-los para a equipe de engenharia, a menos que alguém tenha uma ideia melhor. Watts também me pediu para verificar o replicador na sala da tripulação... ele diz que é um paraíso para hackers."
 
 
 LogName16:"TURNBULL 07.JUL.14\nre: Procedimientos\n"
 LogPortrait16:"Turnbull"
 LogIcon16:"OpsIcon"
-LogText16:"Maldito Bronson e os seus procedimentos estúpidos. Você mudou novamente o código do armamento do setor de ciência 2. Agora tenho que voltar para o convés 4 e ver se descubro qual é... que dia maravilhoso....\n"
+LogText16:"Maldita Bronson e seus procedimentos estúpidos. Ela mudou o código do subarsenal do setor Médico/Científico 2 novamente. Agora tenho que voltar ao convés 4 para descobrir qual é... Alguém vai acabar com ela de vez algum dia..."
 
 
-LogName11:"WATTS 07.JUL.14\nre: Autopsia Watson\n"
-LogPortrait11:"Watts"
-LogIcon11:"MedIcon"
-LogText11:"São 16h30 horas. Assunto da autópsia: A. Watson. Agora vamos fazer a primeira incisão em... Espere, enfermeira! Enfermeira! Segurem ele! Aahhh!!!! Ehh! AAAAHHH!!!\n"
+LogName18:"DIEGO 17.MAR.14\nre: Me irritando\n"
+LogPortrait18:"Diego"
+LogIcon18:"RickIcon"
+LogText18:"PARA: Korenchkin, Anatoly\nAnatoly, há um limite de exercícios corporativos que posso fazer antes de começar a me sentir um pouco enjoado, então vamos direto ao assunto aqui. Nós não gostamos um do outro. Cada um de nós tem as suas próprias motivações para empreender esta missão, por isso deixe-me dar-lhe um pequeno aviso. Não posso ser contornado, não posso ser enganado, não posso ser manipulado e não posso ser comprado. Fale comigo diretamente e mantenha as manobras sofisticadas para sua próxima reunião do conselho. Só porque meu pai nadou com os tubarões não significa que eu nade."
 
 
-LogName2:"DELACROIX 08.JUL.14\nre: No preparado\n"
-LogPortrait2:"Delacroix"
-LogIcon2:"EngIcon"
-LogText2:"A: Korenchkin, Anatoly\nEsta missão devia ter sido cancelada antes de sairmos da Terra.  Não conseguimos conter as fugas do reagente da refrigeração no convés 1.  Eu fiz um pedido solicitando trajes de proteção para usar lá em baixo. Eu sei que fazer isto vai causar pânico, mas isto é melhor do que ficar doente por radiação., não acha?\n"
+LogName19:"SUAREZ 20.JUN.14\nre: 100% Tortura\n"
+LogPortrait19:"Suarez"
+LogIcon19:"RickIcon"
+LogText19:"PARA: Siddons, Rebecca\nNossa... vocês são incríveis, sabiam disso? Eu fiz esse jogo onde tentei não pensar em você. Que idiota. Eu te amo, Rebeca. E eu tenho um plano. Tenho bajulado o capitão para me transferir da Rickenbacker para a equipe de boa vontade da Von Braun. Em breve, nada nos separará."
+
+
+LogName20:"AMANPOUR 07.JUL.14\nre: Novo código\n"
+LogPortrait20:"Amanpour"
+LogIcon20:"MedIcon"
+LogText20:"Ótimo. Preciso alterar os códigos de acesso do Crio A novamente! Como se eu não tivesse nada melhor para fazer. Acho que Grassi só gosta de dar trabalho para mim. Definirei o novo código para 45100. Isso deve ser fácil de lembrar."
+
+
+LogName21:"DELACROIX 04.APR.14\nre: Xerxes\n"
+LogPortrait21:"Delacroix"
+LogIcon21:"EngIcon"
+LogText21:"Por que é que ninguém me escuta? Os protocolos de segurança do sistema Xerxes são claramente imaturos. Um idiota invadiu o circuito primário de dados ontem à noite e fez Xerxes cantar músicas de Elvis Presley por três horas. Finalmente tive que desligar o subsistema de voz. O que aconteceria se alguém com uma intenção real se aproximasse dele?"
+
+
+LogName22:"GRASSI 12.MAY.14\nre: Malditos chimpanzés\n"
+LogPortrait22:"Grassi"
+LogIcon22:"MedIcon"
+LogText22:"De quem foi a ideia de trazer 150 chimpanzés a bordo? Os interesses da ciência? E quanto aos interesses da higiene? Alguém tem ideia de quanta porcaria 150 macacos de laboratório fazem por dia? Os pobres chimpanzés... embarcam na missão mais histórica de todos os tempos e acabam sendo cortados em pedacinhos em nome do progresso."
+
+
+LogName23:"GRASSI 26.JUN.14\nre: Direitos dos Animais\n"
+LogPortrait23:"Grassi"
+LogIcon23:"MedIcon"
+LogText23:"Desde que chegamos a Tau Ceti, os macacos de laboratório têm agido de forma estranha. A enfermeira Loesser escolheu um de uma gaiola para ser levado para vivissecção e o resto deles, quero dizer, o grupo inteiro, levantou-se e uivou. Esta não foi apenas uma exibição aleatória, foi um protesto."
+
+
+LogName24:"WATTS 30.JUN.14\nre: Idiotices\n"
+LogPortrait24:"Watts"
+LogIcon24:"MedIcon"
+LogText24:"PARA: Loesser, Angela\nAngela, embora possa parecer que os macacos de laboratório estão se comunicando entre si, garanto que é completamente impossível. Você afirma que um macaco sinalizou a senha de um armário de suprimentos para outro e este começou a abri-lo. Como você deve saber, literalmente existem dezenas de milhares de estudos sobre a inteligência dos primatas e não há nenhuma evidência de comportamento nem remotamente tão sofisticado. Então, ou você superou sozinha todo o campo dos comportamentalistas de animais ou está precisando urgentemente de férias."
+
+
+LogName32:"Manifesto de produtos químicos:\nConvés Médico/Científico\n"
+LogPortrait32:"Chem"
+LogIcon32:"MedIcon"
+LogText32:"Inventário do Almoxarifado do Laboratório: Almoxarifado 143 no Convés Médico/Científico\n\nAntimônio (Sb) : 2\nBário (Ba) : 1\nCalifórnio (Cf) : 2\nFérmio (Fm) : 2\nGálio (Ga) : 1\nIrídio (Ir) : 2\nÓsmio (Os) : 1\nTecnécio (Tc) : 1\nTelúrio (Te) : 2\nÍtrio (Y) : 2\n\nEsta lista de inventário é exigida pelo Código de Segurança do NNU #134882 para ser mantida à mão em todas as áreas de armazenamento de produtos químicos perigosos.   “Armazenamento” é definido pelo Código de Segurança do NNU #195331 para consistir em todas as áreas nas quais produtos químicos perigosos (ver Código de Segurança #093355) são armazenados em quantidades superiores a 50g por 3m², por períodos superiores a 24 horas."

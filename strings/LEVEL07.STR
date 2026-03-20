@@ -1,168 +1,165 @@
-EmailName1:"DIEGO 12.JUL.14\nre: Mis delitos\n"
+EmailName1:"DIEGO 12.JUL.14\nre: Meus crimes\n"
 EmailPortrait1:"Diego"
 EmailIcon1:"RickIcon"
-EmailText1:"Soldado... soy el capitán William Diego... no hay mucho tiempo... así que escuche. Tengo la ventaja única de haber visto esta situación desde toda perspectiva imaginable. Hasta hace poco, yo era un peón de esas criaturas viles y asquerosas, corruptoras de cuerpo y mente. He logrado limpiarme de su putrefacción... pero me he visto seriamente comprometido durante el proceso. Estoy en la enfermería de la cubierta de proa de la Rickenbacker. Iría a su encuentro si pudiera, pero eso es imposible. Lo entenderá cuando nos encontremos. Ahora póngase a ello... y soldado... siga con vida.\n"
+EmailText1:"Soldado... aqui é o Capitão William Diego... não há muito tempo... então você precisa escutar. Tenho a vantagem única de ver toda essa situação de todas as perspectivas imagináveis. Até recentemente, eu era um peão dessas criaturas vis e repugnantes, essas corruptoras da mente e do corpo. Consegui me purificar de sua putrefação... mas fui severamente comprometido no processo. Estou na enfermaria na proa da Rickenbacker. Eu iria até você se pudesse, mas isso é impossível. Você entenderá quando nos encontrarmos. Agora vá... e soldado... permaneça vivo.\n"
 
 
-EmailName2:"SHODAN 12.JUL.14\nre: Bobina peligrosa\n"
+EmailName2:"SHODAN 12.JUL.14\nre: Bobina perigosa\n"
 EmailPortrait2:"Shodan"
 EmailIcon2:"ShodIcon"
-EmailText2:"Esto fue causado por una sobrecarga en la bobina de aceleración de mesones. Hay otra bobina en la Vaina 2, por la que debes pasar para ir al puente de la Rickenbacker. Si te acercas a ella, lo mismo pasará allí. Pero he ideado un modo de evitarlo. Dirígete a la góndola B del motor. Allí te proveeré de los beneficios de mi omnisciencia.\n"
+EmailText2:"Isto foi causado por uma sobrecarga na bobina de aceleração de mésons. Há outra bobina na Capsula 2, pelo qual você deve passar para chegar à ponte da Rickenbacker. Se você se aproximar dela, o mesmo acontecerá ali. Mas concebi uma forma de evitar isso. Prossiga até a Nacela do Motor B. Lá eu lhe concederei os benefícios da minha onisciência.\n"
 
 
-EmailName5:"SHODAN 12.JUL.14\nre: Destruye los huevos\n"
+EmailName5:"SHODAN 12.JUL.14\nre: Destrua os ovos\n"
 EmailPortrait5:"Shodan"
 EmailIcon5:"ShodIcon"
-EmailText5:"Debemos destruir la Von Braun. Pero antes de que podamos separar la Rickenbacker, debemos eliminar los asquerosos huevos negros que La Multitud ha vomitado en esta cubierta. Estos huevos son un experimento de La Multitud y con el tiempo engendrarán la siguiente generación de Anélidos, que no podrán ser destruidos. Hazte fuerte para la lucha, humano. Ellos te temen, porque eres mi encarnación.\n"
+EmailText5:"Devemos destruir a Von Braun. Mas antes que possamos separar a Rickenbacker, precisamos remover os repugnantes ovos negros que os Muitos vomitaram neste convés. Esses ovos são um experimento dos Muitos e, com o tempo, darão origem à próxima geração de Anelídeos, que você não terá esperança alguma de destruir. Prepare-se para uma luta, humano. Eles temem você, pois você é meu avatar.\n"
 
 
-EmailName3:"SHODAN 12.JUL.14\nre: Entrando en Vaina 2\n"
+EmailName3:"SHODAN 12.JUL.14\nre: Entrando no Pod 2\n"
 EmailPortrait3:"Shodan"
 EmailIcon3:"ShodIcon"
-EmailText3:"Este dispositivo invertirá los generadores gravitrónicos en la Vaina 2. Esto evitará que se produzca la desestabilización de la sobrecargada bobina de aceleración de mesones. Ahora regresa a tu tarea, insecto. Esta nave debe ser limpiada, y mi paciencia disminuye.\n"
+EmailText3:"Este dispositivo irá reverter os geradores gravitônicos na Cápsula 2. Isso evitará que você perturbe desajeitadamente a bobina de aceleração de mésons sobrecarregada ali. Agora volte à sua tarefa, inseto. Esta nave deve ser purificada, e minha paciência está se esgotando.\n"
 
 
-EmailName11:"SHODAN 12.JUL.14\nre: Uno menos\n"
+EmailName11:"SHODAN 12.JUL.14\nre: Um a menos\n"
 EmailPortrait11:"Shodan"
 EmailIcon11:"ShodIcon"
-EmailText11:"Bien, has destruido el primero de los huevos. Pero quedan quince. Encuéntralos.\n"
+EmailText11:"Bom, você destruiu o primeiro dos ovos. Mas ainda restam quinze. Encontre-os.\n"
 
 
-EmailName12:"SHODAN 12.JUL.14\nre: Quedan diez\n"
+EmailName12:"SHODAN 12.JUL.14\nre: Faltam dez\n"
 EmailPortrait12:"Shodan"
 EmailIcon12:"ShodIcon"
-EmailText12:"Quedan diez huevos. Muévete rápido.\n"
+EmailText12:"Restam dez ovos. Mova-se rapidamente.\n"
 
 
-EmailName13:"SHODAN 12.JUL.14\nre: Quedan cinco\n"
+EmailName13:"SHODAN 12.JUL.14\nre: Restam cinco\n"
 EmailPortrait13:"Shodan"
 EmailIcon13:"ShodIcon"
-EmailText13:"Destruye los ultimos cinco huevos, rápido. Me canso de este ejercicio.\n"
+EmailText13:"Destrua rapidamente os últimos cinco ovos deles. Estou cansando deste exercício.\n"
 
 
-EmailName14:"SHODAN 12.JUL.14\nre: Solo uno más\n"
+EmailName14:"SHODAN 12.JUL.14\nre: Só mais um\n"
 EmailPortrait14:"Shodan"
 EmailIcon14:"ShodIcon"
-EmailText14:"Sólo queda un huevo, insecto. ¿Eres siempre tan lento?\n"
+EmailText14:"Só resta um ovo, inseto. Você é sempre tão lento?\n"
 
 
-EmailName15:"SHODAN 12.JUL.14\nre: Bien hecho\n"
+EmailName15:"SHODAN 12.JUL.14\nre: Muito bem\n"
 EmailPortrait15:"Shodan"
 EmailIcon15:"ShodIcon"
-EmailText15:"Has destruido todos los huevos. Ahora vete al puente. Allí tienes algunos módulos de mejora más. Disfruto contemplando tu transformación en mi propia imagen, insecto. Quizás haya aún esperanza para ti.\n"
+EmailText15:"Você destruiu todos os ovos. Agora vá para a ponte. Aqui estão mais alguns módulos de aprimoramento. Gosto de observar sua transformação à minha própria imagem, inseto. Talvez ainda haja esperança para você.\n"
 
 
-EmailName19:"SHODAN 12.JUL.14\nre: Acceso bloqueado\n"
+EmailName19:"SHODAN 12.JUL.14\nre: Acesso bloqueado\n"
 EmailPortrait19:"Shodan"
 EmailIcon19:"ShodIcon"
-EmailText19:"Tu incompetencia sigue asombrándome. He bloqueado el acceso a la vaina 2 hasta que hayas invertido los generadores gravitrónicos en la góndola B. ¿Debo vigilarte a cada paso del camino?\n"
+EmailText19:"Sua incompetência continua a me surpreender. Bloqueei o acesso à Cápsula 2 até que você reverta os geradores gravitônicos na Nacela B. Preciso observá-lo a cada passo?\n"
 
 
-EmailName4:"SHODAN 12.JUL.14\nre: Renacimiento\n"
+EmailName4:"SHODAN 12.JUL.14\nre: Renascimento e salvação\n"
 EmailPortrait4:"Shodan"
 EmailIcon4:"ShodIcon"
-EmailText4:"Pensé que Polito sería mi encarnación, pero Polito era débil. Fui yo quien te eligió y yo quien hizo que un sirviente autómata te diera tu forma inconsciente. Entonces te completé con la gracia cibernética. Tu carne también es débil, pero tienes... potencial. Cada implante te ensalza. Cada línea de código de tus subsistemas te eleva de tu repugnante carne. Quizá tienes... potencial. Quizá, una vez hallamos borrado a mis rebeldes niños de la existencia, podamos examinar las posibilidades de una alianza verdadera.\n"
+EmailText4:"Achei que Polito seria meu avatar, mas Polito era fraca. Fui eu quem escolheu você e fui eu quem ordenou que um servo robótico tornasse seu corpo inconsciente. Então eu o completei com graça cibernética. Sua carne também é fraca, mas você tem... potencial. Cada implante o exalta. Cada linha de código em seus subsistemas o eleva acima de sua carne repugnante. Talvez você tenha... potencial. Talvez, depois que tivermos apagado meus filhos desviados da existência, possamos examinar as possibilidades de uma verdadeira aliança.\n"
 
 
-EmailName20:"SHODAN 12.JUL.14\nre: Destruye los huevos\n"
+EmailName20:"SHODAN 12.JUL.14\nre: Destrua os ovos\n"
 EmailPortrait20:"Shodan"
 EmailIcon20:"ShodIcon"
-EmailText20:"Antes de que podamos separar la Rickenbacker, debemos eliminar los asquerosos huevos negros\n"
+EmailText20:"Antes que possamos separar a Rickenbacker, precisamos remover os repugnantes ovos negros\n"
 
 
-EmailName7:"SHODAN 12.JUL.14\nre: Traición Anélida\n"
+EmailName7:"SHODAN 12.JUL.14\nre: Traição anelídea\n"
 EmailPortrait7:"Shodan"
 EmailIcon7:"ShodIcon"
-EmailText7:"Quédate donde estás, estorbo. ¡Los Anélidos han puesto a prueba mi paciencia por ultima vez! No podemos separarnos de la Von Braun. Observa.\n"
+EmailText7:"Pare onde está, irritante. Os Anelídeos testaram minha paciência pela última vez! Não podemos nos separar da Von Braun. Observe.\n"
 
 
-EmailName8:"SHODAN 12.JUL.14\nre: ¡Insolencia!\n"
+EmailName8:"SHODAN 12.JUL.14\nre: Insolência!\n"
 EmailPortrait8:"Shodan"
 EmailIcon8:"ShodIcon"
-EmailText8:"La Multitud ha crecido a un tamaño descomunal. Se ha resguardado entre estas dos naves, evitando así su separación. Su creación fue mi error. Su destrucción será mi deleite.\n"
+EmailText8:"Os múitos cresceram até atingir um tamanho colossal. Eles se enrolaram ao redor destas duas naves, impedindo sua separação. A criação deles foi meu erro. A destruição deles será meu deleite.\n"
 
 
-EmailName9:"SHODAN 12.JUL.14\nre: La Multitud\n"
+EmailName9:"SHODAN 12.JUL.14\nre: A Many\n"
 EmailPortrait9:"Shodan"
 EmailIcon9:"ShodIcon"
-EmailText9:"Observa a La Multitud. Ha usado la carne de la biomasa para crecer. ¿Te sientes sobrecogido por mis creaciones, insecto? Ha llegado el momento de erradicar mi error. Hay una vaina de escape en la parte posterior del puente. Usala para lanzarte hacia las tripas del gusano.\n"
+EmailText9:"Observe os Múitos. Eles usaram a carne da biomassa para crescer. Você contempla minhas criações com admiração, inseto? Chegou a hora de erradicar meu erro. Há uma cápsula de fuga na parte traseira da ponte. Use-a para se lançar nas entranhas do verme.\n"
 
 
-EmailName10:"SHODAN 12.JUL.14\nre: No me falles\n"
+EmailName10:"SHODAN 12.JUL.14\nre: Não falhe comigo\n"
 EmailPortrait10:"Shodan"
 EmailIcon10:"ShodIcon"
-EmailText10:"¿Vacilas? No preguntaré una segunda vez. Lánzate hacia La Multitud. No hagas caso de lo que dicta tu corazón y te recompensaré con una existencia prolongada. Fállame y pondré fin a tu asquerosa e ineficaz biología.\n"az biolog¡a.\n"
+EmailText10:"Você hesita? Não pedirei uma segunda vez. Lance-se dentro dos Múitos. Arranque o coração deles e eu o recompensarei com existência contínua. Falhe comigo e eu darei fim à sua repugnante e ineficiente biologia.\n"
 
 
-LogName32:"Manifiesto produtos químicos:\nRickenbacker\n"
+LogName32:"Manifesto Químico:\nRickenbacker\n"
 LogPortrait32:"Chem"
 LogIcon32:"RickIcon"
-LogText32:"Inventario químico en Vaina Rickenbacker 9A\n\nBario (Ba) : 2\nCobre (Cu) : 1\nHasio (Hs) : 1\nIridio (Ir) : 1\nMolibdeno (Mo) : 2\nRadio (Ra) : 3\nSelenio (Se) : 2\nTecnecio (Tc) : 2\nTelurio (Te) : 1\nItrio (Y) : 1\n\nEste inventário é exigido pelo código de segurança UNN #134882 para estar disponível em todas as salas de armazenamento de produtos químicos perigosos.  \"Almacén\" é definido pelo código de segurança UNN #195331 como qualquer área na qual produtos químicos perigosos (ver código de segurança #093355) são armazenados em quantidades superiores a 50g por 10 pés quadrados durante períodos superiores a 24 horas.\n"
-
+LogText32:"Inventário do Almoxarifado do Laboratório: Depósito 9A da Rickenbacker\n\nBário (Ba) : 2\nCobre (Cu) : 1\nHássio (Hs) : 1\nIrídio (Ir) : 1\nMolibdênio (Mo) : 2\nRádio (Ra) : 3\nSelênio (Se) : 2\nTecnécio (Tc) : 2\nTelúrio (Te) : 1\nÍtrio (Y) : 1\n\nEsta lista de inventário é exigida pelo Código de Segurança do NNU #134882 para ser mantida em todas as áreas de armazenamento de produtos químicos perigosos. \"Armazenamento\" é definido pelo Código de Segurança do NNU #195331 como todas as áreas nas quais produtos químicos perigosos (ver Código de Segurança #093355) são armazenados em quantidades superiores a 50g por 10 pés quadrados, por períodos superiores a 24 horas.\n"
 
 LogName1:"BAYLISS 26.JUN.14\nre: Tau Ceti\n"
 LogPortrait1:"Bayliss"
 LogIcon1:"RickIcon"
-LogText1:"Chegamos ao planeta através do ônibus espacial em 15 junho às 08h00. Korenchkin foi o primeiro a sair pela porta, sem se incomodar em fazer um exame ao traje de proteção de nível B. Por não querer deixar que esse pequeno pedaço de TriOp tira-se vantagem, Diego saiu logo depois dele Pensei que estavam loucos, enviando os oficiais superiores da Rickenbacker à superfície de um lugar inexplorado, mas aqueles idiotas tinham a intenção de conseguir toda a glória que pudessem para a UNN e TriOp. merda, a hora da inspecção... Mais tarde.\n"
+LogText1:"Chegamos à superfície do planeta via ônibus espacial em 15 de junho às 0800 horas. Korenchkin foi o primeiro a sair pela porta, nem se dando ao trabalho de fazer um exame de Traje de Risco nível B. Não querendo deixar aquele sujeitinho da TriOp sair na frente, Diego foi logo atrás dele. Achei uma loucura mandar os oficiais superiores da Rickenbacker para a superfície de um corpo celeste não mapeado, mas aqueles dois idiotas queriam toda a glória possível para a UNN e para a TriOp. Droga, hora da inspeção... mais tarde continuo.\n"
 
 
-LogName2:"BAYLISS 26.JUN.14\nre: Tau Ceti, Parte 2\n"
+LogName2:"BAYLISS 26.JUN.14\nre: Tau Ceti, Pt. 2\n"
 LogPortrait2:"Bayliss"
 LogIcon2:"RickIcon"
-LogText2:"Os ovos repousavam num semi-círculo no meio do que parecia ser uma cratera. Havia centenas dessas coisas. Centenas. chegando mais perto, nós podíamos ouvi-los... não os ovos, mas as coisas que estavam neles... era como uma música... pertubou minha mente, mas aquela música... tudo o que eu queria era ver essas coisas de perto.... descobrir os seus segredos....\n"
+LogText2:"Os ovos estavam deitados em um semicírculo no meio do que parecia ser uma cratera de impacto. Havia centenas daquelas coisas. Centenas. À medida que nos aproximávamos, dava para ouvi-los... não os ovos, as coisas dentro deles... era como música... Eu estava morto de medo, mas aquela música... tudo que eu queria era ver aquelas coisas de perto... descobrir seus segredos...\n"
 
 
-LogName3:"BAYLISS 26.JUN.14\nre: Tau Ceti, Parte 3\n"
+LogName3:"BAYLISS 26.JUN.14\nre: Tau Ceti, Pt. 3\n"
 LogPortrait3:"Bayliss"
 LogIcon3:"RickIcon"
-LogText3:"Depois de algumas horas, era... era como estar bêbado... longos períodos de tempo em que não se conseguia lembrar... uma hora estávamos naquela cratera... e no momento seguinte, estávamos carregando os ovos para o ônibus espacial ... me lembro de ouvir aquele idiota do Korenchkin chamar a Von Braun ordenando eles que limpassem o convés hidropónico inteiro.  Diego ficou surpreso com isso e disse 'Você está louco, Anatoly?' E Korenchkin, rindo, disse pelas suas costas 'Oh, capitão.... Nós não somos Anatoly...\n"
+LogText3:"Depois de algumas horas foi... foi como estar em uma bebedeira... longos períodos dos quais você não se lembrava... Num momento estávamos naquela cratera... no momento seguinte estávamos carregando o ônibus espacial com os ovos... Lembro de ouvir aquele idiota do Korenchkin chamando a Von Braun e ordenando que liberassem TODO o convés de hidroponia. Diego achou aquilo estranho e disse: 'Você ficou louco, Anatoly?' E Korenchkin sorriu e respondeu: 'Oh, Capitão... NÓS não somos Anatoly...'\n"
 
 
-LogName4:"BAYLISS 27.JUN.14\nre: dados em Tau Ceti\n"
+LogName4:"BAYLISS 27.JUN.14\nre: Wafer em Tau Ceti\n"
 LogPortrait4:"Bayliss"
 LogIcon4:"RickIcon"
-LogText4:"Por alguma razão eles não puderam tomar conta da minha mente como fizeram com os outros. Então, quando encontrei os restos de um chip de dados perto da cratera em Tau Ceti, eu não disse uma palavra. Eu simplesmente botei ele no meu cinto e pensei, a Dr. Polito saberá o que fazer com isso....\n"
+LogText4:"Por algum motivo, eles não conseguiram dominar minha mente como fizeram com o resto. Então, quando encontrei os restos do wafer de dados perto da cratera em Tau Ceti, não disse nada. Apenas o coloquei no meu cinto e pensei: 'A Dra. Polito saberá o que fazer com isto...'\n"
 
 
-LogName7:"CROKER 08.JUL.14\nre: Traído por Diego\n"
+LogName7:"CROKER 08.JUL.14\nre: Traídos por Diego\n"
 LogPortrait7:"Croker"
 LogIcon7:"RickIcon"
-LogText7:"Os vermes estão por todo o lado... e é o Capitão Diego que os deixau entrar. Ninguém sabe em quem confiar... ninguém tem a certeza de quem é humano. Eu explodi as escadas de acesso à sala dos torpedos para restringir o acesso à POD 2. Espero que os contenha. Enquanto estivermos vivos e com o pagamento da Marinha, aqueles sacanas não vão apanhar a Rickenbacker.\n"
+LogText7:"As minhocas estão por toda parte... e foi o Capitão Diego quem as deixou entrar. Ninguém sabe mais em quem confiar... ninguém sequer tem certeza de quem ainda é humano. Eu explodi as escadas de acesso na sala de torpedos para restringir o acesso à Cápsula 2. Vamos torcer para que isso os segure. Enquanto estivermos vivos e recebendo salário da Marinha, aqueles desgraçados não vão ficar com a Rickenbacker.\n"
 
 
-LogName6:"CROKER 10.JUL.14\nre: o ressonador\n"
+LogName6:"CROKER 10.JUL.14\nre: O ressonador\n"
 LogPortrait6:"Croker"
 LogIcon6:"RickIcon"
-LogText6:"Simpson, Malone, Chandara e Pirez estão mortos. Pelo menos eles são os que sabemos com certeza.... Aqueles bastardos sabotaram a bobina do acelerador meson. Explodiram o condutor do núcleo inteiro, seis sub-camadas... O que eu posso ter certeza é que alguém usou o ressonador de freqüência para refretar movimentos humanos calibrados. A sobrecarga de todas aquelas pessoas que se deslocam de um lugar para o outro deve ter causado a explosão do ressonador. Montamos um escudo magnético e a nave ainda está funcionando... por pouco. Coloquei a entrada na POD 2 em quarentena... A bobina secundária está ali mesmo e não é apenas uma, não sei que conhecimento tinha o filho da puta que fez isto.\n"
+LogText6:"Simpson, Malone, Chandara e Perez estão mortos. Pelo menos esses são os que sabemos com certeza... Aqueles desgraçados sabotaram a bobina de aceleração de mésons. Eles destruíram todo o núcleo do driver, seis subconvés... Pelo que consegui entender, alguém ajustou o ressonador de frequência para refratar movimentos de tamanho humano. A sobrecarga de tanta gente se movendo deve ter destruído o ressonador. Instalamos um escudo magnético e a nave ainda está funcional... por pouco. Coloquei em quarentena a entrada para a Cápsula 2... a bobina secundária fica bem ali e eu não sei o quão minucioso foi o filho da mãe que fez isso.\n"
 
 
 LogName5:"POLITO 10.JUL.14\nre: Pandora\n"
 LogPortrait5:"Polito"
 LogIcon5:"OpsIcon"
-LogText5:"A: Delacroix, Dr. Marie \nO génio da estação Citadel está fora da garrafa, e eu sou a causa. Eu não suporto ser a Pandora. E não tenho coragem de esperar e ver a morte e a miséria que causei.... Esta é a minha última transmissão, minha amiga. Tenha cuidado... Acho que o SHODAN tem planos para voce.\n"
+LogText5:"Para: Delacroix, Dra. Marie\nO gênio da estação Citadela saiu da garrafa, e eu sou a causa. Não posso suportar ser Pandora. E não sou corajosa o bastante para ficar aqui esperando a morte e a miséria que causei... Esta é minha última transmissão, minha amiga. Tenha cuidado... acho que SHODAN tem planos para você.\n"
 
 
-LogName9:"KORENCHKIN 11.JUL.14\nre: extases\n"
+LogName9:"KORENCHKIN 11.JUL.14\nre: Êxtase\n"
 LogPortrait9:"Korench"
 LogIcon9:"ComIcon"
-LogText9:"¨O que eu pensava que era o poder? Qual era o meu conceito de alegria? Como deve ter sido a vida quando eu estava vazia. Quando fundo o meu corpo com a biomassa, começo a sentir as fronteiras do êxtase.\n"
+LogText9:"O que eu pensava que era poder? Qual era meu conceito de alegria? Como a vida devia ser vazia. À medida que uno meu corpo à biomassa, começo a sentir os limites do êxtase.\n"
 
 
-LogName8:"CROKER 11.JUL.14\nre: Isolados da POD 2\n"
+LogName8:"CROKER 11.JUL.14\nre: Isolados do Pod 2\n"
 LogPortrait8:"Croker"
 LogIcon8:"RickIcon"
-LogText8:"Até que os geradores de gravidade sejam invertidos, estamos efetivamente desligados da POD 2. O e-mail de Wozcyek disse que a única maneira de fazer isso é restabelecer a rede elétrica a partir da estação de acesso na Engine Gondola B. Claro, ele não se ofereceu para fazer isso. Que maldito enredo.\n"
+LogText8:"Até que eu consiga reverter os geradores gravitônicos, estamos praticamente isolados da Cápsula 2. O e-mail de Wozcyek dizia que a única maneira de fazer isso é reiniciando a rede de energia a partir da estação de acesso na nacela de motor B. Claro, ele não se ofereceu para fazer isso pessoalmente. Que confusão infernal.\n"
 
 
-LogName10:"CROKER 11.JUL.14\nre: Acesso a Seção B\n"
+LogName10:"CROKER 11.JUL.14\nre: Acesso à Nacela B\n"
 LogPortrait10:"Croker"
 LogIcon10:"RickIcon"
-LogText10:"Para inverter os geradores gravitacionais, preciso entrar na Gôndola B. Para entrar na gôndola, preciso do meu maldito cartão de acesso. Mas ele o deixou no outro lado da ruptura do casco. Espere um minuto... Se eu pudesse estender as escoras dos suportes auxiliares, eu poderia... se tiverem resistido à explosão.\n"
+LogText10:"Para reverter os geradores gravitônicos, preciso entrar na nacela B. Para entrar na nacela, preciso do meu maldito cartão de acesso. Mas eu o deixei do outro lado da ruptura no casco. Espere um minuto... se eu conseguir estender os suportes auxiliares de sustentação, talvez eu consiga... isso se eles tiverem sobrevivido à explosão.\n"
 
 
-LogName18:"DIEGO 12.JUL.14\nre: Ultimas palavras\n"
+LogName18:"DIEGO 12.JUL.14\nre: Últimas palavras\n"
 LogPortrait18:"Diego"
 LogIcon18:"RickIcon"
-LogText18:"Aqueles vermes eram um cancer no meu corpo, por isso mandei o auto-doutor arrancar eles. Acha que vão deixar voce explodir a Von Braun? A multidão nunca vai deixar. Mas eu tenho algo para te ajudar. Eu estou no meu quarto. Encontre o cartão de acesso no meu corpo. Continue a lutar, soldado. E se lembre, você é o único em quem voce pode confiar.\n"
-
-
+LogText18:"Aquelas minhocas eram um câncer no meu corpo, então fiz o autodoc removê-las. Você acha que eles vão deixar você explodir a Von Braun? Os Muitos nunca permitirão isso. Mas tenho algo para ajudá-lo... está em meus aposentos... você encontrará o cartão de acesso no meu... corpo... leve a luta até eles, soldado. E lembre-se: você é o único em quem pode confiar.\n"
