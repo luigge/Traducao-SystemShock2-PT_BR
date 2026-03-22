@@ -157,7 +157,7 @@ Revisão da maioria dos arquivos da pasta strings.
 * Adição e tradução de várias imagens em alta resolução do projeto SHTUP ND
 * Tradução da maioria das imagens da interface
 
-* **V2.5:**
+**V2.5: (2026)**
 
 * Trduzido o resto dos arquivos, portanto o jogo está 100% traduzido.
 * Traduzido mais alguns arquivos de imagem.
