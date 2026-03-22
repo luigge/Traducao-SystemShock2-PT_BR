@@ -149,14 +149,19 @@ Revisão da maioria dos arquivos da pasta strings.
 * Revisão dos arquivos `RSRCHTXT.STR`, `RESEARCH.STR`, `OBJSHORT.STR`, `OBJNAME.STR`, `JARGON.STR`, `INFOCOMP.STR`, `HUDUSE.STR` para padronizar os nomes dos itens e objetos em geral.
 * Adição dos arquivos de imagem `infoscrn.pcx` Terminal de informações da TriOptmum e `secscrn.pcx` sistema de controle de segurança. estes dois painéis no jogo agora estão em alta resolução e traduzidos em português.
 
-**O que falta traduzir:**
-* Revisar os arquivos `LEVEL01.STR` ao `LEVEL09.STR`
-* Após, revisar todos os arquivos de novo para procurar por erros e iniciar a tradução das imagens.
-
-**V2.4**
+**V2.4:**
 
 * Revisão nos arquivos de legenda `vtriggers.sub`, `vbriefs.sub`, `cutscenes.sub`
 * Revisão nos arquivos `usemsg.str`, `traits.str`, `stathelp.str`, `skilhelp.str`, `savename.str`
 * Revisão do arquivo `level01.str`
 * Adição e tradução de várias imagens em alta resolução do projeto SHTUP ND
 * Tradução da maioria das imagens da interface
+
+* **V2.5:**
+
+* Trduzido o resto dos arquivos, portanto o jogo está 100% traduzido.
+* Traduzido mais alguns arquivos de imagem.
+
+**O que falta traduzir:**
+* Revisar os arquivos de texto para manter consistência de algumas palavras.
+* traduzir o resto dos arquivos de imagem
